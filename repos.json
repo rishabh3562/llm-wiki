@@ -1,1 +1,417 @@
-[{"name": "toolbox", "local_path": "/repos/toolbox"}]
+[
+  {
+    "name": "Agentic-chatbot-me",
+    "local_path": "/repos/Agentic-chatbot-me",
+    "html_url": "https://github.com/rishabh3562/Agentic-chatbot-me"
+  },
+  {
+    "name": "agents-ed",
+    "local_path": "/repos/agents-ed",
+    "html_url": "https://github.com/rishabh3562/agents-ed"
+  },
+  {
+    "name": "AniNotion",
+    "local_path": "/repos/AniNotion",
+    "html_url": "https://github.com/rishabh3562/AniNotion"
+  },
+  {
+    "name": "BACKEND-INTERN---ASSIGNMENT",
+    "local_path": "/repos/BACKEND-INTERN---ASSIGNMENT",
+    "html_url": "https://github.com/rishabh3562/BACKEND-INTERN---ASSIGNMENT"
+  },
+  {
+    "name": "blog-backend-tut-js",
+    "local_path": "/repos/blog-backend-tut-js",
+    "html_url": "https://github.com/rishabh3562/blog-backend-tut-js"
+  },
+  {
+    "name": "Blog-Web-App",
+    "local_path": "/repos/Blog-Web-App",
+    "html_url": "https://github.com/rishabh3562/Blog-Web-App"
+  },
+  {
+    "name": "BotHive",
+    "local_path": "/repos/BotHive",
+    "html_url": "https://github.com/rishabh3562/BotHive"
+  },
+  {
+    "name": "c-hash-cafeteria-management-system",
+    "local_path": "/repos/c-hash-cafeteria-management-system",
+    "html_url": "https://github.com/rishabh3562/c-hash-cafeteria-management-system"
+  },
+  {
+    "name": "Calculator-project",
+    "local_path": "/repos/Calculator-project",
+    "html_url": "https://github.com/rishabh3562/Calculator-project"
+  },
+  {
+    "name": "chatapp-yt-microservices",
+    "local_path": "/repos/chatapp-yt-microservices",
+    "html_url": "https://github.com/rishabh3562/chatapp-yt-microservices"
+  },
+  {
+    "name": "CodeLenz",
+    "local_path": "/repos/CodeLenz",
+    "html_url": "https://github.com/rishabh3562/CodeLenz"
+  },
+  {
+    "name": "CodeNote",
+    "local_path": "/repos/CodeNote",
+    "html_url": "https://github.com/rishabh3562/CodeNote"
+  },
+  {
+    "name": "Codenote-ai",
+    "local_path": "/repos/Codenote-ai",
+    "html_url": "https://github.com/rishabh3562/Codenote-ai"
+  },
+  {
+    "name": "CodeVault",
+    "local_path": "/repos/CodeVault",
+    "html_url": "https://github.com/rishabh3562/CodeVault"
+  },
+  {
+    "name": "collab-tool",
+    "local_path": "/repos/collab-tool",
+    "html_url": "https://github.com/rishabh3562/collab-tool"
+  },
+  {
+    "name": "college-data-pipeline",
+    "local_path": "/repos/college-data-pipeline",
+    "html_url": "https://github.com/rishabh3562/college-data-pipeline"
+  },
+  {
+    "name": "college-shodh-nextjs",
+    "local_path": "/repos/college-shodh-nextjs",
+    "html_url": "https://github.com/rishabh3562/college-shodh-nextjs"
+  },
+  {
+    "name": "CommitIQ",
+    "local_path": "/repos/CommitIQ",
+    "html_url": "https://github.com/rishabh3562/CommitIQ"
+  },
+  {
+    "name": "commitiq-langsmith",
+    "local_path": "/repos/commitiq-langsmith",
+    "html_url": "https://github.com/rishabh3562/commitiq-langsmith"
+  },
+  {
+    "name": "content-generation-prompts",
+    "local_path": "/repos/content-generation-prompts",
+    "html_url": "https://github.com/rishabh3562/content-generation-prompts"
+  },
+  {
+    "name": "cooked-brain",
+    "local_path": "/repos/cooked-brain",
+    "html_url": "https://github.com/rishabh3562/cooked-brain"
+  },
+  {
+    "name": "Covid19-Tracker",
+    "local_path": "/repos/Covid19-Tracker",
+    "html_url": "https://github.com/rishabh3562/Covid19-Tracker"
+  },
+  {
+    "name": "Crypto-App-Frontend",
+    "local_path": "/repos/Crypto-App-Frontend",
+    "html_url": "https://github.com/rishabh3562/Crypto-App-Frontend"
+  },
+  {
+    "name": "DA",
+    "local_path": "/repos/DA",
+    "html_url": "https://github.com/rishabh3562/DA"
+  },
+  {
+    "name": "DevOrbit",
+    "local_path": "/repos/DevOrbit",
+    "html_url": "https://github.com/rishabh3562/DevOrbit"
+  },
+  {
+    "name": "Devr.AI",
+    "local_path": "/repos/Devr.AI",
+    "html_url": "https://github.com/rishabh3562/Devr.AI"
+  },
+  {
+    "name": "Disease-Prediction",
+    "local_path": "/repos/Disease-Prediction",
+    "html_url": "https://github.com/rishabh3562/Disease-Prediction"
+  },
+  {
+    "name": "dotent-c-hash-practice",
+    "local_path": "/repos/dotent-c-hash-practice",
+    "html_url": "https://github.com/rishabh3562/dotent-c-hash-practice"
+  },
+  {
+    "name": "E-Comm-MERN",
+    "local_path": "/repos/E-Comm-MERN",
+    "html_url": "https://github.com/rishabh3562/E-Comm-MERN"
+  },
+  {
+    "name": "EduSolve",
+    "local_path": "/repos/EduSolve",
+    "html_url": "https://github.com/rishabh3562/EduSolve"
+  },
+  {
+    "name": "exercism",
+    "local_path": "/repos/exercism",
+    "html_url": "https://github.com/rishabh3562/exercism"
+  },
+  {
+    "name": "fika-ai-engineering-insights-bot",
+    "local_path": "/repos/fika-ai-engineering-insights-bot",
+    "html_url": "https://github.com/rishabh3562/fika-ai-engineering-insights-bot"
+  },
+  {
+    "name": "first-contribution-guide",
+    "local_path": "/repos/first-contribution-guide",
+    "html_url": "https://github.com/rishabh3562/first-contribution-guide"
+  },
+  {
+    "name": "first-contributions",
+    "local_path": "/repos/first-contributions",
+    "html_url": "https://github.com/rishabh3562/first-contributions"
+  },
+  {
+    "name": "flask-crud",
+    "local_path": "/repos/flask-crud",
+    "html_url": "https://github.com/rishabh3562/flask-crud"
+  },
+  {
+    "name": "forage-jpmc-swe-task-1",
+    "local_path": "/repos/forage-jpmc-swe-task-1",
+    "html_url": "https://github.com/rishabh3562/forage-jpmc-swe-task-1"
+  },
+  {
+    "name": "g1-backend-tut",
+    "local_path": "/repos/g1-backend-tut",
+    "html_url": "https://github.com/rishabh3562/g1-backend-tut"
+  },
+  {
+    "name": "g2-backend-tut",
+    "local_path": "/repos/g2-backend-tut",
+    "html_url": "https://github.com/rishabh3562/g2-backend-tut"
+  },
+  {
+    "name": "g3-backend-tut",
+    "local_path": "/repos/g3-backend-tut",
+    "html_url": "https://github.com/rishabh3562/g3-backend-tut"
+  },
+  {
+    "name": "g4-backend-tut",
+    "local_path": "/repos/g4-backend-tut",
+    "html_url": "https://github.com/rishabh3562/g4-backend-tut"
+  },
+  {
+    "name": "gemagent-sdk",
+    "local_path": "/repos/gemagent-sdk",
+    "html_url": "https://github.com/rishabh3562/gemagent-sdk"
+  },
+  {
+    "name": "GitMind",
+    "local_path": "/repos/GitMind",
+    "html_url": "https://github.com/rishabh3562/GitMind"
+  },
+  {
+    "name": "hackathon-starter",
+    "local_path": "/repos/hackathon-starter",
+    "html_url": "https://github.com/rishabh3562/hackathon-starter"
+  },
+  {
+    "name": "House-prediction-linear-reg",
+    "local_path": "/repos/House-prediction-linear-reg",
+    "html_url": "https://github.com/rishabh3562/House-prediction-linear-reg"
+  },
+  {
+    "name": "IPL-Analysis",
+    "local_path": "/repos/IPL-Analysis",
+    "html_url": "https://github.com/rishabh3562/IPL-Analysis"
+  },
+  {
+    "name": "Knowledger",
+    "local_path": "/repos/Knowledger",
+    "html_url": "https://github.com/rishabh3562/Knowledger"
+  },
+  {
+    "name": "llm-wiki",
+    "local_path": "/repos/llm-wiki",
+    "html_url": "https://github.com/rishabh3562/llm-wiki"
+  },
+  {
+    "name": "me-college-shodh-admin-react",
+    "local_path": "/repos/me-college-shodh-admin-react",
+    "html_url": "https://github.com/rishabh3562/me-college-shodh-admin-react"
+  },
+  {
+    "name": "medicine-recommendation",
+    "local_path": "/repos/medicine-recommendation",
+    "html_url": "https://github.com/rishabh3562/medicine-recommendation"
+  },
+  {
+    "name": "meteor",
+    "local_path": "/repos/meteor",
+    "html_url": "https://github.com/rishabh3562/meteor"
+  },
+  {
+    "name": "microservice-uber-js",
+    "local_path": "/repos/microservice-uber-js",
+    "html_url": "https://github.com/rishabh3562/microservice-uber-js"
+  },
+  {
+    "name": "oneStream",
+    "local_path": "/repos/oneStream",
+    "html_url": "https://github.com/rishabh3562/oneStream"
+  },
+  {
+    "name": "open-agent-builder",
+    "local_path": "/repos/open-agent-builder",
+    "html_url": "https://github.com/rishabh3562/open-agent-builder"
+  },
+  {
+    "name": "palantir-feedback-loop",
+    "local_path": "/repos/palantir-feedback-loop",
+    "html_url": "https://github.com/rishabh3562/palantir-feedback-loop"
+  },
+  {
+    "name": "ParsePro-AI",
+    "local_path": "/repos/ParsePro-AI",
+    "html_url": "https://github.com/rishabh3562/ParsePro-AI"
+  },
+  {
+    "name": "PictoPy",
+    "local_path": "/repos/PictoPy",
+    "html_url": "https://github.com/rishabh3562/PictoPy"
+  },
+  {
+    "name": "PocketFlow-Tutorial-Codebase-Knowledge",
+    "local_path": "/repos/PocketFlow-Tutorial-Codebase-Knowledge",
+    "html_url": "https://github.com/rishabh3562/PocketFlow-Tutorial-Codebase-Knowledge"
+  },
+  {
+    "name": "profile-readme-templates",
+    "local_path": "/repos/profile-readme-templates",
+    "html_url": "https://github.com/rishabh3562/profile-readme-templates"
+  },
+  {
+    "name": "prompt-forge",
+    "local_path": "/repos/prompt-forge",
+    "html_url": "https://github.com/rishabh3562/prompt-forge"
+  },
+  {
+    "name": "PromptOps",
+    "local_path": "/repos/PromptOps",
+    "html_url": "https://github.com/rishabh3562/PromptOps"
+  },
+  {
+    "name": "promptops-operator",
+    "local_path": "/repos/promptops-operator",
+    "html_url": "https://github.com/rishabh3562/promptops-operator"
+  },
+  {
+    "name": "Quickart",
+    "local_path": "/repos/Quickart",
+    "html_url": "https://github.com/rishabh3562/Quickart"
+  },
+  {
+    "name": "RBAC-MERN",
+    "local_path": "/repos/RBAC-MERN",
+    "html_url": "https://github.com/rishabh3562/RBAC-MERN"
+  },
+  {
+    "name": "React-the-long-wayyy",
+    "local_path": "/repos/React-the-long-wayyy",
+    "html_url": "https://github.com/rishabh3562/React-the-long-wayyy"
+  },
+  {
+    "name": "react-tut",
+    "local_path": "/repos/react-tut",
+    "html_url": "https://github.com/rishabh3562/react-tut"
+  },
+  {
+    "name": "rishabh3562",
+    "local_path": "/repos/rishabh3562",
+    "html_url": "https://github.com/rishabh3562/rishabh3562"
+  },
+  {
+    "name": "rough",
+    "local_path": "/repos/rough",
+    "html_url": "https://github.com/rishabh3562/rough"
+  },
+  {
+    "name": "Sample-Backend",
+    "local_path": "/repos/Sample-Backend",
+    "html_url": "https://github.com/rishabh3562/Sample-Backend"
+  },
+  {
+    "name": "sentiment-analysis-chatbot-js",
+    "local_path": "/repos/sentiment-analysis-chatbot-js",
+    "html_url": "https://github.com/rishabh3562/sentiment-analysis-chatbot-js"
+  },
+  {
+    "name": "sentiment-analysis-chatbot-python",
+    "local_path": "/repos/sentiment-analysis-chatbot-python",
+    "html_url": "https://github.com/rishabh3562/sentiment-analysis-chatbot-python"
+  },
+  {
+    "name": "Sentiment-analyzer",
+    "local_path": "/repos/Sentiment-analyzer",
+    "html_url": "https://github.com/rishabh3562/Sentiment-analyzer"
+  },
+  {
+    "name": "Shortly",
+    "local_path": "/repos/Shortly",
+    "html_url": "https://github.com/rishabh3562/Shortly"
+  },
+  {
+    "name": "Skai-Lama-FTE",
+    "local_path": "/repos/Skai-Lama-FTE",
+    "html_url": "https://github.com/rishabh3562/Skai-Lama-FTE"
+  },
+  {
+    "name": "Spotify-Clone",
+    "local_path": "/repos/Spotify-Clone",
+    "html_url": "https://github.com/rishabh3562/Spotify-Clone"
+  },
+  {
+    "name": "StreamSync",
+    "local_path": "/repos/StreamSync",
+    "html_url": "https://github.com/rishabh3562/StreamSync"
+  },
+  {
+    "name": "ToDo",
+    "local_path": "/repos/ToDo",
+    "html_url": "https://github.com/rishabh3562/ToDo"
+  },
+  {
+    "name": "ToolBox",
+    "local_path": "/repos/ToolBox",
+    "html_url": "https://github.com/rishabh3562/ToolBox"
+  },
+  {
+    "name": "topmate-site-webdev-consulation-",
+    "local_path": "/repos/topmate-site-webdev-consulation-",
+    "html_url": "https://github.com/rishabh3562/topmate-site-webdev-consulation-"
+  },
+  {
+    "name": "UniHub",
+    "local_path": "/repos/UniHub",
+    "html_url": "https://github.com/rishabh3562/UniHub"
+  },
+  {
+    "name": "Url-Shortener-Backend",
+    "local_path": "/repos/Url-Shortener-Backend",
+    "html_url": "https://github.com/rishabh3562/Url-Shortener-Backend"
+  },
+  {
+    "name": "vector-shift-yc-assignment",
+    "local_path": "/repos/vector-shift-yc-assignment",
+    "html_url": "https://github.com/rishabh3562/vector-shift-yc-assignment"
+  },
+  {
+    "name": "volt-bnb",
+    "local_path": "/repos/volt-bnb",
+    "html_url": "https://github.com/rishabh3562/volt-bnb"
+  },
+  {
+    "name": "You-Write",
+    "local_path": "/repos/You-Write",
+    "html_url": "https://github.com/rishabh3562/You-Write"
+  }
+]
