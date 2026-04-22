@@ -1,0 +1,14 @@
+---
+repo: Blog-Web-App
+type: static_analysis
+commit: 77c923482627d9eab2983e1bc8844797b91556d6
+date: 2026-04-22
+tags: [Blog-Web-App, static_analysis]
+related: [[Blog-Web-App-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 1244515 Apr 22 21:25 ./package-lock.json\n-rw-r--r-- 1 root root   37898 Apr 22 21:25 ./src/assets/images/minato.webp\n-rw-r--r-- 1 root root   11037 Apr 22 21:25 ./src/assets/data/data.js\n-rw-r--r-- 1 root root    7648 Apr 22 21:25 ./src/assets/images/signUp.svg\n-rw-r--r-- 1 root root    7612 Apr 22 21:25 ./src/Components/singlePost/SinglePost.jsx\n-rw-r--r-- 1 root root    6645 Apr 22 21:25 ./src/pages/settings/Settings.jsx\n-rw-r--r-- 1 root root    6436 Apr 22 21:25 ./src/Components/post/Post.jsx\n-rw-r--r-- 1 root root    6390 Apr 22 21:25 ./src/Components/SettingsPost/SettingPost.jsx\n-rw-r--r-- 1 root root    5897 Apr 22 21:25 ./src/Components/topBar/Topbar.jsx\n-rw-r--r-- 1 root root    5780 Apr 22 21:25 ./src/Components/SettingsPost/SettingPost.css\n-rw-r--r-- 1 root root    5291 Apr 22 21:25 ./src/Components/post/Post.css\n-rw-r--r-- 1 root root    4933 Apr 22 21:25 ./backend/routes/posts.js\n-rw-r--r-- 1 root root    4878 Apr 22 21:25 ./src/Components/topBar/Topbar.css\n-rw-r--r-- 1 root root    4784 Apr 22 21:25 ./src/Components/comment/Comments.jsx\n-rw-r--r-- 1 root root    4103 Apr 22 21:25 ./backend/routes/comments.js\n-rw-r--r-- 1 root root    3894 Apr 22 21:25 ./src/pages/settings/Settings.css\n-rw-r--r-- 1 root root    3876 Apr 22 21:25 ./src/Components/modal/Modal.jsx\n-rw-r--r-- 1 root root    3870 Apr 22 21:25 ./public/favicon.ico\n-rw-r--r-- 1 root root    3440 Apr 22 21:25 ./backend/routes/users.js\n-rw-r--r-- 1 root root    3260 Apr 22 21:25 ./src/pages/login/Login.jsx\n",
+  "high_churn_files": "      8 \n      7 .gitignore\n      2 backend/package-lock.json\n      2 backend/node_modules/xtend/test.js\n      2 backend/node_modules/xtend/package.json\n      2 backend/node_modules/xtend/mutable.js\n      2 backend/node_modules/xtend/immutable.js\n      2 backend/node_modules/xtend/README.md\n      2 backend/node_modules/xtend/LICENSE\n      2 backend/node_modules/xtend/.jshintrc\n      2 backend/node_modules/whatwg-url/webidl2js-wrapper.js\n      2 backend/node_modules/whatwg-url/package.json\n      2 backend/node_modules/whatwg-url/lib/utils.js\n      2 backend/node_modules/whatwg-url/lib/urlencoded.js\n      2 backend/node_modules/whatwg-url/lib/url-state-machine.js\n      2 backend/node_modules/whatwg-url/lib/percent-encoding.js\n      2 backend/node_modules/whatwg-url/lib/infra.js\n      2 backend/node_modules/whatwg-url/lib/encoding.js\n      2 backend/node_modules/whatwg-url/lib/VoidFunction.js\n      2 backend/node_modules/whatwg-url/lib/URLSearchParams.js\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
