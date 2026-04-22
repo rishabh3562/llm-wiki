@@ -1,0 +1,14 @@
+---
+repo: AniNotion
+type: static_analysis
+commit: 3ffe94571b286e863ea0549e51fe60b4f483d9e3
+date: 2026-04-22
+tags: [AniNotion, static_analysis]
+related: [[AniNotion-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 130780 Apr 22 20:03 ./aninotion-frontend/package-lock.json\n-rw-r--r-- 1 root root 110266 Apr 22 20:03 ./aninotion-backend/package-lock.json\n-rw-r--r-- 1 root root  85182 Apr 22 20:03 ./aninotion-frontend/public/favicon.ico\n-rw-r--r-- 1 root root  68898 Apr 22 20:03 ./package-lock.json\n-rw-r--r-- 1 root root  36216 Apr 22 20:03 ./aninotion-frontend/src/pages/PostPage.jsx\n-rw-r--r-- 1 root root  35149 Apr 22 20:03 ./LICENSE\n-rw-r--r-- 1 root root  33958 Apr 22 20:03 ./aninotion-frontend/src/components/PostForm.jsx\n-rw-r--r-- 1 root root  30276 Apr 22 20:03 ./aninotion-backend/routes/posts.js\n-rw-r--r-- 1 root root  25711 Apr 22 20:03 ./aninotion-backend/scripts/sendDailyLogs.js\n-rw-r--r-- 1 root root  20598 Apr 22 20:03 ./aninotion-backend/routes/auth.js\n-rw-r--r-- 1 root root  18301 Apr 22 20:03 ./aninotion-frontend/src/services/api.js\n-rw-r--r-- 1 root root  17902 Apr 22 20:03 ./my-tool.js\n-rw-r--r-- 1 root root  16246 Apr 22 20:03 ./aninotion-backend/utils/migrationRunner.js\n-rw-r--r-- 1 root root  15930 Apr 22 20:03 ./aninotion-frontend/src/components/PostCard.jsx\n-rw-r--r-- 1 root root  15872 Apr 22 20:03 ./aninotion-backend/scripts/cli.js\n-rw-r--r-- 1 root root  15453 Apr 22 20:03 ./aninotion-frontend/src/pages/RawPage.jsx\n-rw-r--r-- 1 root root  15061 Apr 22 20:03 ./CONTRIBUTING.md\n-rw-r--r-- 1 root root  14982 Apr 22 20:03 ./aninotion-frontend/src/pages/AnimeInfoPage.jsx\n-rw-r--r-- 1 root root  13552 Apr 22 20:03 ./aninotion-backend/docs/OAUTH_COMPLETE_SUMMARY.md\n-rw-r--r-- 1 root root  13334 Apr 22 20:03 ./aninotion-backend/utils/backupSystem.js\n",
+  "high_churn_files": "    103 \n     14 aninotion-frontend/src/components/PostCard.jsx\n     13 aninotion-frontend/src/components/PostForm.jsx\n     13 aninotion-backend/routes/posts.js\n     12 aninotion-frontend/src/pages/Home.jsx\n     11 aninotion-frontend/src/services/api.js\n     11 aninotion-frontend/src/pages/PostPage.jsx\n     10 package.json\n     10 aninotion-frontend/src/components/Layout.jsx\n     10 aninotion-backend/server.js\n     10 aninotion-backend/package.json\n      9 aninotion-frontend/src/components/Sidebar.jsx\n      8 package-lock.json\n      8 aninotion-frontend/src/pages/CategoryPage.jsx\n      8 aninotion-frontend/src/App.jsx\n      8 aninotion-backend/package-lock.json\n      7 aninotion-backend/scripts/sendDailyLogs.js\n      5 aninotion-frontend/src/components/UserProfile.jsx\n      5 aninotion-backend/models/Post.js\n      5 aninotion-backend/middleware/logging.js\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
