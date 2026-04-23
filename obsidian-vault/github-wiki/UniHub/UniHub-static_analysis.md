@@ -1,0 +1,14 @@
+---
+repo: UniHub
+type: static_analysis
+commit: 41af8fa9d37bda61748a08ccef2acf06d3244029
+date: 2026-04-23
+tags: [UniHub, static_analysis]
+related: [[UniHub-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 1832055 Apr 23 12:16 ./src/App/Constants/userDp.svg\n-rw-r--r-- 1 root root  795295 Apr 23 12:16 ./package-lock.json\n-rw-r--r-- 1 root root  170076 Apr 23 12:16 ./public/favicon.ico\n-rw-r--r-- 1 root root   80886 Apr 23 12:16 ./readmeimages/meet_alums.jpg\n-rw-r--r-- 1 root root   71188 Apr 23 12:16 ./src/AppAdmin/StudentScreen/Components/alumni.png\n-rw-r--r-- 1 root root   71188 Apr 23 12:16 ./src/App/Constants/alumni.png\n-rw-r--r-- 1 root root   58544 Apr 23 12:16 ./readmeimages/referral_page.jpg\n-rw-r--r-- 1 root root   56003 Apr 23 12:16 ./readmeimages/Hero_page_unihub.jpg\n-rw-r--r-- 1 root root   39952 Apr 23 12:16 ./public/fonts/DTGetaiGroteskDisplay-Black.ttf\n-rw-r--r-- 1 root root   10508 Apr 23 12:16 ./public/fonts/Trap-Black.otf\n-rw-r--r-- 1 root root   10344 Apr 23 12:16 ./public/fonts/Trap-ExtraBold.otf\n-rw-r--r-- 1 root root   10308 Apr 23 12:16 ./public/fonts/Trap-Bold.otf\n-rw-r--r-- 1 root root   10148 Apr 23 12:16 ./public/fonts/Trap-SemiBold.otf\n-rw-r--r-- 1 root root   10080 Apr 23 12:16 ./public/fonts/Trap-Medium.otf\n-rw-r--r-- 1 root root   10076 Apr 23 12:16 ./public/fonts/Trap-Light.otf\n-rw-r--r-- 1 root root    9796 Apr 23 12:16 ./public/fonts/Trap-Regular.otf\n-rw-r--r-- 1 root root    9489 Apr 23 12:16 ./src/AppAdmin/RFMWs/components/ScheduleEventModal.js\n-rw-r--r-- 1 root root    9411 Apr 23 12:16 ./src/App/ScreenComponents/GalleryComponent/Gallery.js\n-rw-r--r-- 1 root root    8781 Apr 23 12:16 ./src/App/ScreenComponents/UserProfileComponent/Profile.js\n-rw-r--r-- 1 root root    8110 Apr 23 12:16 ./src/App/ScreenComponents/AlumnusComponent/ViewProfile.js\n",
+  "high_churn_files": "     11 \n      5 .gitignore\n      4 README.md\n      3 package.json\n      3 package-lock.json\n      2 src/App/Layout/Navbar.js\n      2 src/App/Config/Firebase/firebase-config.js\n      2 src/App/Config/Context/UserProvider.js\n      2 src/App.js\n      2 sample-main.txt\n      2 build/static/media/Trap-SemiBold.74d74ca45ac1912e20a3.otf\n      2 build/static/media/Trap-Regular.a4b62dc9e1a632cbbd62.otf\n      2 build/static/media/Trap-Medium.621b8e0b822153b4913a.otf\n      2 build/static/media/Trap-Light.37a6356e7279ae69017d.otf\n      2 build/static/media/Trap-ExtraBold.a697961981ac6dcb9d06.otf\n      2 build/static/media/Trap-Bold.9ccc120585004b89ecfd.otf\n      2 build/static/media/Trap-Black.c84772c55e71173a5a32.otf\n      2 build/static/media/DTGetaiGroteskDisplay-Black.cb10e0f5baf676afa06d.ttf\n      2 build/static/js/main.1bcbdbfd.js.map\n      2 build/static/js/main.1bcbdbfd.js.LICENSE.txt\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}

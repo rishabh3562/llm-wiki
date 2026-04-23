@@ -1,0 +1,32 @@
+---
+repo: UniHub
+type: index
+commit: 41af8fa9d37bda61748a08ccef2acf06d3244029
+date: 2026-04-23
+tags: [UniHub, index]
+---
+# UniHub — Index
+
+## What This Repo Is
+# Intent Recovery — UniHub
+
+## Timeline
+- First commit: 2024-04-16
+- Last commit: 2024-11-10
+- Total commits: 12
+
+## Full Commit Log
+
+618735c 2024-04-16 Initial commit (Rishabh Dubey)
+bce91d1 2024-04-21 v1 init (rishabh3562)
+00f52d3 2024-04-21 v1 env stable (rishabh3562)
+561de86 2024-04-21 env fix2 (rishabh3562)
+c4ba258 2024-04-22 build (rishabh3562)
+1643053 2024-04-22 Revert "build" (rishabh3562)
+
+## Notes
+- [[UniHub-intent_recovery|Intent & Archaeology]]
+- [[UniHub-architecture|Architecture]]
+- [[UniHub-patterns|Patterns]]
+- [[UniHub-improvements|Improvements]]
+- [[UniHub-self_portrait|Self Portrait]]
