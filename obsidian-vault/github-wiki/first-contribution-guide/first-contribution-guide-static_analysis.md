@@ -1,0 +1,14 @@
+---
+repo: first-contribution-guide
+type: static_analysis
+commit: 75986646d2cf5ac00a6e3cd781c65bf545a78b70
+date: 2026-04-23
+tags: [first-contribution-guide, static_analysis]
+related: [[first-contribution-guide-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 3289 Apr 23 12:31 ./guide/FAQ.md\n-rw-r--r-- 1 root root 2294 Apr 23 12:31 ./Readme.md\n-rw-r--r-- 1 root root  965 Apr 23 12:31 ./CODE_OF_CONDUCT.md\n-rw-r--r-- 1 root root  158 Apr 23 12:31 ./contributions/aryankumar_new_contribution.txt\n-rw-r--r-- 1 root root  116 Apr 23 12:31 ./contributions/aryankumar_2025-10-08.txt\n-rw-r--r-- 1 root root   78 Apr 23 12:31 ./contributions/aditya_2025_10_10.txt\n-rw-r--r-- 1 root root   75 Apr 23 12:31 ./contributions/rishabh_2025-10-09.txt\n-rw-r--r-- 1 root root   73 Apr 23 12:31 ./contributions/vishal_2025_`0_10.txt\n-rw-r--r-- 1 root root   70 Apr 23 12:31 ./contributions/kunal_2025_10_10.txt\n-rw-r--r-- 1 root root   67 Apr 23 12:31 ./contributions/jyotsana_2025_10_11.txt\n-rw-r--r-- 1 root root   55 Apr 23 12:31 ./contributions/aman_9.10.25.txt\n-rw-r--r-- 1 root root   54 Apr 23 12:31 ./contributions/yashwant_2025_10_09.txt\n-rw-r--r-- 1 root root   51 Apr 23 12:31 ./contributions/aditya_2025-10-09.txt\n-rw-r--r-- 1 root root   51 Apr 23 12:31 ./contributions/Simra-210803_09-10-25.txt\n-rw-r--r-- 1 root root   51 Apr 23 12:31 ./contributions/Kulsum1807_09-10-2025.txt\n-rw-r--r-- 1 root root   49 Apr 23 12:31 ./contributions/tiwari22123_09-10-25.txt\n-rw-r--r-- 1 root root   34 Apr 23 12:31 ./contributions/amaan_2025-10-09.txt\n-rw-r--r-- 1 root root   29 Apr 23 12:31 ./contributions/aymanakram_2025_10_09.txt\n-rw-r--r-- 1 root root   28 Apr 23 12:31 ./.gitignore\n-rw-r--r-- 1 root root    1 Apr 23 12:31 ./contributions/himanshu_new_contribution.txt\n",
+  "high_churn_files": "     39 \n      2 contributions/rishabh_2025-10-09.txt\n      2 contributions/aman_9.10.25.txt\n      2 contributions/FAQ.md\n      2 Readme.md\n      1 tiwari22123_09-10-25.txt\n      1 guide/FAQ.md\n      1 guide/.gitkeep\n      1 contributions/yashwant_2025_10_09.txt\n      1 contributions/vishal_2025_`0_10.txt\n      1 contributions/tiwari22123_09-10-25.txt\n      1 contributions/kunal_2025_10_10.txt\n      1 contributions/jyotsana_2025_10_11.txt\n      1 contributions/himanshu_new_contribution.txt\n      1 contributions/himanshu_2025-10-08.txt\n      1 contributions/aymanakram_2025_10_09.txt\n      1 contributions/aryankumar_new_contribution.txt\n      1 contributions/aryankumar_2025-10-08.txt\n      1 contributions/amaan_2025-10-09.txt\n      1 contributions/aditya_2025_10_10.txt\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
