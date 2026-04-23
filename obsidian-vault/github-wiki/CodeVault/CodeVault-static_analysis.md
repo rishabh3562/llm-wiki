@@ -1,0 +1,14 @@
+---
+repo: CodeVault
+type: static_analysis
+commit: 3dc765fb998cf73891592e3428be1e4dbd232ecc
+date: 2026-04-23
+tags: [CodeVault, static_analysis]
+related: [[CodeVault-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 120037 Apr 23 00:16 ./web/Neptechtribe/package-lock.json\n-rw-r--r-- 1 root root  11452 Apr 23 00:16 ./web/Neptechtribe/src/components/Navbar.jsx\n-rw-r--r-- 1 root root   5379 Apr 23 00:16 ./js/hacktoberfest2025/functions/functions-example.js\n-rw-r--r-- 1 root root   4292 Apr 23 00:16 ./web/Shapes/styles.css\n-rw-r--r-- 1 root root   4126 Apr 23 00:16 ./web/Neptechtribe/src/assets/react.svg\n-rw-r--r-- 1 root root   3028 Apr 23 00:16 ./web/Neptechtribe/src/assets/images/logo.png\n-rw-r--r-- 1 root root   2565 Apr 23 00:16 ./web/Shapes/index.html\n-rw-r--r-- 1 root root   2146 Apr 23 00:16 ./js/hacktoberfest2025/Arrays/array.js\n-rw-r--r-- 1 root root   2142 Apr 23 00:16 ./js/hacktoberfest2025/loops/loops-manipulation.js\n-rw-r--r-- 1 root root   1864 Apr 23 00:16 ./js/hacktoberfest2025/Arrays/array1.js\n-rw-r--r-- 1 root root   1731 Apr 23 00:16 ./web/Calculator/index.html\n-rw-r--r-- 1 root root   1497 Apr 23 00:16 ./web/Neptechtribe/public/vite.svg\n-rw-r--r-- 1 root root   1343 Apr 23 00:16 ./web/Calculator/style.css\n-rw-r--r-- 1 root root   1267 Apr 23 00:16 ./.github/workflows/contributors-list.yml\n-rw-r--r-- 1 root root   1258 Apr 23 00:16 ./js/hacktoberfest2025/functions/promises-example.js\n-rw-r--r-- 1 root root   1157 Apr 23 00:16 ./web/Neptechtribe/README.md\n-rw-r--r-- 1 root root    942 Apr 23 00:16 ./README.md\n-rw-r--r-- 1 root root    919 Apr 23 00:16 ./js/hacktoberfest2025/data-types.js\n-rw-r--r-- 1 root root    883 Apr 23 00:16 ./js/Sorting_Algorithm/BubbleSort.js\n-rw-r--r-- 1 root root    869 Apr 23 00:16 ./web/Calculator/script.js\n",
+  "high_churn_files": "     38 \n      6 CONTRIBUTORS.md\n      3 .github/workflows/contributors-list.yml\n      2 js/hello.js\n      2 js/hacktoberfest2025/welcome-msg.js\n      2 js/Sorting_Algorithm/BubbleSort.js\n      2 README.md\n      1 web/index.html\n      1 web/Shapes/styles.css\n      1 web/Shapes/index.html\n      1 web/Neptechtribe/vite.config.js\n      1 web/Neptechtribe/src/main.jsx\n      1 web/Neptechtribe/src/index.css\n      1 web/Neptechtribe/src/components/Navbar.jsx\n      1 web/Neptechtribe/src/assets/react.svg\n      1 web/Neptechtribe/src/assets/images/logo.png\n      1 web/Neptechtribe/src/App.jsx\n      1 web/Neptechtribe/src/App.css\n      1 web/Neptechtribe/public/vite.svg\n      1 web/Neptechtribe/package.json\n",
+  "complexity": "python/ASCII Art/main.py\n    F 25:0 main - A (3)\n    F 20:0 pixels_to_ascii - A (2)\n    F 11:0 resize_image - A (1)\n    F 17:0 grayify - A (1)\n\n4 blocks (classes, functions, methods) analyzed.\nAverage complexity: A (1.75)\n",
+  "dead_code": "N/A"
+}
