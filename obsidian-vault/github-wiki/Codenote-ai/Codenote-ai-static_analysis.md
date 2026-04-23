@@ -1,0 +1,14 @@
+---
+repo: Codenote-ai
+type: static_analysis
+commit: 597e764dfc1bae21dffc4c476fc987b721db0e9a
+date: 2026-04-23
+tags: [Codenote-ai, static_analysis]
+related: [[Codenote-ai-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 627119 Apr 23 00:22 ./frontend/package-lock.json\n-rw-r--r-- 1 root root 235667 Apr 23 00:22 ./backend/package-lock.json\n-rw-r--r-- 1 root root 104997 Apr 23 00:22 ./package-lock.json\n-rw-r--r-- 1 root root  18134 Apr 23 00:22 ./frontend/src/pages/user-analysis.tsx\n-rw-r--r-- 1 root root  13942 Apr 23 00:22 ./frontend/src/pages/settings.tsx\n-rw-r--r-- 1 root root  10987 Apr 23 00:22 ./frontend/src/pages/ai-insights.tsx\n-rw-r--r-- 1 root root   7954 Apr 23 00:22 ./frontend/src/pages/landing.tsx\n-rw-r--r-- 1 root root   7579 Apr 23 00:22 ./frontend/src/pages/stats.tsx\n-rw-r--r-- 1 root root   7232 Apr 23 00:22 ./frontend/src/pages/repository.tsx\n-rw-r--r-- 1 root root   7191 Apr 23 00:22 ./backend/src/services/github.service.js\n-rw-r--r-- 1 root root   6976 Apr 23 00:22 ./backend/src/controllers/user-analysis.controller.js\n-rw-r--r-- 1 root root   6951 Apr 23 00:22 ./frontend/src/components/repository/file-insights.tsx\n-rw-r--r-- 1 root root   5332 Apr 23 00:22 ./frontend/src/lib/auth.ts\n-rw-r--r-- 1 root root   5063 Apr 23 00:22 ./frontend/src/components/ui/navigation-menu.tsx\n-rw-r--r-- 1 root root   5050 Apr 23 00:22 ./frontend/src/pages/auth/signup.tsx\n-rw-r--r-- 1 root root   5033 Apr 23 00:22 ./frontend/src/components/layout/sidebar.tsx\n-rw-r--r-- 1 root root   4818 Apr 23 00:22 ./backend/src/controllers/auth.controller.js\n-rw-r--r-- 1 root root   4675 Apr 23 00:22 ./frontend/src/pages/dashboard.tsx\n-rw-r--r-- 1 root root   4545 Apr 23 00:22 ./frontend/src/pages/pull-requests.tsx\n-rw-r--r-- 1 root root   4449 Apr 23 00:22 ./frontend/src/components/ui/toast.tsx\n",
+  "high_churn_files": "     35 \n     16 frontend/src/lib/auth.ts\n     11 backend/src/middleware/cookie.js\n     11 backend/src/controllers/auth.controller.js\n      7 frontend/src/services/api/client.ts\n      7 frontend/src/App.tsx\n      6 backend/src/index.js\n      4 frontend/src/pages/landing.tsx\n      4 frontend/src/pages/auth/signup.tsx\n      4 frontend/src/components/layout/authenticated-layout.tsx\n      4 backend/src/routes/auth.routes.js\n      4 backend/package.json\n      4 backend/package-lock.json\n      3 frontend/vite.config.ts\n      3 frontend/src/services/api/user.ts\n      3 frontend/src/services/api/auth.ts\n      3 frontend/src/pages/user-analysis.tsx\n      3 frontend/src/pages/auth/login.tsx\n      3 frontend/src/lib/api/client.ts\n      3 frontend/src/components/layout/sidebar.tsx\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
