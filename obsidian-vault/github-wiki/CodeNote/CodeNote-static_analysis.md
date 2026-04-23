@@ -1,0 +1,14 @@
+---
+repo: CodeNote
+type: static_analysis
+commit: c6246db518344dc12ffb9a118e9c7fdce43fe7d7
+date: 2026-04-23
+tags: [CodeNote, static_analysis]
+related: [[CodeNote-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 302098 Apr 23 00:15 ./frontend/package-lock.json\n-rw-r--r-- 1 root root 174985 Apr 23 00:15 ./backend/package-lock.json\n-rw-r--r-- 1 root root  34522 Apr 23 00:15 ./LICENSE\n-rw-r--r-- 1 root root  12478 Apr 23 00:15 ./frontend/src/pages/Home.jsx\n-rw-r--r-- 1 root root  10385 Apr 23 00:15 ./backend/controllers/documentationController.js\n-rw-r--r-- 1 root root   9802 Apr 23 00:15 ./frontend/src/components/UserActivity.jsx\n-rw-r--r-- 1 root root   7739 Apr 23 00:15 ./frontend/src/pages/Documentation.jsx\n-rw-r--r-- 1 root root   4788 Apr 23 00:15 ./frontend/src/pages/PrivateGitHubRepoViewer.jsx\n-rw-r--r-- 1 root root   4732 Apr 23 00:15 ./frontend/src/pages/GtihubRepoViewer.jsx\n-rw-r--r-- 1 root root   4420 Apr 23 00:15 ./backend/controllers/userController.js\n-rw-r--r-- 1 root root   4126 Apr 23 00:15 ./frontend/src/assets/react.svg\n-rw-r--r-- 1 root root   4018 Apr 23 00:15 ./README.md\n-rw-r--r-- 1 root root   3718 Apr 23 00:15 ./frontend/src/pages/MarkDownEditor.jsx\n-rw-r--r-- 1 root root   3478 Apr 23 00:15 ./workflow_explanation.md\n-rw-r--r-- 1 root root   3387 Apr 23 00:15 ./frontend/src/pages/GenerateSingleReadme.jsx\n-rw-r--r-- 1 root root   3156 Apr 23 00:15 ./frontend/readme/finetune.md\n-rw-r--r-- 1 root root   2971 Apr 23 00:15 ./frontend/src/components/Documentation/FileExplorer.jsx\n-rw-r--r-- 1 root root   2941 Apr 23 00:15 ./frontend/src/pages/UserStats.jsx\n-rw-r--r-- 1 root root   2797 Apr 23 00:15 ./backend/controllers/llmController.js\n-rw-r--r-- 1 root root   2779 Apr 23 00:15 ./frontend/src/pages/GitHubViewer.jsx\n",
+  "high_churn_files": "     33 \n     10 frontend/src/App.jsx\n      9 frontend/package.json\n      9 backend/server.js\n      8 backend/routes/llmRoutes.js\n      7 frontend/src/pages/Home.jsx\n      7 frontend/package-lock.json\n      6 frontend/src/pages/GitHubRepoViewer.jsx\n      6 backend/package.json\n      6 backend/controllers/llmController.js\n      5 frontend/src/utils/constant.js\n      5 backend/utils/githubApi.js\n      5 backend/routes/projectRoutes.js\n      5 backend/routes/noteRoutes.js\n      5 backend/routes/githubRoutes.js\n      5 backend/package-lock.json\n      4 frontend/vite.config.js\n      4 frontend/src/pages/MarkDownEditor.jsx\n      4 frontend/src/pages/GtihubRepoViewer.jsx\n      4 commitlint.config.js\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
