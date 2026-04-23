@@ -1,0 +1,14 @@
+---
+repo: meteor
+type: static_analysis
+commit: 4b61fbf9b1e2364e0b6ab99fd67e2b82cf673a94
+date: 2026-04-23
+tags: [meteor, static_analysis]
+related: [[meteor-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 1039829 Apr 23 22:09 ./npm-packages/eslint-plugin-meteor/docs/media/epm.gif\n-rw-r--r-- 1 root root 712006 Apr 23 22:09 ./packages/constraint-solver/gem-test-data.js\n-rw-r--r-- 1 root root 704751 Apr 23 22:09 ./packages/constraint-solver/stack-overflow-bug-test-data.js\n-rw-r--r-- 1 root root  535116 Apr 23 22:09 ./guide/source/images/accounts-ui.png\n-rw-r--r-- 1 root root 501289 Apr 23 22:09 ./docs/history.md\n-rw-r--r-- 1 root root  443585 Apr 23 22:09 ./guide/source/images/mocha-test-results.png\n-rw-r--r-- 1 root root 437082 Apr 23 22:09 ./docs/generators/changelog/versions/0-before-2.10.md\n-rw-r--r-- 1 root root  427668 Apr 23 22:09 ./v3-docs/docs/tutorials/react/assets/step06-ddp-messages.png\n-rw-r--r-- 1 root root  413604 Apr 23 22:09 ./guide/source/images/galaxy-logs.png\n-rw-r--r-- 1 root root  390922 Apr 23 22:09 ./guide/source/images/kadira-observer-usage.png\n-rw-r--r-- 1 root root  363286 Apr 23 22:09 ./guide/source/images/kadira-method-trace.png\n-rw-r--r-- 1 root root  351664 Apr 23 22:09 ./npm-packages/eslint-plugin-meteor/package-lock.json\n-rw-r--r-- 1 root root  335659 Apr 23 22:09 ./npm-packages/cordova-plugin-meteor-webapp/package-lock.json\n-rw-r--r-- 1 root root  320406 Apr 23 22:09 ./guide/source/images/mobile/mac-safari-preferences-show-develop-menu.png\n-rw-r--r-- 1 root root 293219 Apr 23 22:09 ./packages/deprecated/d3/d3.v3.js\n-rw-r--r-- 1 root root  256637 Apr 23 22:09 ./guide/source/images/kadira-method-latency.png\n-rw-r--r-- 1 root root  243361 Apr 23 22:09 ./guide/source/images/mobile/ios-safari-settings-web-inspector.png\n-rw-r--r-- 1 root root  223133 Apr 23 22:09 ./v3-docs/docs/tutorials/react/assets/collections-connect-db.png\n-rw-r--r-- 1 root root  222530 Apr 23 22:09 ./v3-docs/docs/tutorials/react/assets/step06-all.png\n-rw-r--r-- 1 root root  220437 Apr 23 22:09 ./v3-docs/docs/tutorials/react/assets/step06-extension.png\n",
+  "high_churn_files": "  40161 \n   1789 History.md\n   1508 package.json\n   1198 packages/meteor-tool/package.js\n   1016 scripts/admin/meteor-release-experimental.json\n    898 meteor\n    796 packages/babel-compiler/package.js\n    738 packages/mongo/package.js\n    732 packages/webapp/package.js\n    666 packages/ecmascript/package.js\n    605 tools/commands.js\n    573 packages/accounts-base/package.js\n    560 package-lock.json\n    541 scripts/dev-bundle-tool-package.js\n    537 packages/modules/package.js\n    508 packages/meteor/package.js\n    490 packages/accounts-password/package.js\n    458 packages/minimongo/package.js\n    445 packages/npm-mongo/package.js\n    424 tools/bundler.js\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
