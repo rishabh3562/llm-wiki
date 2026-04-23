@@ -1,0 +1,14 @@
+---
+repo: Disease-Prediction
+type: static_analysis
+commit: 312fabe4f5f7f86a6c103dbad4cd6a60c721cf06
+date: 2026-04-23
+tags: [Disease-Prediction, static_analysis]
+related: [[Disease-Prediction-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 7326497 Apr 23 00:33 ./models/model.pkl\n-rw-r--r-- 1 root root 3212752 Apr 23 00:33 ./notebooks/Model_training.ipynb\n-rw-r--r-- 1 root root  632202 Apr 23 00:33 ./dataset_original/dataset.csv\n-rw-r--r-- 1 root root  632202 Apr 23 00:33 ./dataset/dataset.csv\n-rw-r--r-- 1 root root  194616 Apr 23 00:33 ./notebooks/1-EDA.ipynb\n-rw-r--r-- 1 root root   49505 Apr 23 00:33 ./notebooks/2-Project.ipynb\n-rw-r--r-- 1 root root   41924 Apr 23 00:33 ./notebooks/100-pipline.ipynb\n-rw-r--r-- 1 root root   16414 Apr 23 00:33 ./templates/about.html\n-rw-r--r-- 1 root root   13273 Apr 23 00:33 ./templates/base.html\n-rw-r--r-- 1 root root   11623 Apr 23 00:33 ./templates/predict.html\n-rw-r--r-- 1 root root   11025 Apr 23 00:33 ./dataset_original/symptom_Description.csv\n-rw-r--r-- 1 root root   11025 Apr 23 00:33 ./dataset/symptom_Description.csv\n-rw-r--r-- 1 root root    8945 Apr 23 00:33 ./templates/index.html\n-rw-r--r-- 1 root root    6723 Apr 23 00:33 ./models/label_encoder.pkl\n-rw-r--r-- 1 root root    3992 Apr 23 00:33 ./app.py\n-rw-r--r-- 1 root root    3578 Apr 23 00:33 ./.gitignore\n-rw-r--r-- 1 root root    3488 Apr 23 00:33 ./dataset_original/symptom_precaution.csv\n-rw-r--r-- 1 root root    3488 Apr 23 00:33 ./dataset/symptom_precaution.csv\n-rw-r--r-- 1 root root    2332 Apr 23 00:33 ./dataset_original/Symptom-severity.csv\n-rw-r--r-- 1 root root    2332 Apr 23 00:33 ./dataset/Symptom-severity.csv\n",
+  "high_churn_files": "      9 \n      3 templates/index.html\n      3 app.py\n      3 README.md\n      2 requirements.txt\n      2 notebooks/Model_training.ipynb\n      2 .gitignore\n      1 templates/predict.html\n      1 templates/base.html\n      1 templates/about.html\n      1 notebooks/2-Project.ipynb\n      1 notebooks/100-pipline.ipynb\n      1 notebooks/1-EDA.ipynb\n      1 models/symptom_vocab.pkl\n      1 models/model.pkl\n      1 models/label_encoder.pkl\n      1 dataset_original/symptom_precaution.csv\n      1 dataset_original/symptom_Description.csv\n      1 dataset_original/dataset.csv\n      1 dataset_original/Symptom-severity.csv\n",
+  "complexity": "app.py\n    F 15:0 index - B (8)\n    F 38:0 predict_page - B (7)\n    F 34:0 about - A (1)\n\n3 blocks (classes, functions, methods) analyzed.\nAverage complexity: B (5.333333333333333)\n",
+  "dead_code": "app.py:2: unused import 'pd' (90% confidence)\napp.py:3: unused import 'flash' (90% confidence)\napp.py:3: unused import 'redirect' (90% confidence)\napp.py:3: unused import 'url_for' (90% confidence)\napp.py:33: unused function 'about' (60% confidence)\napp.py:37: unused function 'predict_page' (60% confidence)\n"
+}
