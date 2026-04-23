@@ -1,0 +1,14 @@
+---
+repo: Covid19-Tracker
+type: static_analysis
+commit: 6ecb2754da4f586dd31ec61448ca273ee522adeb
+date: 2026-04-23
+tags: [Covid19-Tracker, static_analysis]
+related: [[Covid19-Tracker-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 5365372 Apr 23 00:27 ./frontend/build/static/js/main.c78cc539.js.map\n-rw-r--r-- 1 root root 4125164 Apr 23 00:27 ./backend/uploads/image-1692956731147.png\n-rw-r--r-- 1 root root 4125164 Apr 23 00:27 ./backend/uploads/image-1692956717529.png\n-rw-r--r-- 1 root root 4125164 Apr 23 00:27 ./backend/uploads/image-1692951529670.png\n-rw-r--r-- 1 root root 4125164 Apr 23 00:27 ./backend/uploads/image-1692951442126.png\n-rw-r--r-- 1 root root  927294 Apr 23 00:27 ./frontend/build/static/js/main.c78cc539.js\n-rw-r--r-- 1 root root   80194 Apr 23 00:27 ./frontend/src/constants/covidDataResponse.ts\n-rw-r--r-- 1 root root   30562 Apr 23 00:27 ./frontend/build/static/css/main.236ac7e9.css\n-rw-r--r-- 1 root root   26090 Apr 23 00:27 ./frontend/build/static/css/main.236ac7e9.css.map\n-rw-r--r-- 1 root root    9664 Apr 23 00:27 ./frontend/public/logo512.png\n-rw-r--r-- 1 root root    9664 Apr 23 00:27 ./frontend/build/logo512.png\n-rw-r--r-- 1 root root    6214 Apr 23 00:27 ./frontend/src/useDemoConfig.tsx\n-rw-r--r-- 1 root root    5874 Apr 23 00:27 ./frontend/build/static/js/main.c78cc539.js.LICENSE.txt\n-rw-r--r-- 1 root root    5358 Apr 23 00:27 ./backend/controllers/userControllers.js\n-rw-r--r-- 1 root root    5347 Apr 23 00:27 ./frontend/public/logo192.png\n-rw-r--r-- 1 root root    5347 Apr 23 00:27 ./frontend/build/logo192.png\n-rw-r--r-- 1 root root    4737 Apr 23 00:27 ./frontend/src/components/UserCard.tsx\n-rw-r--r-- 1 root root    4230 Apr 23 00:27 ./frontend/src/assets/red_marker.png\n-rw-r--r-- 1 root root    4195 Apr 23 00:27 ./backend/routes/userRoutes.js\n-rw-r--r-- 1 root root    4155 Apr 23 00:27 ./frontend/src/pages/chartPage.tsx\n",
+  "high_churn_files": "     17 \n      7 frontend/src/components/UserCard.tsx\n      6 frontend/src/App.tsx\n      6 backend/routes/userRoutes.js\n      5 frontend/src/utils/apis.ts\n      5 frontend/src/components/MapComponent.tsx\n      4 src/App.tsx\n      4 package-lock.json\n      4 frontend/src/types.ts\n      4 frontend/src/pages/contact/CreateContact.tsx\n      4 frontend/src/pages/Contact.tsx\n      4 frontend/src/components/Sidebar.tsx\n      4 backend/controllers/userControllers.js\n      3 src/pages/Contact.tsx\n      3 src/index.tsx\n      3 src/components/Sidebar.tsx\n      3 package.json\n      3 frontend/src/pages/contact/Contact.tsx\n      3 frontend/src/pages/charts and maps/chartPage.tsx\n      3 frontend/package.json\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
