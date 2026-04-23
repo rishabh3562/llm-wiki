@@ -1,0 +1,14 @@
+---
+repo: Skai-Lama-FTE
+type: static_analysis
+commit: 293e1416f1dbbf6f3218756c4a490284084ae9a0
+date: 2026-04-23
+tags: [Skai-Lama-FTE, static_analysis]
+related: [[Skai-Lama-FTE-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 318867 Apr 23 12:11 ./frontend/package-lock.json\n-rw-r--r-- 1 root root 151393 Apr 23 12:11 ./frontend/src/assets/Home.svg\n-rw-r--r-- 1 root root  52475 Apr 23 12:11 ./backend/package-lock.json\n-rw-r--r-- 1 root root  16986 Apr 23 12:11 ./frontend/src/assets/Rss.svg\n-rw-r--r-- 1 root root   9433 Apr 23 12:11 ./frontend/src/assets/se,ec.svg\n-rw-r--r-- 1 root root   9433 Apr 23 12:11 ./frontend/src/assets/Select.svg\n-rw-r--r-- 1 root root   8047 Apr 23 12:11 ./frontend/src/pages/Upload.jsx\n-rw-r--r-- 1 root root   6665 Apr 23 12:11 ./frontend/src/components/Display.jsx\n-rw-r--r-- 1 root root   6491 Apr 23 12:11 ./frontend/src/pages/AccountSettings.jsx\n-rw-r--r-- 1 root root   4864 Apr 23 12:11 ./frontend/src/pages/Home.jsx\n-rw-r--r-- 1 root root   4816 Apr 23 12:11 ./backend/controllers/userController.js\n-rw-r--r-- 1 root root   4281 Apr 23 12:11 ./frontend/src/assets/Spotify.svg\n-rw-r--r-- 1 root root   4220 Apr 23 12:11 ./frontend/src/pages/EditTranscript.jsx\n-rw-r--r-- 1 root root   4126 Apr 23 12:11 ./frontend/src/assets/react.svg\n-rw-r--r-- 1 root root   3621 Apr 23 12:11 ./frontend/src/components/UploadModal.jsx\n-rw-r--r-- 1 root root   3265 Apr 23 12:11 ./frontend/src/components/ProjectCard.jsx\n-rw-r--r-- 1 root root   3209 Apr 23 12:11 ./backend/controllers/transcriptController.js\n-rw-r--r-- 1 root root   2587 Apr 23 12:11 ./frontend/src/App.jsx\n-rw-r--r-- 1 root root   2558 Apr 23 12:11 ./frontend/src/styles/EditTranscript.css\n-rw-r--r-- 1 root root   2503 Apr 23 12:11 ./frontend/src/styles/Sidebar.css\n",
+  "high_churn_files": "     20 \n      8 frontend/src/main.jsx\n      8 frontend/package.json\n      8 frontend/package-lock.json\n      8 backend/controllers/userController.js\n      6 frontend/src/pages/Upload.jsx\n      6 frontend/src/pages/Home.jsx\n      6 frontend/src/components/Display.jsx\n      6 frontend/src/App.jsx\n      6 backend/models/User.js\n      5 frontend/src/utils/constants.js\n      5 frontend/src/styles/global.css\n      5 frontend/src/pages/EditTranscript.jsx\n      5 backend/server.js\n      5 backend/routes/userRoutes.js\n      4 frontend/src/utils/aws/awsConfig.js\n      4 frontend/src/styles/home.css\n      4 frontend/src/pages/Configuration.jsx\n      4 frontend/src/components/ProjectCard.jsx\n      4 backend/package.json\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
