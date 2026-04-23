@@ -1,0 +1,14 @@
+---
+repo: content-generation-prompts
+type: static_analysis
+commit: c170f41cf38796f00aca8fc3ad6a11b5e812d03d
+date: 2026-04-23
+tags: [content-generation-prompts, static_analysis]
+related: [[content-generation-prompts-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 218300 Apr 23 12:22 ./prompt-builder/package-lock.json\n-rw-r--r-- 1 root root  25931 Apr 23 12:22 ./prompt-builder/src/app/favicon.ico\n-rw-r--r-- 1 root root   6364 Apr 23 12:22 ./prompt-builder/src/components/VariableExtractor.tsx\n-rw-r--r-- 1 root root   4759 Apr 23 12:22 ./prompt-builder/src/components/PromptEditor.tsx\n-rw-r--r-- 1 root root   2993 Apr 23 12:22 ./prompt-builder/src/components/PromptPreview.tsx\n-rw-r--r-- 1 root root   2711 Apr 23 12:22 ./prompt-builder/src/lib/storage.ts\n-rw-r--r-- 1 root root   2678 Apr 23 12:22 ./prompt-builder/src/app/page.tsx\n-rw-r--r-- 1 root root   2460 Apr 23 12:22 ./prompt-builder/src/lib/ai.ts\n-rw-r--r-- 1 root root   1830 Apr 23 12:22 ./prompt-builder/src/components/ui/button.tsx\n-rw-r--r-- 1 root root   1559 Apr 23 12:22 ./prompt-builder/tailwind.config.ts\n-rw-r--r-- 1 root root   1553 Apr 23 12:22 ./prompt-builder/src/app/globals.css\n-rw-r--r-- 1 root root   1524 Apr 23 12:22 ./prompt-builder/src/hooks/useContextSources.ts\n-rw-r--r-- 1 root root   1450 Apr 23 12:22 ./prompt-builder/README.md\n-rw-r--r-- 1 root root   1375 Apr 23 12:22 ./prompt-builder/public/next.svg\n-rw-r--r-- 1 root root   1035 Apr 23 12:22 ./prompt-builder/public/globe.svg\n-rw-r--r-- 1 root root   1026 Apr 23 12:22 ./prompt-builder/src/lib/utils.ts\n-rw-r--r-- 1 root root    839 Apr 23 12:22 ./prompt-builder/package.json\n-rw-r--r-- 1 root root    819 Apr 23 12:22 ./prompt-builder/src/components/ui/input.tsx\n-rw-r--r-- 1 root root    767 Apr 23 12:22 ./prompt-builder/src/components/ui/textarea.tsx\n-rw-r--r-- 1 root root    751 Apr 23 12:22 ./prompt-builder/src/components/ui/separator.tsx\n",
+  "high_churn_files": "      2 \n      1 readme.md\n      1 prompt-builder/tsconfig.json\n      1 prompt-builder/tailwind.config.ts\n      1 prompt-builder/src/types/prompt.ts\n      1 prompt-builder/src/lib/utils.ts\n      1 prompt-builder/src/lib/storage.ts\n      1 prompt-builder/src/lib/cn.ts\n      1 prompt-builder/src/lib/ai.ts\n      1 prompt-builder/src/hooks/useContextSources.ts\n      1 prompt-builder/src/components/ui/textarea.tsx\n      1 prompt-builder/src/components/ui/separator.tsx\n      1 prompt-builder/src/components/ui/input.tsx\n      1 prompt-builder/src/components/ui/button.tsx\n      1 prompt-builder/src/components/VariableExtractor.tsx\n      1 prompt-builder/src/components/PromptPreview.tsx\n      1 prompt-builder/src/components/PromptEditor.tsx\n      1 prompt-builder/src/app/page.tsx\n      1 prompt-builder/src/app/layout.tsx\n      1 prompt-builder/src/app/globals.css\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
