@@ -1,0 +1,14 @@
+---
+repo: cooked-brain
+type: static_analysis
+commit: aea241d042468b9a41f7577208246a3205d4acdd
+date: 2026-04-23
+tags: [cooked-brain, static_analysis]
+related: [[cooked-brain-index]]
+---
+{
+  "largest_files": "-rw-r--r-- 1 root root 43324 Apr 23 12:24 ./repo_summary.json\n-rw-r--r-- 1 root root  6640 Apr 23 12:24 ./analysis/Knowledger/09-second-brain-comparison.md\n-rw-r--r-- 1 root root  6506 Apr 23 12:24 ./analysis/Knowledger/02-architecture-analysis.md\n-rw-r--r-- 1 root root  5458 Apr 23 12:24 ./.obsidian/workspace.json\n-rw-r--r-- 1 root root  4806 Apr 23 12:24 ./analysis/Knowledger/05-performance-analysis.md\n-rw-r--r-- 1 root root  4272 Apr 23 12:24 ./analysis/Knowledger/08-obsidian-product-teardown.md\n-rw-r--r-- 1 root root  4146 Apr 23 12:24 ./analysis/Knowledger/04-dependency-review.md\n-rw-r--r-- 1 root root  3658 Apr 23 12:24 ./analysis/Knowledger/07-ai-code-documentation.md\n-rw-r--r-- 1 root root  3234 Apr 23 12:24 ./analysis/Knowledger/06-ai-second-brain-principles.md\n-rw-r--r-- 1 root root  3090 Apr 23 12:24 ./analysis/Knowledger/00-Overview.md\n-rw-r--r-- 1 root root  2835 Apr 23 12:24 ./analysis/Knowledger/01-code-quality.md\n-rw-r--r-- 1 root root  2722 Apr 23 12:24 ./analysis/Knowledger/03-architecture-summary.md\n-rw-r--r-- 1 root root   696 Apr 23 12:24 ./.obsidian/core-plugins.json\n-rw-r--r-- 1 root root   675 Apr 23 12:24 ./analysis/Knowledger/src/lib/__tests__/utils.test.ts\n-rw-r--r-- 1 root root   493 Apr 23 12:24 ./.obsidian/graph.json\n-rw-r--r-- 1 root root   439 Apr 23 12:24 ./analysis/Knowledger/jest.config.js\n-rw-r--r-- 1 root root   427 Apr 23 12:24 ./analysis/Knowledger/.github/workflows/ci.yml\n-rw-r--r-- 1 root root   206 Apr 23 12:24 ./context.txt\n-rw-r--r-- 1 root root   180 Apr 23 12:24 ./repo_summary.txt\n-rw-r--r-- 1 root root    37 Apr 23 12:24 ./analysis/Knowledger/jest.setup.js\n",
+  "high_churn_files": "      5 \n      1 repo_summary.txt\n      1 repo_summary.json\n      1 main\n      1 git\n      1 context.txt\n      1 clear\n      1 analysis/Knowledger/src/lib/__tests__/utils.test.ts\n      1 analysis/Knowledger/jest.setup.js\n      1 analysis/Knowledger/jest.config.js\n      1 analysis/Knowledger/09-second-brain-comparison.md\n      1 analysis/Knowledger/08-obsidian-product-teardown.md\n      1 analysis/Knowledger/07-ai-code-documentation.md\n      1 analysis/Knowledger/06-ai-second-brain-principles.md\n      1 analysis/Knowledger/05-performance-analysis.md\n      1 analysis/Knowledger/04-dependency-review.md\n      1 analysis/Knowledger/03-architecture-summary.md\n      1 analysis/Knowledger/02-architecture-analysis.md\n      1 analysis/Knowledger/01-code-quality.md\n      1 analysis/Knowledger/00-Overview.md\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
