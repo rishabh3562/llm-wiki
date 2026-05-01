@@ -2,9 +2,10 @@
 repo: oneStream
 type: index
 commit: 3c63386017a4a00552768d194942d2c16ef5a445
-date: 2026-04-23
+date: 2026-05-01
 tags: [oneStream, index]
 ---
+
 # oneStream — Index
 
 ## What This Repo Is
@@ -30,3 +31,20 @@ tags: [oneStream, index]
 - [[oneStream-patterns|Patterns]]
 - [[oneStream-improvements|Improvements]]
 - [[oneStream-self_portrait|Self Portrait]]
+- [[oneStream-module_src|Module — src]]
+- [[oneStream-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[oneStream-hotspot_page|Hotspot — src/app/dashboard/page.jsx]]
+- [[oneStream-hotspot_data|Hotspot — src/app/mail/data.jsx]]
+- [[oneStream-hotspot_icons|Hotspot — src/components/icons.jsx]]
+- [[oneStream-hotspot_mail-display|Hotspot — src/app/mail/components/mail-display.jsx]]
+- [[oneStream-hotspot_sidebar|Hotspot — src/components/Sidebar.jsx]]
+- [[oneStream-hotspot_mail|Hotspot — src/app/mail/components/mail.jsx]]
+- [[oneStream-hotspot_dropdown-menu|Hotspot — src/components/ui/dropdown-menu.jsx]]
+- [[oneStream-hotspot_signup-form|Hotspot — src/components/auth/Signup-form.jsx]]
+- [[oneStream-hotspot_navbar|Hotspot — src/components/Navbar.jsx]]
+- [[oneStream-hotspot_select|Hotspot — src/components/ui/select.jsx]]
+- [[oneStream-language_jsx|Language — jsx]]
+- [[oneStream-language_js|Language — js]]
+- [[oneStream-language_json|Language — json]]
+- [[oneStream-language_mjs|Language — mjs]]
+- [[oneStream-quality_complexity|Quality — Complexity Signals]]

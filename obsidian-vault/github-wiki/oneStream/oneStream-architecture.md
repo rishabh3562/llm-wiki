@@ -2,11 +2,13 @@
 repo: oneStream
 type: architecture
 commit: 3c63386017a4a00552768d194942d2c16ef5a445
-date: 2026-04-23
+date: 2026-05-01
 tags: [oneStream, architecture]
 related: [[oneStream-index]]
 ---
+
 # Architecture — oneStream
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 265400 Apr 23 22:10 ./package-lock.json
