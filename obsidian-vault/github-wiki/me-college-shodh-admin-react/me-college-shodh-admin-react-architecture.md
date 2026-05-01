@@ -2,11 +2,13 @@
 repo: me-college-shodh-admin-react
 type: architecture
 commit: d11360979683153ab443b7919b63f399677a986f
-date: 2026-04-23
+date: 2026-05-01
 tags: [me-college-shodh-admin-react, architecture]
 related: [[me-college-shodh-admin-react-index]]
 ---
+
 # Architecture — me-college-shodh-admin-react
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 2920175 Apr 23 22:01 ./backend/uploads/daa8c0fd1dc0b9fa8d5ab93148e064b5

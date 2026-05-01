@@ -1,17 +1,18 @@
 ---
 repo: llm-wiki
 type: intent_recovery
-commit: 135162b583a65494404b2cd8625b29154789a513
-date: 2026-04-23
+commit: 4405647d940b50e9991d7b7af9f1bbf907cba6d1
+date: 2026-05-01
 tags: [llm-wiki, intent_recovery]
 related: [[llm-wiki-index]]
 ---
+
 # Intent Recovery — llm-wiki
 
 ## Timeline
 - First commit: 2026-04-20
 - Last commit: 2026-04-23
-- Total commits: 67
+- Total commits: 80
 
 ## Full Commit Log
 

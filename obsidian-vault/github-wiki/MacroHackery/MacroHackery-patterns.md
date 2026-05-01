@@ -1,13 +1,13 @@
 ---
-repo: llm-wiki
+repo: MacroHackery
 type: patterns
-commit: 4405647d940b50e9991d7b7af9f1bbf907cba6d1
+commit: dd54625af657e2ce1873def3c2d6e5c6e6434d28
 date: 2026-05-01
-tags: [llm-wiki, patterns]
-related: [[llm-wiki-index]]
+tags: [MacroHackery, patterns]
+related: [[MacroHackery-index]]
 ---
 
-# Patterns — llm-wiki
+# Patterns — MacroHackery
 
 ## File Organization Pattern
 *Derived from directory structure and churn data*

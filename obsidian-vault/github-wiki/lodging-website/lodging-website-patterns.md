@@ -1,13 +1,13 @@
 ---
-repo: llm-wiki
+repo: lodging-website
 type: patterns
-commit: 4405647d940b50e9991d7b7af9f1bbf907cba6d1
+commit: 43e3d9127813bcad6a107851379dbca4414ee0f2
 date: 2026-05-01
-tags: [llm-wiki, patterns]
-related: [[llm-wiki-index]]
+tags: [lodging-website, patterns]
+related: [[lodging-website-index]]
 ---
 
-# Patterns — llm-wiki
+# Patterns — lodging-website
 
 ## File Organization Pattern
 *Derived from directory structure and churn data*

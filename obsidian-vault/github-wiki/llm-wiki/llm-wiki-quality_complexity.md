@@ -1,20 +1,15 @@
 ---
 repo: llm-wiki
-type: improvements
+type: quality_complexity
 commit: 4405647d940b50e9991d7b7af9f1bbf907cba6d1
 date: 2026-05-01
-tags: [llm-wiki, improvements]
+tags: [llm-wiki, quality_complexity]
 related: [[llm-wiki-index]]
 ---
 
-# Improvements — llm-wiki
+# Quality — Complexity Signals
 
-## Dead Code
-run_llm_wiki.py:3: unused import 'os' (90% confidence)
-run_llm_wiki.py:95: unused variable 'storage_success_global' (100% confidence)
-run_llm_wiki.py:339: unused variable 'progression_src' (60% confidence)
-
-## High Complexity Areas
+## Evidence
 run_llm_wiki.py
     F 95:0 process_repo - D (26)
     F 371:0 main - C (11)
@@ -27,3 +22,7 @@ run_llm_wiki.py
 7 blocks (classes, functions, methods) analyzed.
 Average complexity: B (7.571428571428571)
 
+
+## Related
+- [[llm-wiki-improvements]]
+- [[llm-wiki-architecture]]

@@ -1,0 +1,15 @@
+---
+repo: lodging-website
+type: static_analysis
+commit: 43e3d9127813bcad6a107851379dbca4414ee0f2
+date: 2026-05-01
+tags: [lodging-website, static_analysis]
+related: [[lodging-website-index]]
+---
+
+{
+  "largest_files": "-rw-r--r-- 1 root root 15344 May  1 16:21 ./frontend/README.md\n-rw-r--r-- 1 root root  7535 May  1 16:21 ./frontend/src/components/Staff/BookRoom.jsx\n-rw-r--r-- 1 root root  6962 May  1 16:21 ./frontend/src/components/Admin/RoomManagement.jsx\n-rw-r--r-- 1 root root  5507 May  1 16:21 ./frontend/src/context/AuthContext.jsx\n-rw-r--r-- 1 root root  4410 May  1 16:21 ./frontend/src/App.jsx\n-rw-r--r-- 1 root root  4126 May  1 16:21 ./frontend/src/assets/react.svg\n-rw-r--r-- 1 root root  3924 May  1 16:21 ./frontend/src/components/Staff/Dashboard.jsx\n-rw-r--r-- 1 root root  3754 May  1 16:21 ./frontend/src/components/Admin/Dashboard.jsx\n-rw-r--r-- 1 root root  2640 May  1 16:21 ./frontend/src/components/Auth/StaffLogin.jsx\n-rw-r--r-- 1 root root  2505 May  1 16:21 ./frontend/src/firebase/Innit.jsx\n-rw-r--r-- 1 root root  2345 May  1 16:21 ./frontend/src/components/Auth/AdminRegister2.jsx\n-rw-r--r-- 1 root root  2281 May  1 16:21 ./frontend/src/components/Admin/StaffManagement.jsx\n-rw-r--r-- 1 root root  2181 May  1 16:21 ./frontend/src/components/Otp.jsx\n-rw-r--r-- 1 root root  1834 May  1 16:21 ./frontend/src/components/Auth/Login.jsx\n-rw-r--r-- 1 root root  1740 May  1 16:21 ./frontend/src/components/Auth/UserRegister.jsx\n-rw-r--r-- 1 root root  1725 May  1 16:21 ./frontend/src/utils/routes.js\n-rw-r--r-- 1 root root  1497 May  1 16:21 ./frontend/public/vite.svg\n-rw-r--r-- 1 root root  1269 May  1 16:21 ./frontend/src/context/BookingContext.jsx\n-rw-r--r-- 1 root root  1179 May  1 16:21 ./frontend/src/firebase/config.js\n-rw-r--r-- 1 root root  1171 May  1 16:21 ./frontend/src/context/RoomContext.jsx\n",
+  "high_churn_files": "     10 \n      5 frontend/src/utils/routes.js\n      5 frontend/src/components/Staff/Dashboard.jsx\n      4 frontend/src/context/AuthContext.jsx\n      4 frontend/src/App.jsx\n      3 frontend/src/components/Staff/BookRoom.jsx\n      3 frontend/src/components/Admin/RoomManagement.jsx\n      3 frontend/src/components/Admin/Dashboard.jsx\n      2 frontend/tailwind.config.js\n      2 frontend/src/services/bookingService.js\n      2 frontend/src/pages/Admin/AdminLogin.jsx\n      2 frontend/src/main.jsx\n      2 frontend/src/index.css\n      2 frontend/src/firebase/config.js\n      2 frontend/src/components/Staff/RemoveBooking.jsx\n      2 frontend/src/components/Auth/StaffLogin.jsx\n      2 frontend/src/components/Auth/Login2.jsx\n      2 frontend/src/components/Auth/Login.jsx\n      2 frontend/src/components/Auth/AdminRegister2.jsx\n      2 frontend/src/components/Admin/StaffManagement.jsx\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}

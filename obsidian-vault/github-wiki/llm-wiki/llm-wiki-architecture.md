@@ -1,12 +1,14 @@
 ---
 repo: llm-wiki
 type: architecture
-commit: 135162b583a65494404b2cd8625b29154789a513
-date: 2026-04-23
+commit: 4405647d940b50e9991d7b7af9f1bbf907cba6d1
+date: 2026-05-01
 tags: [llm-wiki, architecture]
 related: [[llm-wiki-index]]
 ---
+
 # Architecture — llm-wiki
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 18236 Apr 23 22:01 ./run_llm_wiki.py
@@ -18,7 +20,7 @@ related: [[llm-wiki-index]]
 -rw-r--r-- 1 root root  5828 Apr 23 22:01 ./obsidian-vault/github-wiki/agents-ed/agents-ed-static_analysis.md
 -rw-r--
 ## High Churn Files
-     66 
+     79 
       3 .gitignore
       2 run_llm_wiki.py
       2 repos.json
