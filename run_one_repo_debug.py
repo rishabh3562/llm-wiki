@@ -41,7 +41,7 @@ print(f"After env fallback - GITHUB_PAT: {'SET' if GITHUB_PAT else 'NOT SET'}")
 
 # Fallback for GITHUB_PAT from token file
 if not GITHUB_PAT:
-    token_path = "/opt/llm_wiki/github_token.txt"
+    token_path = "/root/.hermes/secrets/github_token.txt"
     if os.path.exists(token_path):
         with open(token_path) as f:
             GITHUB_PAT = f.read().strip()

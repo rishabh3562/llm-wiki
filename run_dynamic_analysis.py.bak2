@@ -22,7 +22,7 @@ OBSIDIAN_BASE = Path("/opt/llm_wiki/obsidian-vault")
 MONGO_URI = "mongodb+srv://dubeyrishabh108_db_user:z1ss49FReN22EAIk@cluster0.j8iafjr.mongodb.net/github_wiki?retryWrites=true&w=majority"
 MONGO_DB = "github_wiki"
 MONGO_COLLECTION = "snippets"
-GITHUB_TOKEN_PATH = Path("/opt/llm_wiki/github_token.txt")
+GITHUB_TOKEN_PATH = Path("/root/.hermes/secrets/github_token.txt")
 GITHUB_USERNAME = "rishabh3562"  # Corrected from rushabh3562 to rishabh3562
 
 def load_json(path):

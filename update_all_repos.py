@@ -20,7 +20,7 @@ if not MONGODB_URI:
 if not MONGODB_URI:
     raise ValueError("MONGODB_URI not set")
 
-GITHUB_TOKEN_PATH = Path("/opt/llm_wiki/github_token.txt")
+GITHUB_TOKEN_PATH = Path("/root/.hermes/secrets/github_token.txt")
 if not GITHUB_TOKEN_PATH.exists():
     raise ValueError("GitHub token file not found")
 GITHUB_TOKEN = GITHUB_TOKEN_PATH.read_text().strip()

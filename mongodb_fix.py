@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 # Hardcoded values from the working system
 MONGODB_URI = "mongodb+srv://dubeyrishabh108_db_user:***@cluster0.j8iafjr.mongodb.net/github_wiki?retryWrites=true&w=majority"
-GITHUB_PAT = open('/opt/llm_wiki/github_token.txt').read().strip()
+GITHUB_PAT = open('/root/.hermes/secrets/github_token.txt').read().strip()
 
 def main():
     print("Connecting to MongoDB...")

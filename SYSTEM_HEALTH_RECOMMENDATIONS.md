@@ -42,7 +42,7 @@ touch "$LOCK_FILE"
 trap 'rm -f "$LOCK_FILE"' EXIT
 
 export MONGODB_URI="mongodb+srv://dubeyrishabh108_db_user:***@cluster0.j8iafjr.mongodb.net/github_wiki?retryWrites=true&w=majority"
-export GITHUB_PAT=$(cat /opt/llm_wiki/github_token.txt)
+export GITHUB_PAT=$(cat /root/.hermes/secrets/github_token.txt)
 cd /opt/llm_wiki && python3 run_one_repo.py
 ```
 

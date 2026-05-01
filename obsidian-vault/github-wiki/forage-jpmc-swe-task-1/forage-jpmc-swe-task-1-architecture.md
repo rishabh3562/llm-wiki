@@ -2,11 +2,13 @@
 repo: forage-jpmc-swe-task-1
 type: architecture
 commit: 879221fec2b863d37d5b493f02a530a8098ef6ef
-date: 2026-04-23
+date: 2026-05-01
 tags: [forage-jpmc-swe-task-1, architecture]
 related: [[forage-jpmc-swe-task-1-index]]
 ---
+
 # Architecture — forage-jpmc-swe-task-1
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 84653 Apr 23 15:00 ./test.csv
