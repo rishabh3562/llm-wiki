@@ -2,9 +2,10 @@
 repo: g1-backend-tut
 type: index
 commit: 436e0ce98ac3076a235369fdfd1fd7529c48c7bd
-date: 2026-04-23
+date: 2026-05-01
 tags: [g1-backend-tut, index]
 ---
+
 # g1-backend-tut — Index
 
 ## What This Repo Is
@@ -30,3 +31,18 @@ ad3665c 2025-11-21 chore: spelling fix (rishabh3562)
 - [[g1-backend-tut-patterns|Patterns]]
 - [[g1-backend-tut-improvements|Improvements]]
 - [[g1-backend-tut-self_portrait|Self Portrait]]
+- [[g1-backend-tut-module_controllers|Module — controllers]]
+- [[g1-backend-tut-module_routes|Module — routes]]
+- [[g1-backend-tut-module_config|Module — config]]
+- [[g1-backend-tut-module_model|Module — model]]
+- [[g1-backend-tut-module_middleware|Module — middleware]]
+- [[g1-backend-tut-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[g1-backend-tut-hotspot_authcontroller|Hotspot — controllers/authController.js]]
+- [[g1-backend-tut-hotspot_auth|Hotspot — middleware/auth.js]]
+- [[g1-backend-tut-hotspot_usercontroller|Hotspot — controllers/userController.js]]
+- [[g1-backend-tut-hotspot_usermodel|Hotspot — model/userModel.js]]
+- [[g1-backend-tut-hotspot_server|Hotspot — server.js]]
+- [[g1-backend-tut-hotspot_userroutes|Hotspot — routes/userRoutes.js]]
+- [[g1-backend-tut-hotspot_package|Hotspot — package.json]]
+- [[g1-backend-tut-hotspot_authroutes|Hotspot — routes/authRoutes.js]]
+- [[g1-backend-tut-hotspot_database|Hotspot — config/database.js]]

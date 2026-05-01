@@ -2,11 +2,13 @@
 repo: g1-backend-tut
 type: self_portrait
 commit: 436e0ce98ac3076a235369fdfd1fd7529c48c7bd
-date: 2026-04-23
+date: 2026-05-01
 tags: [g1-backend-tut, self_portrait]
 related: [[g1-backend-tut-index]]
 ---
+
 # Self Portrait — g1-backend-tut
+
 ## Snapshot from commit history
 # Intent Recovery — g1-backend-tut
 

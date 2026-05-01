@@ -2,11 +2,13 @@
 repo: g1-backend-tut
 type: architecture
 commit: 436e0ce98ac3076a235369fdfd1fd7529c48c7bd
-date: 2026-04-23
+date: 2026-05-01
 tags: [g1-backend-tut, architecture]
 related: [[g1-backend-tut-index]]
 ---
+
 # Architecture — g1-backend-tut
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 51468 Apr 23 16:01 ./package-lock.json
