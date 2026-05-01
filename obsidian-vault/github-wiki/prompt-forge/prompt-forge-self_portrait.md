@@ -2,11 +2,13 @@
 repo: prompt-forge
 type: self_portrait
 commit: 195f0f83f433714b2c9b4f672a8be240524aa77c
-date: 2026-04-23
+date: 2026-05-01
 tags: [prompt-forge, self_portrait]
 related: [[prompt-forge-index]]
 ---
+
 # Self Portrait — prompt-forge
+
 ## Snapshot from commit history
 # Intent Recovery — prompt-forge
 

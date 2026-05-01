@@ -2,9 +2,10 @@
 repo: prompt-forge
 type: index
 commit: 195f0f83f433714b2c9b4f672a8be240524aa77c
-date: 2026-04-23
+date: 2026-05-01
 tags: [prompt-forge, index]
 ---
+
 # prompt-forge — Index
 
 ## What This Repo Is
@@ -32,3 +33,4 @@ tags: [prompt-forge, index]
 - [[prompt-forge-patterns|Patterns]]
 - [[prompt-forge-improvements|Improvements]]
 - [[prompt-forge-self_portrait|Self Portrait]]
+- [[prompt-forge-quality_complexity|Quality — Complexity Signals]]
