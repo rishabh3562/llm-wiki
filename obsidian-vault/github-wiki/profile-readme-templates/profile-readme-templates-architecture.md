@@ -2,11 +2,13 @@
 repo: profile-readme-templates
 type: architecture
 commit: ddde5b4c035379d02c89c8ba64f503d111625cd9
-date: 2026-04-23
+date: 2026-05-01
 tags: [profile-readme-templates, architecture]
 related: [[profile-readme-templates-index]]
 ---
+
 # Architecture — profile-readme-templates
+
 ## Key Files (by size)
 
 

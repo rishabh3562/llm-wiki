@@ -2,9 +2,10 @@
 repo: profile-readme-templates
 type: index
 commit: ddde5b4c035379d02c89c8ba64f503d111625cd9
-date: 2026-04-23
+date: 2026-05-01
 tags: [profile-readme-templates, index]
 ---
+
 # profile-readme-templates — Index
 
 ## What This Repo Is
@@ -29,3 +30,4 @@ b40e1e2 2022-01-31 Update README.md (Avinash Singh)
 - [[profile-readme-templates-patterns|Patterns]]
 - [[profile-readme-templates-improvements|Improvements]]
 - [[profile-readme-templates-self_portrait|Self Portrait]]
+- [[profile-readme-templates-quality_complexity|Quality — Complexity Signals]]
