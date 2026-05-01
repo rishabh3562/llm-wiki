@@ -2,11 +2,13 @@
 repo: PictoPy
 type: architecture
 commit: fb203872c9876b76095e4ee0753b49f477be48cb
-date: 2026-04-23
+date: 2026-05-01
 tags: [PictoPy, architecture]
 related: [[PictoPy-index]]
 ---
+
 # Architecture — PictoPy
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 91199342 Apr 23 06:12 ./backend/app/models/ONNX_Exports/FaceNet_128D.onnx
