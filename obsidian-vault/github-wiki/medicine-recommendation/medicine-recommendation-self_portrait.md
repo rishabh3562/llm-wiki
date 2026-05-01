@@ -2,11 +2,13 @@
 repo: medicine-recommendation
 type: self_portrait
 commit: d2d2b081d929863ba393476aa7fb9ac490039619
-date: 2026-04-23
+date: 2026-05-01
 tags: [medicine-recommendation, self_portrait]
 related: [[medicine-recommendation-index]]
 ---
+
 # Self Portrait — medicine-recommendation
+
 ## Snapshot from commit history
 # Intent Recovery — medicine-recommendation
 

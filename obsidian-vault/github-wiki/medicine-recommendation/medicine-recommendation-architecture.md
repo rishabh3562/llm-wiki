@@ -2,11 +2,13 @@
 repo: medicine-recommendation
 type: architecture
 commit: d2d2b081d929863ba393476aa7fb9ac490039619
-date: 2026-04-23
+date: 2026-05-01
 tags: [medicine-recommendation, architecture]
 related: [[medicine-recommendation-index]]
 ---
+
 # Architecture — medicine-recommendation
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1370414 Apr 23 22:05 ./src/datasets/Training.csv

@@ -2,11 +2,13 @@
 repo: meteor
 type: architecture
 commit: 4b61fbf9b1e2364e0b6ab99fd67e2b82cf673a94
-date: 2026-04-23
+date: 2026-05-01
 tags: [meteor, architecture]
 related: [[meteor-index]]
 ---
+
 # Architecture — meteor
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1039829 Apr 23 22:09 ./npm-packages/eslint-plugin-meteor/docs/media/epm.gif

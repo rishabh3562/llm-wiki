@@ -1,13 +1,13 @@
 ---
-repo: meteor
+repo: MERN-stack
 type: patterns
-commit: 4b61fbf9b1e2364e0b6ab99fd67e2b82cf673a94
+commit: 7c643779b86faae134beb4a2d114f5a05fb209a3
 date: 2026-05-01
-tags: [meteor, patterns]
-related: [[meteor-index]]
+tags: [MERN-stack, patterns]
+related: [[MERN-stack-index]]
 ---
 
-# Patterns — meteor
+# Patterns — MERN-stack
 
 ## File Organization Pattern
 *Derived from directory structure and churn data*
