@@ -2,11 +2,13 @@
 repo: House-prediction-linear-reg
 type: architecture
 commit: faf247208e4133b46a694da43bde8ceee7121977
-date: 2026-04-23
+date: 2026-05-01
 tags: [House-prediction-linear-reg, architecture]
 related: [[House-prediction-linear-reg-index]]
 ---
+
 # Architecture — House-prediction-linear-reg
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 726209 Apr 23 03:02 ./USA_Housing.csv

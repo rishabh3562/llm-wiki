@@ -2,11 +2,13 @@
 repo: House-prediction-linear-reg
 type: self_portrait
 commit: faf247208e4133b46a694da43bde8ceee7121977
-date: 2026-04-23
+date: 2026-05-01
 tags: [House-prediction-linear-reg, self_portrait]
 related: [[House-prediction-linear-reg-index]]
 ---
+
 # Self Portrait — House-prediction-linear-reg
+
 ## Snapshot from commit history
 # Intent Recovery — House-prediction-linear-reg
 

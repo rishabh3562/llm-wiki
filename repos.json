@@ -1,5 +1,41 @@
 [
   {
+    "name": "3lance",
+    "local_path": "/repos/3lance",
+    "html_url": "https://github.com/rishabh3562/3lance",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-08-08T21:32:43Z",
+    "private": true
+  },
+  {
+    "name": "3Lanze",
+    "local_path": "/repos/3Lanze",
+    "html_url": "https://github.com/rishabh3562/3Lanze",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-08-08T21:33:06Z",
+    "private": true
+  },
+  {
+    "name": "Aasabie",
+    "local_path": "/repos/Aasabie",
+    "html_url": "https://github.com/rishabh3562/Aasabie",
+    "description": null,
+    "language": null,
+    "updated_at": "2023-05-19T10:09:27Z",
+    "private": true
+  },
+  {
+    "name": "ADA-codes",
+    "local_path": "/repos/ADA-codes",
+    "html_url": "https://github.com/rishabh3562/ADA-codes",
+    "description": null,
+    "language": "C",
+    "updated_at": "2024-08-08T21:43:52Z",
+    "private": true
+  },
+  {
     "name": "Agentic-chatbot-me",
     "local_path": "/repos/Agentic-chatbot-me",
     "html_url": "https://github.com/rishabh3562/Agentic-chatbot-me",
@@ -7,6 +43,15 @@
     "language": "Jupyter Notebook",
     "updated_at": "2025-05-26T05:31:37Z",
     "private": false
+  },
+  {
+    "name": "agents",
+    "local_path": "/repos/agents",
+    "html_url": "https://github.com/rishabh3562/agents",
+    "description": "Repo for the Complete Agentic AI Engineering Course",
+    "language": "Jupyter Notebook",
+    "updated_at": "2025-06-04T15:59:27Z",
+    "private": true
   },
   {
     "name": "agents-ed",
@@ -18,6 +63,24 @@
     "private": false
   },
   {
+    "name": "AI-practice",
+    "local_path": "/repos/AI-practice",
+    "html_url": "https://github.com/rishabh3562/AI-practice",
+    "description": "agentic + classical ML and DL practice in this repo",
+    "language": null,
+    "updated_at": "2026-03-02T14:35:39Z",
+    "private": true
+  },
+  {
+    "name": "aicte_colleges",
+    "local_path": "/repos/aicte_colleges",
+    "html_url": "https://github.com/rishabh3562/aicte_colleges",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-12-08T05:47:28Z",
+    "private": true
+  },
+  {
     "name": "AniNotion",
     "local_path": "/repos/AniNotion",
     "html_url": "https://github.com/rishabh3562/AniNotion",
@@ -27,6 +90,24 @@
     "private": false
   },
   {
+    "name": "Arduino-Nano-BLE-33-codes",
+    "local_path": "/repos/Arduino-Nano-BLE-33-codes",
+    "html_url": "https://github.com/rishabh3562/Arduino-Nano-BLE-33-codes",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-01-20T21:26:58Z",
+    "private": true
+  },
+  {
+    "name": "assets",
+    "local_path": "/repos/assets",
+    "html_url": "https://github.com/rishabh3562/assets",
+    "description": null,
+    "language": null,
+    "updated_at": "2023-08-27T19:21:52Z",
+    "private": true
+  },
+  {
     "name": "BACKEND-INTERN---ASSIGNMENT",
     "local_path": "/repos/BACKEND-INTERN---ASSIGNMENT",
     "html_url": "https://github.com/rishabh3562/BACKEND-INTERN---ASSIGNMENT",
@@ -34,6 +115,15 @@
     "language": "JavaScript",
     "updated_at": "2023-11-10T05:18:18Z",
     "private": false
+  },
+  {
+    "name": "Bearer-token-based-auth-flow",
+    "local_path": "/repos/Bearer-token-based-auth-flow",
+    "html_url": "https://github.com/rishabh3562/Bearer-token-based-auth-flow",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-11-17T17:56:03Z",
+    "private": true
   },
   {
     "name": "blog-backend-tut-js",
@@ -63,6 +153,42 @@
     "private": false
   },
   {
+    "name": "brain",
+    "local_path": "/repos/brain",
+    "html_url": "https://github.com/rishabh3562/brain",
+    "description": null,
+    "language": null,
+    "updated_at": "2026-04-28T16:29:36Z",
+    "private": true
+  },
+  {
+    "name": "brain-pipeline",
+    "local_path": "/repos/brain-pipeline",
+    "html_url": "https://github.com/rishabh3562/brain-pipeline",
+    "description": "i am creating this repo to create a code based pipeline and make an obisidan vault out of it that will act as a context , RAG",
+    "language": "Python",
+    "updated_at": "2026-04-29T10:57:21Z",
+    "private": true
+  },
+  {
+    "name": "ByteMonk-Frontend-Intern-Assignment",
+    "local_path": "/repos/ByteMonk-Frontend-Intern-Assignment",
+    "html_url": "https://github.com/rishabh3562/ByteMonk-Frontend-Intern-Assignment",
+    "description": "assignment repository for bytemonk",
+    "language": "JavaScript",
+    "updated_at": "2025-04-13T09:34:30Z",
+    "private": true
+  },
+  {
+    "name": "c--bank-admin",
+    "local_path": "/repos/c--bank-admin",
+    "html_url": "https://github.com/rishabh3562/c--bank-admin",
+    "description": null,
+    "language": "C#",
+    "updated_at": "2026-01-14T16:57:45Z",
+    "private": true
+  },
+  {
     "name": "c-hash-cafeteria-management-system",
     "local_path": "/repos/c-hash-cafeteria-management-system",
     "html_url": "https://github.com/rishabh3562/c-hash-cafeteria-management-system",
@@ -70,6 +196,15 @@
     "language": "C#",
     "updated_at": "2026-02-05T18:38:13Z",
     "private": false
+  },
+  {
+    "name": "C4-team-6",
+    "local_path": "/repos/C4-team-6",
+    "html_url": "https://github.com/rishabh3562/C4-team-6",
+    "description": null,
+    "language": null,
+    "updated_at": "2023-10-20T18:48:29Z",
+    "private": true
   },
   {
     "name": "Calculator-project",
@@ -88,6 +223,15 @@
     "language": null,
     "updated_at": "2025-12-05T10:35:59Z",
     "private": false
+  },
+  {
+    "name": "CodeCraft",
+    "local_path": "/repos/CodeCraft",
+    "html_url": "https://github.com/rishabh3562/CodeCraft",
+    "description": "CodeCraft is an advanced code beautifier that empowers developers to efficiently format, share, and display their code. It supports a diverse set of programming languages, generates shareable syntax-highlighted code snapshots, and provides comprehensive analytics on link interactions.",
+    "language": "TypeScript",
+    "updated_at": "2024-11-08T10:58:11Z",
+    "private": true
   },
   {
     "name": "CodeLenz",
@@ -144,6 +288,15 @@
     "private": false
   },
   {
+    "name": "College-data-transformation",
+    "local_path": "/repos/College-data-transformation",
+    "html_url": "https://github.com/rishabh3562/College-data-transformation",
+    "description": null,
+    "language": "Python",
+    "updated_at": "2025-12-22T06:51:10Z",
+    "private": true
+  },
+  {
     "name": "college-shodh-nextjs",
     "local_path": "/repos/college-shodh-nextjs",
     "html_url": "https://github.com/rishabh3562/college-shodh-nextjs",
@@ -171,6 +324,15 @@
     "private": false
   },
   {
+    "name": "coneixement-assignment-backend",
+    "local_path": "/repos/coneixement-assignment-backend",
+    "html_url": "https://github.com/rishabh3562/coneixement-assignment-backend",
+    "description": "coneixement-assignment-backend",
+    "language": "JavaScript",
+    "updated_at": "2024-11-27T11:50:24Z",
+    "private": true
+  },
+  {
     "name": "content-generation-prompts",
     "local_path": "/repos/content-generation-prompts",
     "html_url": "https://github.com/rishabh3562/content-generation-prompts",
@@ -185,8 +347,17 @@
     "html_url": "https://github.com/rishabh3562/cooked-brain",
     "description": null,
     "language": "TypeScript",
-    "updated_at": "2026-04-19T21:41:19Z",
+    "updated_at": "2026-04-29T10:53:10Z",
     "private": false
+  },
+  {
+    "name": "cookie-based-auth",
+    "local_path": "/repos/cookie-based-auth",
+    "html_url": "https://github.com/rishabh3562/cookie-based-auth",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-11-17T17:55:35Z",
+    "private": true
   },
   {
     "name": "Covid19-Tracker",
@@ -214,6 +385,15 @@
     "language": "Jupyter Notebook",
     "updated_at": "2025-04-19T15:06:13Z",
     "private": false
+  },
+  {
+    "name": "dev-vs-dsa",
+    "local_path": "/repos/dev-vs-dsa",
+    "html_url": "https://github.com/rishabh3562/dev-vs-dsa",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-11-14T19:16:13Z",
+    "private": true
   },
   {
     "name": "DevOrbit",
@@ -252,6 +432,15 @@
     "private": false
   },
   {
+    "name": "DSA-Cp",
+    "local_path": "/repos/DSA-Cp",
+    "html_url": "https://github.com/rishabh3562/DSA-Cp",
+    "description": null,
+    "language": "C++",
+    "updated_at": "2024-11-02T20:45:30Z",
+    "private": true
+  },
+  {
     "name": "E-Comm-MERN",
     "local_path": "/repos/E-Comm-MERN",
     "html_url": "https://github.com/rishabh3562/E-Comm-MERN",
@@ -259,6 +448,15 @@
     "language": "JavaScript",
     "updated_at": "2023-12-24T10:41:03Z",
     "private": false
+  },
+  {
+    "name": "EdgeBoost",
+    "local_path": "/repos/EdgeBoost",
+    "html_url": "https://github.com/rishabh3562/EdgeBoost",
+    "description": "AI-Powered API & Asset CDN",
+    "language": null,
+    "updated_at": "2025-02-06T16:42:34Z",
+    "private": true
   },
   {
     "name": "EduSolve",
@@ -277,6 +475,24 @@
     "language": "C#",
     "updated_at": "2026-01-16T21:10:58Z",
     "private": false
+  },
+  {
+    "name": "fastapi-blocking-test",
+    "local_path": "/repos/fastapi-blocking-test",
+    "html_url": "https://github.com/rishabh3562/fastapi-blocking-test",
+    "description": null,
+    "language": "Python",
+    "updated_at": "2025-08-19T09:23:11Z",
+    "private": true
+  },
+  {
+    "name": "Figma-UI-Task",
+    "local_path": "/repos/Figma-UI-Task",
+    "html_url": "https://github.com/rishabh3562/Figma-UI-Task",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2023-04-25T18:42:22Z",
+    "private": true
   },
   {
     "name": "fika-ai-engineering-insights-bot",
@@ -313,6 +529,15 @@
     "language": "Python",
     "updated_at": "2025-05-16T10:16:55Z",
     "private": false
+  },
+  {
+    "name": "FlowByte",
+    "local_path": "/repos/FlowByte",
+    "html_url": "https://github.com/rishabh3562/FlowByte",
+    "description": "Scalable File Streaming & Chunking",
+    "language": null,
+    "updated_at": "2025-02-06T16:41:37Z",
+    "private": true
   },
   {
     "name": "forage-jpmc-swe-task-1",
@@ -387,6 +612,15 @@
     "private": false
   },
   {
+    "name": "HireQuotient",
+    "local_path": "/repos/HireQuotient",
+    "html_url": "https://github.com/rishabh3562/HireQuotient",
+    "description": null,
+    "language": null,
+    "updated_at": "2023-12-02T07:55:31Z",
+    "private": true
+  },
+  {
     "name": "House-prediction-linear-reg",
     "local_path": "/repos/House-prediction-linear-reg",
     "html_url": "https://github.com/rishabh3562/House-prediction-linear-reg",
@@ -394,6 +628,42 @@
     "language": "Jupyter Notebook",
     "updated_at": "2025-04-19T15:06:17Z",
     "private": false
+  },
+  {
+    "name": "HSA-N",
+    "local_path": "/repos/HSA-N",
+    "html_url": "https://github.com/rishabh3562/HSA-N",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-11-03T19:16:25Z",
+    "private": true
+  },
+  {
+    "name": "InsightPulse",
+    "local_path": "/repos/InsightPulse",
+    "html_url": "https://github.com/rishabh3562/InsightPulse",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-06-19T22:07:14Z",
+    "private": true
+  },
+  {
+    "name": "instagram-data-HTML-",
+    "local_path": "/repos/instagram-data-HTML-",
+    "html_url": "https://github.com/rishabh3562/instagram-data-HTML-",
+    "description": null,
+    "language": "HTML",
+    "updated_at": "2023-07-29T12:41:13Z",
+    "private": true
+  },
+  {
+    "name": "instagram-data-json-",
+    "local_path": "/repos/instagram-data-json-",
+    "html_url": "https://github.com/rishabh3562/instagram-data-json-",
+    "description": null,
+    "language": "HTML",
+    "updated_at": "2023-07-29T13:26:06Z",
+    "private": true
   },
   {
     "name": "IPL-Analysis",
@@ -405,6 +675,15 @@
     "private": false
   },
   {
+    "name": "js-practice",
+    "local_path": "/repos/js-practice",
+    "html_url": "https://github.com/rishabh3562/js-practice",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2026-02-03T18:45:38Z",
+    "private": true
+  },
+  {
     "name": "Knowledger",
     "local_path": "/repos/Knowledger",
     "html_url": "https://github.com/rishabh3562/Knowledger",
@@ -414,13 +693,67 @@
     "private": false
   },
   {
+    "name": "Latency-Topology-Visualizer",
+    "local_path": "/repos/Latency-Topology-Visualizer",
+    "html_url": "https://github.com/rishabh3562/Latency-Topology-Visualizer",
+    "description": "3D world map visualizing exchange server locations and real-time/historical latency data across AWS, GCP, and Azure co-location regions for cryptocurrency trading infrastructure.",
+    "language": "TypeScript",
+    "updated_at": "2025-07-27T10:46:12Z",
+    "private": true
+  },
+  {
+    "name": "linear-clone",
+    "local_path": "/repos/linear-clone",
+    "html_url": "https://github.com/rishabh3562/linear-clone",
+    "description": null,
+    "language": "HTML",
+    "updated_at": "2026-01-11T18:46:15Z",
+    "private": true
+  },
+  {
+    "name": "LinkSphere",
+    "local_path": "/repos/LinkSphere",
+    "html_url": "https://github.com/rishabh3562/LinkSphere",
+    "description": "my pinboard weblinks",
+    "language": "TypeScript",
+    "updated_at": "2025-01-20T12:23:33Z",
+    "private": true
+  },
+  {
+    "name": "LinkTree",
+    "local_path": "/repos/LinkTree",
+    "html_url": "https://github.com/rishabh3562/LinkTree",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-11-08T13:41:09Z",
+    "private": true
+  },
+  {
     "name": "llm-wiki",
     "local_path": "/repos/llm-wiki",
     "html_url": "https://github.com/rishabh3562/llm-wiki",
     "description": "Personal LLM Wiki for knowledge compilation over time",
     "language": "Python",
-    "updated_at": "2026-04-23T22:15:38Z",
+    "updated_at": "2026-05-01T12:44:18Z",
     "private": false
+  },
+  {
+    "name": "lodging-website",
+    "local_path": "/repos/lodging-website",
+    "html_url": "https://github.com/rishabh3562/lodging-website",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2025-01-27T17:44:55Z",
+    "private": true
+  },
+  {
+    "name": "MacroHackery",
+    "local_path": "/repos/MacroHackery",
+    "html_url": "https://github.com/rishabh3562/MacroHackery",
+    "description": null,
+    "language": null,
+    "updated_at": "2024-05-22T17:26:29Z",
+    "private": true
   },
   {
     "name": "me-college-shodh-admin-react",
@@ -441,6 +774,24 @@
     "private": false
   },
   {
+    "name": "MERN-stack",
+    "local_path": "/repos/MERN-stack",
+    "html_url": "https://github.com/rishabh3562/MERN-stack",
+    "description": null,
+    "language": null,
+    "updated_at": "2024-10-10T00:40:28Z",
+    "private": true
+  },
+  {
+    "name": "MERN-TEMPLATE-SKAI-LAMA",
+    "local_path": "/repos/MERN-TEMPLATE-SKAI-LAMA",
+    "html_url": "https://github.com/rishabh3562/MERN-TEMPLATE-SKAI-LAMA",
+    "description": "env: https://docs.google.com/document/d/1nCx7cT-vy4s-Q9GlOqGckLh3rslhmFV-EKIVQRkPwDU/edit?usp=sharing",
+    "language": "JavaScript",
+    "updated_at": "2024-09-23T22:15:25Z",
+    "private": true
+  },
+  {
     "name": "meteor",
     "local_path": "/repos/meteor",
     "html_url": "https://github.com/rishabh3562/meteor",
@@ -459,6 +810,60 @@
     "private": false
   },
   {
+    "name": "MoodTunes",
+    "local_path": "/repos/MoodTunes",
+    "html_url": "https://github.com/rishabh3562/MoodTunes",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-05-09T09:39:01Z",
+    "private": true
+  },
+  {
+    "name": "Mycode",
+    "local_path": "/repos/Mycode",
+    "html_url": "https://github.com/rishabh3562/Mycode",
+    "description": "VScode Folder",
+    "language": "C++",
+    "updated_at": "2024-10-29T10:55:32Z",
+    "private": true
+  },
+  {
+    "name": "MyTools",
+    "local_path": "/repos/MyTools",
+    "html_url": "https://github.com/rishabh3562/MyTools",
+    "description": "my custom made website for my usage that are frequent",
+    "language": "JavaScript",
+    "updated_at": "2024-10-12T08:34:07Z",
+    "private": true
+  },
+  {
+    "name": "next-prisma-postgresql-template",
+    "local_path": "/repos/next-prisma-postgresql-template",
+    "html_url": "https://github.com/rishabh3562/next-prisma-postgresql-template",
+    "description": "template for nextjs + prisma+postgresql",
+    "language": "JavaScript",
+    "updated_at": "2024-10-14T11:53:59Z",
+    "private": true
+  },
+  {
+    "name": "nodejs-ml-deployed",
+    "local_path": "/repos/nodejs-ml-deployed",
+    "html_url": "https://github.com/rishabh3562/nodejs-ml-deployed",
+    "description": "simple backend just to test and explore how to load and deploy ml models in express",
+    "language": "JavaScript",
+    "updated_at": "2025-04-19T15:06:16Z",
+    "private": true
+  },
+  {
+    "name": "nodejs-serverless-function-express",
+    "local_path": "/repos/nodejs-serverless-function-express",
+    "html_url": "https://github.com/rishabh3562/nodejs-serverless-function-express",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2024-04-28T11:40:04Z",
+    "private": true
+  },
+  {
     "name": "oneStream",
     "local_path": "/repos/oneStream",
     "html_url": "https://github.com/rishabh3562/oneStream",
@@ -468,6 +873,15 @@
     "private": false
   },
   {
+    "name": "onestream-ts",
+    "local_path": "/repos/onestream-ts",
+    "html_url": "https://github.com/rishabh3562/onestream-ts",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-06-06T21:45:58Z",
+    "private": true
+  },
+  {
     "name": "open-agent-builder",
     "local_path": "/repos/open-agent-builder",
     "html_url": "https://github.com/rishabh3562/open-agent-builder",
@@ -475,6 +889,24 @@
     "language": null,
     "updated_at": "2025-10-23T09:44:01Z",
     "private": false
+  },
+  {
+    "name": "Optus",
+    "local_path": "/repos/Optus",
+    "html_url": "https://github.com/rishabh3562/Optus",
+    "description": null,
+    "language": "C++",
+    "updated_at": "2024-08-08T21:34:02Z",
+    "private": true
+  },
+  {
+    "name": "OS",
+    "local_path": "/repos/OS",
+    "html_url": "https://github.com/rishabh3562/OS",
+    "description": null,
+    "language": "C",
+    "updated_at": "2024-08-08T21:46:58Z",
+    "private": true
   },
   {
     "name": "palantir-feedback-loop",
@@ -495,6 +927,24 @@
     "private": false
   },
   {
+    "name": "Piccaso",
+    "local_path": "/repos/Piccaso",
+    "html_url": "https://github.com/rishabh3562/Piccaso",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2024-12-02T13:57:33Z",
+    "private": true
+  },
+  {
+    "name": "pickmart_FL",
+    "local_path": "/repos/pickmart_FL",
+    "html_url": "https://github.com/rishabh3562/pickmart_FL",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2023-05-13T14:25:42Z",
+    "private": true
+  },
+  {
     "name": "PictoPy",
     "local_path": "/repos/PictoPy",
     "html_url": "https://github.com/rishabh3562/PictoPy",
@@ -513,6 +963,42 @@
     "private": false
   },
   {
+    "name": "portfolio",
+    "local_path": "/repos/portfolio",
+    "html_url": "https://github.com/rishabh3562/portfolio",
+    "description": "portfolio website ",
+    "language": "CSS",
+    "updated_at": "2024-10-05T23:26:07Z",
+    "private": true
+  },
+  {
+    "name": "portfolio-nextjs",
+    "local_path": "/repos/portfolio-nextjs",
+    "html_url": "https://github.com/rishabh3562/portfolio-nextjs",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-07-27T14:51:54Z",
+    "private": true
+  },
+  {
+    "name": "Portfolio-react-firebase",
+    "local_path": "/repos/Portfolio-react-firebase",
+    "html_url": "https://github.com/rishabh3562/Portfolio-react-firebase",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-02-16T15:57:16Z",
+    "private": true
+  },
+  {
+    "name": "Portfolio-react-firebase3",
+    "local_path": "/repos/Portfolio-react-firebase3",
+    "html_url": "https://github.com/rishabh3562/Portfolio-react-firebase3",
+    "description": null,
+    "language": null,
+    "updated_at": "2024-02-16T15:58:45Z",
+    "private": true
+  },
+  {
     "name": "profile-readme-templates",
     "local_path": "/repos/profile-readme-templates",
     "html_url": "https://github.com/rishabh3562/profile-readme-templates",
@@ -522,6 +1008,24 @@
     "private": false
   },
   {
+    "name": "Profile.fyi---Assignment",
+    "local_path": "/repos/Profile.fyi---Assignment",
+    "html_url": "https://github.com/rishabh3562/Profile.fyi---Assignment",
+    "description": "Basic shopping cart application built with Next.js. Features product listing, cart management, and basic checkout functionality. Lacks authentication, payment integration, and advanced features. Ideal for learning and experimentation.",
+    "language": "JavaScript",
+    "updated_at": "2024-08-23T12:07:40Z",
+    "private": true
+  },
+  {
+    "name": "Project-Tracker",
+    "local_path": "/repos/Project-Tracker",
+    "html_url": "https://github.com/rishabh3562/Project-Tracker",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-08-08T21:41:38Z",
+    "private": true
+  },
+  {
     "name": "prompt-forge",
     "local_path": "/repos/prompt-forge",
     "html_url": "https://github.com/rishabh3562/prompt-forge",
@@ -529,6 +1033,15 @@
     "language": null,
     "updated_at": "2025-08-26T20:19:47Z",
     "private": false
+  },
+  {
+    "name": "prompt-forge-ts",
+    "local_path": "/repos/prompt-forge-ts",
+    "html_url": "https://github.com/rishabh3562/prompt-forge-ts",
+    "description": "https://prompt-forge-js.lovable.app/",
+    "language": "TypeScript",
+    "updated_at": "2025-10-19T11:52:08Z",
+    "private": true
   },
   {
     "name": "PromptOps",
@@ -547,6 +1060,24 @@
     "language": "Python",
     "updated_at": "2025-06-11T10:33:16Z",
     "private": false
+  },
+  {
+    "name": "PromptOps-website",
+    "local_path": "/repos/PromptOps-website",
+    "html_url": "https://github.com/rishabh3562/PromptOps-website",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-07-12T09:01:44Z",
+    "private": true
+  },
+  {
+    "name": "python-practice",
+    "local_path": "/repos/python-practice",
+    "html_url": "https://github.com/rishabh3562/python-practice",
+    "description": null,
+    "language": null,
+    "updated_at": "2026-02-19T03:46:41Z",
+    "private": true
   },
   {
     "name": "Quickart",
@@ -585,6 +1116,33 @@
     "private": false
   },
   {
+    "name": "Readme-research",
+    "local_path": "/repos/Readme-research",
+    "html_url": "https://github.com/rishabh3562/Readme-research",
+    "description": "Chatgpt vagera mai kya kya research karta hu , uske liye hai , achi research store karlunga",
+    "language": null,
+    "updated_at": "2025-02-03T09:01:49Z",
+    "private": true
+  },
+  {
+    "name": "ReferUp",
+    "local_path": "/repos/ReferUp",
+    "html_url": "https://github.com/rishabh3562/ReferUp",
+    "description": "Work in Progress : ReferUp is a referral system built with Next.js, Prisma, and PostgreSQL , allowing users to generate unique referral codes, track referrals, and earn rewards for successful sign-ups or purchases.",
+    "language": "JavaScript",
+    "updated_at": "2024-10-17T04:18:12Z",
+    "private": true
+  },
+  {
+    "name": "rishabh-portfolio-crafted",
+    "local_path": "/repos/rishabh-portfolio-crafted",
+    "html_url": "https://github.com/rishabh3562/rishabh-portfolio-crafted",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-04-19T15:06:22Z",
+    "private": true
+  },
+  {
     "name": "rishabh3562",
     "local_path": "/repos/rishabh3562",
     "html_url": "https://github.com/rishabh3562/rishabh3562",
@@ -592,6 +1150,15 @@
     "language": null,
     "updated_at": "2025-12-08T18:46:40Z",
     "private": false
+  },
+  {
+    "name": "riya-dubey-radiology-profile",
+    "local_path": "/repos/riya-dubey-radiology-profile",
+    "html_url": "https://github.com/rishabh3562/riya-dubey-radiology-profile",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-06-05T06:58:16Z",
+    "private": true
   },
   {
     "name": "rough",
@@ -610,6 +1177,15 @@
     "language": "JavaScript",
     "updated_at": "2024-11-27T07:42:58Z",
     "private": false
+  },
+  {
+    "name": "sample-backend-2",
+    "local_path": "/repos/sample-backend-2",
+    "html_url": "https://github.com/rishabh3562/sample-backend-2",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-08-08T22:08:41Z",
+    "private": true
   },
   {
     "name": "sentiment-analysis-chatbot-js",
@@ -639,6 +1215,24 @@
     "private": false
   },
   {
+    "name": "session-auth-flow",
+    "local_path": "/repos/session-auth-flow",
+    "html_url": "https://github.com/rishabh3562/session-auth-flow",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-11-17T17:56:23Z",
+    "private": true
+  },
+  {
+    "name": "SharpScale",
+    "local_path": "/repos/SharpScale",
+    "html_url": "https://github.com/rishabh3562/SharpScale",
+    "description": null,
+    "language": null,
+    "updated_at": "2025-06-19T21:59:44Z",
+    "private": true
+  },
+  {
     "name": "Shortly",
     "local_path": "/repos/Shortly",
     "html_url": "https://github.com/rishabh3562/Shortly",
@@ -646,6 +1240,24 @@
     "language": "JavaScript",
     "updated_at": "2024-11-27T07:42:04Z",
     "private": false
+  },
+  {
+    "name": "SIH-Project",
+    "local_path": "/repos/SIH-Project",
+    "html_url": "https://github.com/rishabh3562/SIH-Project",
+    "description": null,
+    "language": "Python",
+    "updated_at": "2023-09-21T19:07:21Z",
+    "private": true
+  },
+  {
+    "name": "simple-login-signup-form",
+    "local_path": "/repos/simple-login-signup-form",
+    "html_url": "https://github.com/rishabh3562/simple-login-signup-form",
+    "description": null,
+    "language": "CSS",
+    "updated_at": "2026-01-13T17:21:19Z",
+    "private": true
   },
   {
     "name": "Skai-Lama-FTE",
@@ -675,6 +1287,51 @@
     "private": false
   },
   {
+    "name": "swipe-intern-assignment",
+    "local_path": "/repos/swipe-intern-assignment",
+    "html_url": "https://github.com/rishabh3562/swipe-intern-assignment",
+    "description": "Streamline your invoice processing with AI-powered data extraction and intelligent management tools.",
+    "language": "TypeScript",
+    "updated_at": "2025-04-10T09:14:14Z",
+    "private": true
+  },
+  {
+    "name": "TaskFlux",
+    "local_path": "/repos/TaskFlux",
+    "html_url": "https://github.com/rishabh3562/TaskFlux",
+    "description": "A modular background job queue system for handling heavy processing tasks with scalable infrastructure.",
+    "language": "JavaScript",
+    "updated_at": "2025-02-06T20:39:56Z",
+    "private": true
+  },
+  {
+    "name": "throw-bag",
+    "local_path": "/repos/throw-bag",
+    "html_url": "https://github.com/rishabh3562/throw-bag",
+    "description": null,
+    "language": "HTML",
+    "updated_at": "2025-02-08T16:40:03Z",
+    "private": true
+  },
+  {
+    "name": "Tiffin",
+    "local_path": "/repos/Tiffin",
+    "html_url": "https://github.com/rishabh3562/Tiffin",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-09-22T20:59:37Z",
+    "private": true
+  },
+  {
+    "name": "To-Do-GraphQL",
+    "local_path": "/repos/To-Do-GraphQL",
+    "html_url": "https://github.com/rishabh3562/To-Do-GraphQL",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-08-08T21:44:55Z",
+    "private": true
+  },
+  {
     "name": "ToDo",
     "local_path": "/repos/ToDo",
     "html_url": "https://github.com/rishabh3562/ToDo",
@@ -693,6 +1350,15 @@
     "private": false
   },
   {
+    "name": "topmate-site-web-consultation",
+    "local_path": "/repos/topmate-site-web-consultation",
+    "html_url": "https://github.com/rishabh3562/topmate-site-web-consultation",
+    "description": null,
+    "language": "HTML",
+    "updated_at": "2025-07-22T08:03:12Z",
+    "private": true
+  },
+  {
     "name": "topmate-site-webdev-consulation-",
     "local_path": "/repos/topmate-site-webdev-consulation-",
     "html_url": "https://github.com/rishabh3562/topmate-site-webdev-consulation-",
@@ -700,6 +1366,15 @@
     "language": null,
     "updated_at": "2025-07-22T07:40:09Z",
     "private": false
+  },
+  {
+    "name": "ts-practice",
+    "local_path": "/repos/ts-practice",
+    "html_url": "https://github.com/rishabh3562/ts-practice",
+    "description": "repository to practice typescript",
+    "language": "TypeScript",
+    "updated_at": "2025-12-09T08:52:35Z",
+    "private": true
   },
   {
     "name": "UniHub",
@@ -738,12 +1413,111 @@
     "private": false
   },
   {
+    "name": "We-Code",
+    "local_path": "/repos/We-Code",
+    "html_url": "https://github.com/rishabh3562/We-Code",
+    "description": "side project for pair programming",
+    "language": "JavaScript",
+    "updated_at": "2025-04-13T08:54:56Z",
+    "private": true
+  },
+  {
+    "name": "wipro-java",
+    "local_path": "/repos/wipro-java",
+    "html_url": "https://github.com/rishabh3562/wipro-java",
+    "description": null,
+    "language": "Java",
+    "updated_at": "2024-08-08T21:29:53Z",
+    "private": true
+  },
+  {
     "name": "You-Write",
     "local_path": "/repos/You-Write",
     "html_url": "https://github.com/rishabh3562/You-Write",
     "description": "Contribute to You-Wrtie by adding your ideas, creating pull requests, and watching them get approved. Simple steps, big impact. Let's collaborate and innovate together!",
     "language": null,
     "updated_at": "2024-11-27T07:42:21Z",
+    "private": false
+  },
+  {
+    "name": "YouTube-Lectures-Manager",
+    "local_path": "/repos/YouTube-Lectures-Manager",
+    "html_url": "https://github.com/rishabh3562/YouTube-Lectures-Manager",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2024-10-19T14:35:38Z",
+    "private": true
+  },
+  {
+    "name": "youtube-upload-nextjs-ts",
+    "local_path": "/repos/youtube-upload-nextjs-ts",
+    "html_url": "https://github.com/rishabh3562/youtube-upload-nextjs-ts",
+    "description": null,
+    "language": "TypeScript",
+    "updated_at": "2025-06-06T21:31:47Z",
+    "private": true
+  },
+  {
+    "name": "Zip-Link",
+    "local_path": "/repos/Zip-Link",
+    "html_url": "https://github.com/rishabh3562/Zip-Link",
+    "description": "Url Shortener using MERN",
+    "language": "JavaScript",
+    "updated_at": "2023-07-14T20:56:16Z",
+    "private": true
+  },
+  {
+    "name": "js-tut",
+    "local_path": "/repos/js-tut",
+    "html_url": "https://github.com/Rishabh7406/js-tut",
+    "description": "Repository for students to learn backend development, including notes",
+    "language": "JavaScript",
+    "updated_at": "2025-12-12T05:12:31Z",
+    "private": false
+  },
+  {
+    "name": "leetcode-company-wise-problems-2022",
+    "local_path": "/repos/leetcode-company-wise-problems-2022",
+    "html_url": "https://github.com/Rishabh7406/leetcode-company-wise-problems-2022",
+    "description": "Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of May, 2022.",
+    "language": null,
+    "updated_at": "2025-04-13T09:00:13Z",
+    "private": false
+  },
+  {
+    "name": "Multiple-tracking-AR-app-using-Unity",
+    "local_path": "/repos/Multiple-tracking-AR-app-using-Unity",
+    "html_url": "https://github.com/Rishabh7406/Multiple-tracking-AR-app-using-Unity",
+    "description": "This is an AR app made using unity that performs multiple image tracking and overlays their respective 3D image on it when detected.",
+    "language": null,
+    "updated_at": "2025-04-13T09:00:06Z",
+    "private": false
+  },
+  {
+    "name": "Queue-Management-System",
+    "local_path": "/repos/Queue-Management-System",
+    "html_url": "https://github.com/Rishabh7406/Queue-Management-System",
+    "description": "A queue management system that aims to reduce wait time, increase comfort and prevent queue jumping.",
+    "language": null,
+    "updated_at": "2025-04-13T08:45:48Z",
+    "private": false
+  },
+  {
+    "name": "C4-team-6",
+    "local_path": "/repos/C4-team-6",
+    "html_url": "https://github.com/Skillvalley-Github/C4-team-6",
+    "description": null,
+    "language": "JavaScript",
+    "updated_at": "2023-10-20T19:49:28Z",
+    "private": false
+  },
+  {
+    "name": "SIH",
+    "local_path": "/repos/SIH",
+    "html_url": "https://github.com/YanaJain/SIH",
+    "description": "Final Project",
+    "language": "Python",
+    "updated_at": "2023-12-23T18:58:33Z",
     "private": false
   }
 ]

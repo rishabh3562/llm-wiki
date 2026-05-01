@@ -2,9 +2,10 @@
 repo: House-prediction-linear-reg
 type: index
 commit: faf247208e4133b46a694da43bde8ceee7121977
-date: 2026-04-23
+date: 2026-05-01
 tags: [House-prediction-linear-reg, index]
 ---
+
 # House-prediction-linear-reg — Index
 
 ## What This Repo Is
@@ -31,3 +32,4 @@ faf2472 2025-03-31 init (rishabh3562)
 - [[House-prediction-linear-reg-patterns|Patterns]]
 - [[House-prediction-linear-reg-improvements|Improvements]]
 - [[House-prediction-linear-reg-self_portrait|Self Portrait]]
+- [[House-prediction-linear-reg-quality_complexity|Quality — Complexity Signals]]
