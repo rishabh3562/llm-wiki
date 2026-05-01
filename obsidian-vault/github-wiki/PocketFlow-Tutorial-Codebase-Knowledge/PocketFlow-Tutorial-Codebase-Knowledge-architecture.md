@@ -2,11 +2,13 @@
 repo: PocketFlow-Tutorial-Codebase-Knowledge
 type: architecture
 commit: ce0b14a8ef5b19825620efb2f61c6cb3f224ef50
-date: 2026-04-23
+date: 2026-05-01
 tags: [PocketFlow-Tutorial-Codebase-Knowledge, architecture]
 related: [[PocketFlow-Tutorial-Codebase-Knowledge-index]]
 ---
+
 # Architecture — PocketFlow-Tutorial-Codebase-Knowledge
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 5024749 Apr 23 07:05 ./assets/banner.png
