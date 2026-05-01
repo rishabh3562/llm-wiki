@@ -2,9 +2,10 @@
 repo: microservice-uber-js
 type: index
 commit: fa2310a5586bf6bcaf8ff21344a5f54d114adff3
-date: 2026-04-23
+date: 2026-05-01
 tags: [microservice-uber-js, index]
 ---
+
 # microservice-uber-js — Index
 
 ## What This Repo Is
@@ -31,3 +32,10 @@ fa2310a 2025-11-28 feat: autocanon basic testing (rishabh3562)
 - [[microservice-uber-js-patterns|Patterns]]
 - [[microservice-uber-js-improvements|Improvements]]
 - [[microservice-uber-js-self_portrait|Self Portrait]]
+- [[microservice-uber-js-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[microservice-uber-js-hotspot_test|Hotspot — test.js]]
+- [[microservice-uber-js-hotspot_package|Hotspot — package.json]]
+- [[microservice-uber-js-hotspot_app|Hotspot — app.js]]
+- [[microservice-uber-js-language_json|Language — json]]
+- [[microservice-uber-js-language_js|Language — js]]
+- [[microservice-uber-js-quality_complexity|Quality — Complexity Signals]]
