@@ -2,9 +2,10 @@
 repo: IPL-Analysis
 type: index
 commit: 0a1c8d9ee98e3c1841408d3a733d8b04d2f8a30c
-date: 2026-04-23
+date: 2026-05-01
 tags: [IPL-Analysis, index]
 ---
+
 # IPL-Analysis — Index
 
 ## What This Repo Is
@@ -29,3 +30,4 @@ c4482b1 2025-03-14 Doc : Draft 1 (rishabh3562)
 - [[IPL-Analysis-patterns|Patterns]]
 - [[IPL-Analysis-improvements|Improvements]]
 - [[IPL-Analysis-self_portrait|Self Portrait]]
+- [[IPL-Analysis-quality_complexity|Quality — Complexity Signals]]
