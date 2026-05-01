@@ -176,8 +176,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "afa5a356dbe8f730",
+  "active": "ace89a94bbbad781",
   "lastOpenFiles": [
+    "ToolBox/self_portrait.md",
+    "ToolBox/progression.md",
+    "ToolBox/patterns.md",
+    "ToolBox/intent_recovery.md",
+    "ToolBox/improvements.md",
+    "ToolBox/architecture.md",
     "aicte_colleges/aicte_colleges-improvements.md",
     "fika-ai-engineering-insights-bot/fika-ai-engineering-insights-bot-index.md",
     "Devr.AI/Devr.AI-architecture.md"
