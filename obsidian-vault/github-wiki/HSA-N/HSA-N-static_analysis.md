@@ -1,0 +1,15 @@
+---
+repo: HSA-N
+type: static_analysis
+commit: e9758b78fad0174b55b41eb3dcd74cf6e71c161b
+date: 2026-05-01
+tags: [HSA-N, static_analysis]
+related: [[HSA-N-index]]
+---
+
+{
+  "largest_files": "-rw-r--r-- 1 root root 472670 May  1 14:30 ./frontend/package-lock.json\n-rw-r--r-- 1 root root  87729 May  1 14:30 ./hackshield-backend/package-lock.json\n-rw-r--r-- 1 root root  18950 May  1 14:30 ./frontend/src/lib/data.ts\n-rw-r--r-- 1 root root  15086 May  1 14:30 ./frontend/src/app/favicon.ico\n-rw-r--r-- 1 root root  14519 May  1 14:30 ./frontend/src/app/(main)/page.tsx\n-rw-r--r-- 1 root root  14320 May  1 14:30 ./RBAC_IMPLEMENTATION.md\n-rw-r--r-- 1 root root  11105 May  1 14:30 ./frontend/src/app/(auth)/signup/page.tsx\n-rw-r--r-- 1 root root  10479 May  1 14:30 ./frontend/src/components/ui/chart.tsx\n-rw-r--r-- 1 root root   9873 May  1 14:30 ./frontend/src/app/actions/admin-actions.ts\n-rw-r--r-- 1 root root   9872 May  1 14:30 ./frontend/src/app/(admin)/admin/page.tsx\n-rw-r--r-- 1 root root   9302 May  1 14:30 ./frontend/src/lib/api-client.ts\n-rw-r--r-- 1 root root   8943 May  1 14:30 ./frontend/src/app/(main)/dashboard/profile/page.tsx\n-rw-r--r-- 1 root root   8505 May  1 14:30 ./frontend/src/components/ui/menubar.tsx\n-rw-r--r-- 1 root root   8248 May  1 14:30 ./frontend/src/components/admin/forms/roadmap-form.tsx\n-rw-r--r-- 1 root root   7777 May  1 14:30 ./frontend/src/app/(auth)/login/page.tsx\n-rw-r--r-- 1 root root   7628 May  1 14:30 ./frontend/src/components/admin/forms/course-form.tsx\n-rw-r--r-- 1 root root   7490 May  1 14:30 ./frontend/src/app/(main)/contact/page.tsx\n-rw-r--r-- 1 root root   7433 May  1 14:30 ./frontend/src/components/ui/dropdown-menu.tsx\n-rw-r--r-- 1 root root   7338 May  1 14:30 ./frontend/src/components/layout/header.tsx\n-rw-r--r-- 1 root root   6881 May  1 14:30 ./frontend/src/components/admin/forms/ctf-challenge-form.tsx\n",
+  "high_churn_files": "     14 \n      4 frontend/src/app/(auth)/signup/page.tsx\n      4 frontend/src/app/(auth)/login/page.tsx\n      3 frontend/src/components/layout/header.tsx\n      3 frontend/src/app/providers/auth-provider.tsx\n      3 frontend/src/app/(main)/dashboard/page.tsx\n      2 hackshield-backend/src/routes/courseRoutes.js\n      2 hackshield-backend/src/models/userModel.js\n      2 hackshield-backend/src/controllers/authController.js\n      2 frontend/src/lib/api-client.ts\n      2 frontend/src/app/layout.tsx\n      2 frontend/src/app/(main)/dashboard/layout.tsx\n      2 frontend/src/app/(admin)/admin/page.tsx\n      2 frontend/src/app/(admin)/admin/layout.tsx\n      2 .gitignore\n      1 hackshield-backend/src/utils/email.js\n      1 hackshield-backend/src/utils/catchAsync.js\n      1 hackshield-backend/src/utils/cache.js\n      1 hackshield-backend/src/utils/appError.js\n      1 hackshield-backend/src/utils/apiFeatures.js\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}
