@@ -2,11 +2,13 @@
 repo: ParsePro-AI
 type: architecture
 commit: 4900079b85f206c7431f73f37646e14bb9e7364b
-date: 2026-04-23
+date: 2026-05-01
 tags: [ParsePro-AI, architecture]
 related: [[ParsePro-AI-index]]
 ---
+
 # Architecture — ParsePro-AI
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 157455 Apr 23 05:05 ./package-lock.json
