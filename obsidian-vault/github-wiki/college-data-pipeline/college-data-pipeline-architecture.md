@@ -2,11 +2,13 @@
 repo: college-data-pipeline
 type: architecture
 commit: 7a8c489b961cb3a5447034c3046b6e8e0c64cc7f
-date: 2026-04-23
+date: 2026-04-30
 tags: [college-data-pipeline, architecture]
 related: [[college-data-pipeline-index]]
 ---
+
 # Architecture — college-data-pipeline
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 11357 Apr 23 12:21 ./LICENSE

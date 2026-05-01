@@ -1,0 +1,6 @@
+output/
+obsidian-vault/
+*.log
+__pycache__
+.env
+.DS_Store

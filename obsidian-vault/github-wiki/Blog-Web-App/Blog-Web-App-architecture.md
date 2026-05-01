@@ -2,11 +2,13 @@
 repo: Blog-Web-App
 type: architecture
 commit: 77c923482627d9eab2983e1bc8844797b91556d6
-date: 2026-04-22
+date: 2026-04-29
 tags: [Blog-Web-App, architecture]
 related: [[Blog-Web-App-index]]
 ---
+
 # Architecture — Blog-Web-App
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1244515 Apr 22 21:25 ./package-lock.json

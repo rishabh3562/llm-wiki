@@ -2,11 +2,13 @@
 repo: collab-tool
 type: architecture
 commit: 36233622cf89285d2d66ac8937a7c9062e3bd0fd
-date: 2026-04-23
+date: 2026-04-30
 tags: [collab-tool, architecture]
 related: [[collab-tool-index]]
 ---
+
 # Architecture — collab-tool
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1331645 Apr 23 12:21 ./public/pattern2.png

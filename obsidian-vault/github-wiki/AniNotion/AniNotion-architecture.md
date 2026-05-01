@@ -2,11 +2,13 @@
 repo: AniNotion
 type: architecture
 commit: 3ffe94571b286e863ea0549e51fe60b4f483d9e3
-date: 2026-04-22
+date: 2026-04-29
 tags: [AniNotion, architecture]
 related: [[AniNotion-index]]
 ---
+
 # Architecture — AniNotion
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 130780 Apr 22 20:03 ./aninotion-frontend/package-lock.json

@@ -2,9 +2,10 @@
 repo: flask-crud
 type: index
 commit: 17ca177da841432d62e1838d76b69afd651d49bf
-date: 2026-04-23
+date: 2026-05-01
 tags: [flask-crud, index]
 ---
+
 # flask-crud — Index
 
 ## What This Repo Is
@@ -31,3 +32,6 @@ dd2e3d2 2025-05-15 Basic Flask app -no routes (rishabh3562)
 - [[flask-crud-patterns|Patterns]]
 - [[flask-crud-improvements|Improvements]]
 - [[flask-crud-self_portrait|Self Portrait]]
+- [[flask-crud-hotspot_app|Hotspot — app.py]]
+- [[flask-crud-language_py|Language — py]]
+- [[flask-crud-quality_complexity|Quality — Complexity Signals]]

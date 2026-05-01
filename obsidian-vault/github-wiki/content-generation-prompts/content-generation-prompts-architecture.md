@@ -2,11 +2,13 @@
 repo: content-generation-prompts
 type: architecture
 commit: c170f41cf38796f00aca8fc3ad6a11b5e812d03d
-date: 2026-04-23
+date: 2026-05-01
 tags: [content-generation-prompts, architecture]
 related: [[content-generation-prompts-index]]
 ---
+
 # Architecture — content-generation-prompts
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 218300 Apr 23 12:22 ./prompt-builder/package-lock.json

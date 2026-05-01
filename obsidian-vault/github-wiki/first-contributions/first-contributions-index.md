@@ -2,9 +2,10 @@
 repo: first-contributions
 type: index
 commit: 29d50e0c09b59e41c9af7381c410be6d70edc1ae
-date: 2026-04-23
+date: 2026-05-01
 tags: [first-contributions, index]
 ---
+
 # first-contributions — Index
 
 ## What This Repo Is
@@ -28,3 +29,8 @@ a3bb1628 2022-11-22 update Contributors.md (Roshan Jossy)
 - [[first-contributions-patterns|Patterns]]
 - [[first-contributions-improvements|Improvements]]
 - [[first-contributions-self_portrait|Self Portrait]]
+- [[first-contributions-module_github|Module — .github]]
+- [[first-contributions-hotspot_auto-pr-merge|Hotspot — .github/workflows/auto-pr-merge.yml]]
+- [[first-contributions-hotspot_funding|Hotspot — .github/FUNDING.yml]]
+- [[first-contributions-language_yml|Language — yml]]
+- [[first-contributions-quality_complexity|Quality — Complexity Signals]]

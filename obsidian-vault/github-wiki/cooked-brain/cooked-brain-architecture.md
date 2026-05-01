@@ -1,12 +1,14 @@
 ---
 repo: cooked-brain
 type: architecture
-commit: aea241d042468b9a41f7577208246a3205d4acdd
-date: 2026-04-23
+commit: d49f55f0c2ec897c03b3ff62bacadc77d0413a79
+date: 2026-05-01
 tags: [cooked-brain, architecture]
 related: [[cooked-brain-index]]
 ---
+
 # Architecture — cooked-brain
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 43324 Apr 23 12:24 ./repo_summary.json
@@ -18,7 +20,7 @@ related: [[cooked-brain-index]]
 -rw-r--r-- 1 root root  4146 Apr 23 12:24 ./analysis/Knowledger/04-dependency-review.md
 -rw-r--r
 ## High Churn Files
-      5 
+      6 
       1 repo_summary.txt
       1 repo_summary.json
       1 main

@@ -2,11 +2,13 @@
 repo: CommitIQ
 type: architecture
 commit: 3ab3eee3e0dbe675e240b8e0fecb2c9dce875423
-date: 2026-04-23
+date: 2026-04-30
 tags: [CommitIQ, architecture]
 related: [[CommitIQ-index]]
 ---
+
 # Architecture — CommitIQ
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 8239 Apr 23 00:22 ./bot/slack_bot_v2.py

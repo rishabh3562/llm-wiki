@@ -2,11 +2,13 @@
 repo: commitiq-langsmith
 type: improvements
 commit: fd81eb6dbfa8c2af998b373c5a5f911235374753
-date: 2026-04-23
+date: 2026-04-30
 tags: [commitiq-langsmith, improvements]
 related: [[commitiq-langsmith-index]]
 ---
+
 # Improvements — commitiq-langsmith
+
 ## Dead Code
 agents/v1/data_harvester.py:1: unused import 'get_pr_files' (90% confidence)
 agents/v2/aggregator.py:1: unused import 'defaultdict' (90% confidence)

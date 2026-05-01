@@ -2,9 +2,10 @@
 repo: CodeNote
 type: index
 commit: c6246db518344dc12ffb9a118e9c7fdce43fe7d7
-date: 2026-04-23
+date: 2026-05-01
 tags: [CodeNote, index]
 ---
+
 # CodeNote — Index
 
 ## What This Repo Is
@@ -30,3 +31,23 @@ d8a3234 2024-09-13 some c
 - [[CodeNote-patterns|Patterns]]
 - [[CodeNote-improvements|Improvements]]
 - [[CodeNote-self_portrait|Self Portrait]]
+- [[CodeNote-module_frontend|Module — frontend]]
+- [[CodeNote-module_backend|Module — backend]]
+- [[CodeNote-hotspot_package-lock|Hotspot — frontend/package-lock.json]]
+- [[CodeNote-hotspot_home|Hotspot — frontend/src/pages/Home.jsx]]
+- [[CodeNote-hotspot_documentationcontroller|Hotspot — backend/controllers/documentationController.js]]
+- [[CodeNote-hotspot_useractivity|Hotspot — frontend/src/components/UserActivity.jsx]]
+- [[CodeNote-hotspot_documentation|Hotspot — frontend/src/pages/Documentation.jsx]]
+- [[CodeNote-hotspot_privategithubrepoviewer|Hotspot — frontend/src/pages/PrivateGitHubRepoViewer.jsx]]
+- [[CodeNote-hotspot_gtihubrepoviewer|Hotspot — frontend/src/pages/GtihubRepoViewer.jsx]]
+- [[CodeNote-hotspot_usercontroller|Hotspot — backend/controllers/userController.js]]
+- [[CodeNote-hotspot_markdowneditor|Hotspot — frontend/src/pages/MarkDownEditor.jsx]]
+- [[CodeNote-hotspot_generatesinglereadme|Hotspot — frontend/src/pages/GenerateSingleReadme.jsx]]
+- [[CodeNote-hotspot_fileexplorer|Hotspot — frontend/src/components/Documentation/FileExplorer.jsx]]
+- [[CodeNote-language_js|Language — js]]
+- [[CodeNote-language_jsx|Language — jsx]]
+- [[CodeNote-language_json|Language — json]]
+- [[CodeNote-language_mjs|Language — mjs]]
+- [[CodeNote-language_yaml|Language — yaml]]
+- [[CodeNote-language_cjs|Language — cjs]]
+- [[CodeNote-quality_complexity|Quality — Complexity Signals]]

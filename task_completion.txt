@@ -1,0 +1,22 @@
+Analysis Quality Review - Final Output
+
+TASK: Review analysis quality. Examine recent snippets in MongoDB for depth, actionability, and consistency. Suggest improvements to analysis prompts or phases to yield more valuable insights.
+
+SUMMARY:
+- Examined LLM Wiki system structure and recent output files
+- Found lack of depth (placeholder text in Intent Recovery), poor actionability (generic improvements), consistency issues (template-driven output), and missing insights (no concept extraction)
+- Created detailed recommendations for enhancing all 5 phases of analysis
+- Focused on non-disruptive changes that maintain hourly processing compatibility
+
+KEY FILES CREATED:
+- /opt/llm_wiki/ANALYSIS_QUALITY_REVIEW.md: Detailed review with phase-specific recommendations
+- /opt/llm_wiki/REVIEW_SUMMARY.md: Concise summary of findings
+
+MAJOR RECOMMENDATIONS:
+1. Replace placeholder answers in Intent Recovery with actual commit message analysis
+2. Add language-specific static analysis tools and process outputs into structured insights
+3. Enhance agent phases to generate repo-specific content (actual architecture diagrams, pattern detection, prioritized improvements)
+4. Add concept extraction phase for technology identification and domain modeling
+5. Implement structured JSON output, tagging system, and quality metrics
+
+The review provides concrete suggestions to transform the system from generating template documentation to producing genuine technical insights.

@@ -2,11 +2,13 @@
 repo: flask-crud
 type: architecture
 commit: 17ca177da841432d62e1838d76b69afd651d49bf
-date: 2026-04-23
+date: 2026-05-01
 tags: [flask-crud, architecture]
 related: [[flask-crud-index]]
 ---
+
 # Architecture — flask-crud
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1036 Apr 23 14:14 ./app.py

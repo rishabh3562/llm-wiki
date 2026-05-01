@@ -1,0 +1,15 @@
+---
+repo: college-shodh-admin-react
+type: static_analysis
+commit: f85af91b1b45e716d4f07c7443f03cef161e9a3e
+date: 2026-04-30
+tags: [college-shodh-admin-react, static_analysis]
+related: [[college-shodh-admin-react-index]]
+---
+
+{
+  "largest_files": "-rw-r--r-- 1 root root 2920175 Apr 30 20:31 ./backend/uploads/daa8c0fd1dc0b9fa8d5ab93148e064b5\n-rw-r--r-- 1 root root  373192 Apr 30 20:31 ./frontend/public/icons/Engineer.jpg\n-rw-r--r-- 1 root root  292629 Apr 30 20:31 ./backend/uploads/a97c52bfdec2d77e2f05e44159deb941\n-rw-r--r-- 1 root root  260587 Apr 30 20:31 ./frontend/public/images/collegeShodh.png\n-rw-r--r-- 1 root root  221207 Apr 30 20:31 ./frontend/package-lock.json\n-rw-r--r-- 1 root root  196632 Apr 30 20:31 ./frontend/public/images/background.jpg\n-rw-r--r-- 1 root root  129129 Apr 30 20:31 ./frontend/public/icons/BSC/nursing.jpg\n-rw-r--r-- 1 root root  119963 Apr 30 20:31 ./frontend/public/icons/BSC/Biology.jpg\n-rw-r--r-- 1 root root  101835 Apr 30 20:31 ./frontend/src/components/Error.jsx\n-rw-r--r-- 1 root root   88922 Apr 30 20:31 ./backend/package-lock.json\n-rw-r--r-- 1 root root   79931 Apr 30 20:31 ./frontend/public/icons/BSC/Chemistry.jpg\n-rw-r--r-- 1 root root   71084 Apr 30 20:31 ./frontend/public/icons/BSC/microbiology.jpg\n-rw-r--r-- 1 root root   54879 Apr 30 20:31 ./frontend/src/components/Create_form/Add.jsx\n-rw-r--r-- 1 root root   53581 Apr 30 20:31 ./frontend/public/icons/BSC/math.jpg\n-rw-r--r-- 1 root root   47803 Apr 30 20:31 ./frontend/public/icons/BSC/Physics.jpg\n-rw-r--r-- 1 root root   45793 Apr 30 20:31 ./frontend/public/icons/pharmacy.jpg\n-rw-r--r-- 1 root root   39868 Apr 30 20:31 ./frontend/public/icons/architecture.jpg\n-rw-r--r-- 1 root root   39408 Apr 30 20:31 ./frontend/public/icons/BCA.jpg\n-rw-r--r-- 1 root root   29505 Apr 30 20:31 ./frontend/src/pages/Edit.jsx\n-rw-r--r-- 1 root root   19063 Apr 30 20:31 ./frontend/public/images/conexiement.png\n",
+  "high_churn_files": "     95 \n     20 frontend/src/App.jsx\n     20 backend/index.js\n     18 frontend/src/components/Colleges/Card.jsx\n     15 frontend/package-lock.json\n     14 frontend/src/components/Colleges/Filter.jsx\n     14 frontend/src/components/Admin_panel/Sidebar.jsx\n     13 frontend/src/components/Create_form/Add.jsx\n     12 frontend/src/components/Auth/Login/Login.jsx\n     10 frontend/src/components/Colleges/CollegesPage.jsx\n     10 frontend/package.json\n     10 backend/routes/user.js\n      9 frontend/src/components/Admin_panel/Navbar.jsx\n      8 frontend/src/components/Admin_panel/AdminPage.jsx\n      8 frontend/src/components/Add_bulk/AddBulk.jsx\n      8 backend/package-lock.json\n      7 frontend/src/components/Auth/Signup/Signup.jsx\n      7 backend/routes/collegeRoutes.js\n      7 backend/package.json\n      6 frontend/src/components/Create_form/CreatePage.jsx\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}

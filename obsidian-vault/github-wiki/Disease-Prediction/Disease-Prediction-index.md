@@ -2,9 +2,10 @@
 repo: Disease-Prediction
 type: index
 commit: 312fabe4f5f7f86a6c103dbad4cd6a60c721cf06
-date: 2026-04-23
+date: 2026-05-01
 tags: [Disease-Prediction, index]
 ---
+
 # Disease-Prediction — Index
 
 ## What This Repo Is
@@ -29,3 +30,6 @@ b268554 2025-05-15 feat : model loaded into html and prediction works (rishabh35
 - [[Disease-Prediction-patterns|Patterns]]
 - [[Disease-Prediction-improvements|Improvements]]
 - [[Disease-Prediction-self_portrait|Self Portrait]]
+- [[Disease-Prediction-hotspot_app|Hotspot — app.py]]
+- [[Disease-Prediction-language_py|Language — py]]
+- [[Disease-Prediction-quality_complexity|Quality — Complexity Signals]]

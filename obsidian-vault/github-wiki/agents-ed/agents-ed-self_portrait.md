@@ -2,11 +2,13 @@
 repo: agents-ed
 type: self_portrait
 commit: ed47c5d1b74e0e4a54fe6e2b248c640fb6666f0a
-date: 2026-04-23
+date: 2026-04-26
 tags: [agents-ed, self_portrait]
 related: [[agents-ed-index]]
 ---
+
 # Self Portrait — agents-ed
+
 ## Snapshot from commit history
 # Intent Recovery — agents-ed
 

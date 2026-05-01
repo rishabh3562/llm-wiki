@@ -2,11 +2,13 @@
 repo: college-shodh-nextjs
 type: architecture
 commit: aade9cd5f8d02c59ef09466cf99097c14927dfee
-date: 2026-04-23
+date: 2026-04-30
 tags: [college-shodh-nextjs, architecture]
 related: [[college-shodh-nextjs-index]]
 ---
+
 # Architecture — college-shodh-nextjs
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1401491 Apr 23 12:22 ./src/assets/bsc-min.jpg

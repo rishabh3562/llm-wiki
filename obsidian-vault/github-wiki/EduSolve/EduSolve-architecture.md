@@ -2,11 +2,13 @@
 repo: EduSolve
 type: architecture
 commit: c73e7430d5e36ea94d5378ddce09d0ed39927323
-date: 2026-04-23
+date: 2026-05-01
 tags: [EduSolve, architecture]
 related: [[EduSolve-index]]
 ---
+
 # Architecture — EduSolve
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 681214 Apr 23 01:04 ./package-lock.json

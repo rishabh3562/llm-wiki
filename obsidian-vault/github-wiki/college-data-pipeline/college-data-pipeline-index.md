@@ -2,9 +2,10 @@
 repo: college-data-pipeline
 type: index
 commit: 7a8c489b961cb3a5447034c3046b6e8e0c64cc7f
-date: 2026-04-23
+date: 2026-04-30
 tags: [college-data-pipeline, index]
 ---
+
 # college-data-pipeline — Index
 
 ## What This Repo Is
@@ -31,3 +32,11 @@ ac0e895 2025-10-01 docs: changes (rishabh3562)
 - [[college-data-pipeline-patterns|Patterns]]
 - [[college-data-pipeline-improvements|Improvements]]
 - [[college-data-pipeline-self_portrait|Self Portrait]]
+- [[college-data-pipeline-module_pipeline|Module — pipeline]]
+- [[college-data-pipeline-module_tests|Module — tests]]
+- [[college-data-pipeline-module_queue|Module — queue]]
+- [[college-data-pipeline-module_config|Module — config]]
+- [[college-data-pipeline-hotspot_pyproject|Hotspot — pyproject.toml]]
+- [[college-data-pipeline-hotspot_settings|Hotspot — config/settings.py]]
+- [[college-data-pipeline-hotspot_worker|Hotspot — worker.py]]
+- [[college-data-pipeline-hotspot_run-pipeline|Hotspot — run_pipeline.py]]

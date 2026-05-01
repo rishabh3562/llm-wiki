@@ -2,9 +2,10 @@
 repo: DevOrbit
 type: index
 commit: 93278f6cd6890b008eb627551ba968d98d9ef171
-date: 2026-04-23
+date: 2026-05-01
 tags: [DevOrbit, index]
 ---
+
 # DevOrbit — Index
 
 ## What This Repo Is
@@ -29,3 +30,13 @@ c061532 2025-10-28 First Commit. (Alok Prasad)
 - [[DevOrbit-patterns|Patterns]]
 - [[DevOrbit-improvements|Improvements]]
 - [[DevOrbit-self_portrait|Self Portrait]]
+- [[DevOrbit-module_components|Module — components]]
+- [[DevOrbit-module_app|Module — app]]
+- [[DevOrbit-module_lib|Module — lib]]
+- [[DevOrbit-module_database|Module — database]]
+- [[DevOrbit-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[DevOrbit-hotspot_lightrays|Hotspot — components/ui/LightRays.tsx]]
+- [[DevOrbit-hotspot_event-model|Hotspot — database/event.model.ts]]
+- [[DevOrbit-hotspot_page|Hotspot — app/events/[slug]/page.tsx]]
+- [[DevOrbit-hotspot_constants|Hotspot — lib/constants.ts]]
+- [[DevOrbit-hotspot_booking-model|Hotspot — database/booking.model.ts]]

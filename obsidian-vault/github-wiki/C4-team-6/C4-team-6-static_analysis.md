@@ -1,0 +1,15 @@
+---
+repo: C4-team-6
+type: static_analysis
+commit: 4d52db19bbcd7cfdeac29edec81b59d20727eb92
+date: 2026-04-30
+tags: [C4-team-6, static_analysis]
+related: [[C4-team-6-index]]
+---
+
+{
+  "largest_files": "-rw-r--r-- 1 root root 3166058 Apr 30 09:29 ./src/App/ScreenComponents/GalleryComponent/images/pexels-george-dolgikh-1326946.jpg\n-rw-r--r-- 1 root root 1832055 Apr 30 09:29 ./src/App/Constants/userDp.svg\n-rw-r--r-- 1 root root  695147 Apr 30 09:29 ./package-lock.json\n-rw-r--r-- 1 root root   71188 Apr 30 09:29 ./src/App/Constants/alumni.png\n-rw-r--r-- 1 root root   39952 Apr 30 09:29 ./public/fonts/DTGetaiGroteskDisplay-Black.ttf\n-rw-r--r-- 1 root root   10508 Apr 30 09:29 ./public/fonts/Trap-Black.otf\n-rw-r--r-- 1 root root   10344 Apr 30 09:29 ./public/fonts/Trap-ExtraBold.otf\n-rw-r--r-- 1 root root   10308 Apr 30 09:29 ./public/fonts/Trap-Bold.otf\n-rw-r--r-- 1 root root   10148 Apr 30 09:29 ./public/fonts/Trap-SemiBold.otf\n-rw-r--r-- 1 root root   10080 Apr 30 09:29 ./public/fonts/Trap-Medium.otf\n-rw-r--r-- 1 root root   10076 Apr 30 09:29 ./public/fonts/Trap-Light.otf\n-rw-r--r-- 1 root root    9796 Apr 30 09:29 ./public/fonts/Trap-Regular.otf\n-rw-r--r-- 1 root root    3970 Apr 30 09:29 ./src/App/Layout/Navbar.js\n-rw-r--r-- 1 root root    2632 Apr 30 09:29 ./src/logo.svg\n-rw-r--r-- 1 root root    2350 Apr 30 09:29 ./src/App/ScreenComponents/GalleryComponent/Gallery.js\n-rw-r--r-- 1 root root    2148 Apr 30 09:29 ./src/App/ScreenComponents/AlumnusComponent/components/SpotLightCard.js\n-rw-r--r-- 1 root root    2032 Apr 30 09:29 ./src/App/Constants/logo.svg\n-rw-r--r-- 1 root root    1922 Apr 30 09:29 ./src/App/ScreenComponents/AlumnusComponent/components/AlumniData.js\n-rw-r--r-- 1 root root    1825 Apr 30 09:29 ./public/index.html\n-rw-r--r-- 1 root root    1810 Apr 30 09:29 ./src/App.js\n",
+  "high_churn_files": "     31 \n     10 src/App/ScreenComponents/GalleryComponent/Gallery.js\n      5 reunify/src/Pages/Dashboard.jsx\n      4 src/App/ScreenComponents/GalleryComponent/components/Navbar.js\n      4 src/App/ScreenComponents/AlumnusComponent/Alumnus.js\n      4 src/App/Layout/Navbar.js\n      3 src/AppStyles/global.css\n      3 src/AppStyles/gallery.css\n      3 src/App/ScreenComponents/GalleryComponent/components/GalleryCard.js\n      3 src/App/ScreenComponents/GalleryComponent/components/Card.js\n      3 src/App/ScreenComponents/AlumnusComponent/ViewProfile.js\n      3 reunify/tailwind.config.js\n      2 src/AppStyles/colors.css\n      2 src/AppStyles/alumnus.css\n      2 src/App/ScreenComponents/GalleryComponent/image/Vector (4).png\n      2 src/App/ScreenComponents/GalleryComponent/image/Vector (1).svg\n      2 src/App/ScreenComponents/GalleryComponent/image/Rectangle 19.png\n      2 src/App/ScreenComponents/GalleryComponent/components/data.js\n      2 src/App/ScreenComponents/AlumnusComponent/components/SpotLightCard.js\n      2 src/App/ScreenComponents/AlumnusComponent/components/SeniorBadge.js\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}

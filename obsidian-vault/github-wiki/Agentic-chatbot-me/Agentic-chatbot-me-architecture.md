@@ -2,11 +2,13 @@
 repo: Agentic-chatbot-me
 type: architecture
 commit: fce46e38551221986950877d66542849bb78c79c
-date: 2026-04-22
+date: 2026-04-26
 tags: [Agentic-chatbot-me, architecture]
 related: [[Agentic-chatbot-me-index]]
 ---
+
 # Architecture — Agentic-chatbot-me
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 51353 Apr 22 19:43 ./Profile.pdf

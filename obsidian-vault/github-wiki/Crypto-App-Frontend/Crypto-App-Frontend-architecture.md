@@ -2,11 +2,13 @@
 repo: Crypto-App-Frontend
 type: architecture
 commit: 195b7cc11e893f6575434199cf1eb32f4631dd8a
-date: 2026-04-23
+date: 2026-05-01
 tags: [Crypto-App-Frontend, architecture]
 related: [[Crypto-App-Frontend-index]]
 ---
+
 # Architecture — Crypto-App-Frontend
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1008573 Apr 23 00:28 ./package-lock.json

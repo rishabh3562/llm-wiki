@@ -2,9 +2,10 @@
 repo: exercism
 type: index
 commit: 4e574f3a7752720a5c3e25af82eca909253dd58b
-date: 2026-04-23
+date: 2026-05-01
 tags: [exercism, index]
 ---
+
 # exercism — Index
 
 ## What This Repo Is
@@ -27,3 +28,7 @@ eb29da4 2026-01-16 Initial empty commit (Exercism's Solution Syncer Bot)
 - [[exercism-patterns|Patterns]]
 - [[exercism-improvements|Improvements]]
 - [[exercism-self_portrait|Self Portrait]]
+- [[exercism-module_solutions|Module — solutions]]
+- [[exercism-hotspot_needforspeed|Hotspot — solutions/csharp/need-for-speed/1/NeedForSpeed.cs]]
+- [[exercism-language_cs|Language — cs]]
+- [[exercism-quality_complexity|Quality — Complexity Signals]]

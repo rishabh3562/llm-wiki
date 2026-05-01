@@ -2,9 +2,10 @@
 repo: college-shodh-nextjs
 type: index
 commit: aade9cd5f8d02c59ef09466cf99097c14927dfee
-date: 2026-04-23
+date: 2026-04-30
 tags: [college-shodh-nextjs, index]
 ---
+
 # college-shodh-nextjs — Index
 
 ## What This Repo Is
@@ -29,3 +30,13 @@ tags: [college-shodh-nextjs, index]
 - [[college-shodh-nextjs-patterns|Patterns]]
 - [[college-shodh-nextjs-improvements|Improvements]]
 - [[college-shodh-nextjs-self_portrait|Self Portrait]]
+- [[college-shodh-nextjs-module_src|Module — src]]
+- [[college-shodh-nextjs-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[college-shodh-nextjs-hotspot_college|Hotspot — src/app/colleges/college.jsx]]
+- [[college-shodh-nextjs-hotspot_modal|Hotspot — src/components/Modals/Modal.jsx]]
+- [[college-shodh-nextjs-hotspot_ranking|Hotspot — src/components/Colleges/Ranking.jsx]]
+- [[college-shodh-nextjs-hotspot_page|Hotspot — src/app/contact/page.jsx]]
+- [[college-shodh-nextjs-hotspot_home|Hotspot — src/components/home/Home.jsx]]
+- [[college-shodh-nextjs-hotspot_state|Hotspot — src/components/Colleges/State.jsx]]
+- [[college-shodh-nextjs-hotspot_faqs|Hotspot — src/components/home/FAQs.jsx]]
+- [[college-shodh-nextjs-hotspot_collegecard|Hotspot — src/components/Colleges/CollegeCard.jsx]]

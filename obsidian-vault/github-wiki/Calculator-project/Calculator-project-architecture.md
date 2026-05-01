@@ -2,11 +2,13 @@
 repo: Calculator-project
 type: architecture
 commit: 0a644962ce548ba8cb1bcecfaa738d00d6ac44a3
-date: 2026-04-22
+date: 2026-04-30
 tags: [Calculator-project, architecture]
 related: [[Calculator-project-index]]
 ---
+
 # Architecture — Calculator-project
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 2029 Apr 22 23:01 ./index.html

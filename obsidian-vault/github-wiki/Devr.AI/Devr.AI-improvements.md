@@ -2,11 +2,13 @@
 repo: Devr.AI
 type: improvements
 commit: 360c91de173dd5572afc5e56bf80605a10df08a0
-date: 2026-04-23
+date: 2026-05-01
 tags: [Devr.AI, improvements]
 related: [[Devr.AI-index]]
 ---
+
 # Improvements — Devr.AI
+
 ## Dead Code
 backend/app/agents/base_agent.py:56: unused method 'stream_run' (60% confidence)
 backend/app/agents/devrel/agent.py:102: unused method 'get_thread_state' (60% confidence)

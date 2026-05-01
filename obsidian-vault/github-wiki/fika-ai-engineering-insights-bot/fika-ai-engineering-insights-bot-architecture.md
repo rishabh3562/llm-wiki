@@ -2,11 +2,13 @@
 repo: fika-ai-engineering-insights-bot
 type: architecture
 commit: 0f539b9e629fd354d09b4ef9d37a285cc5877148
-date: 2026-04-23
+date: 2026-05-01
 tags: [fika-ai-engineering-insights-bot, architecture]
 related: [[fika-ai-engineering-insights-bot-index]]
 ---
+
 # Architecture — fika-ai-engineering-insights-bot
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 5717 Apr 23 12:25 ./README.md

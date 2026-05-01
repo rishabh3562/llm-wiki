@@ -2,11 +2,13 @@
 repo: Devr.AI
 type: architecture
 commit: 360c91de173dd5572afc5e56bf80605a10df08a0
-date: 2026-04-23
+date: 2026-05-01
 tags: [Devr.AI, architecture]
 related: [[Devr.AI-index]]
 ---
+
 # Architecture — Devr.AI
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 530308 Apr 23 00:32 ./poetry.lock

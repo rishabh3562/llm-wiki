@@ -2,11 +2,13 @@
 repo: agents-ed
 type: architecture
 commit: ed47c5d1b74e0e4a54fe6e2b248c640fb6666f0a
-date: 2026-04-23
+date: 2026-04-26
 tags: [agents-ed, architecture]
 related: [[agents-ed-index]]
 ---
+
 # Architecture — agents-ed
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 6284000 Apr 20 16:15 ./3_crew/stock_picker/memory/04eb6688-8d89-4eee-a8d7-d2ef2a916e4b/data_level0.bin

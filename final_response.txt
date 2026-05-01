@@ -1,0 +1,31 @@
+Repo Processing Performance Analysis Summary
+
+## What I Did
+- Analyzed queue flow in MongoDB github_wiki.repo_queue
+- Reviewed processing scripts (run_llm_wiki.py, run_one_repo.py, wrapper scripts)
+- Checked for existing timing metrics and failure patterns
+- Evaluated cron job constraints (hourly at :00 UTC, one repo per run)
+- Consulted existing optimization suggestions
+
+## What I Found
+- Queue State: 83 total documents (82 pending, 0 processing, 1 done, 0 failed)
+- Performance Limitations: No valid timestamp pairs for completed jobs - cannot calculate average processing times
+- Missing `started_at` and `finished_at` timestamps in queue documents
+- No stuck job detection mechanism
+- Limited failure analysis due to incomplete error tracking
+- System Constraints: Primary job `llm_wiki_toolbox` runs hourly at :00 UTC, must not break hourly processing
+
+## Recommendations (1-2 Specific Optimizations)
+1. **Add Queue Timing Metrics**: Implement proper `started_at` and `finished_at` timestamps in queue operations to enable performance monitoring (average processing times, bottleneck identification)
+2. **Implement Stuck Job Detection**: Add automatic detection and termination of jobs exceeding maximum runtime (55 minutes) to prevent queue blocking
+
+Both optimizations are non-disruptive, maintain the hourly processing constraint, and provide immediate visibility into system performance.
+
+## Files Created
+- `/opt/llm_wiki/repo_processing_analysis_summary.md` (detailed analysis)
+- `/opt/llm_wiki/task_summary.txt` (concise summary)
+
+## Issues Encountered
+- No cron job found in standard locations (likely managed externally via Hermes)
+- Queue documents lack timing fields needed for performance analysis
+- Limited historical data for failure pattern analysis (0 failed jobs currently)

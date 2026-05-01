@@ -2,11 +2,13 @@
 repo: commitiq-langsmith
 type: architecture
 commit: fd81eb6dbfa8c2af998b373c5a5f911235374753
-date: 2026-04-23
+date: 2026-04-30
 tags: [commitiq-langsmith, architecture]
 related: [[commitiq-langsmith-index]]
 ---
+
 # Architecture — commitiq-langsmith
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 8239 Apr 23 12:22 ./bot/slack_bot_v2.py

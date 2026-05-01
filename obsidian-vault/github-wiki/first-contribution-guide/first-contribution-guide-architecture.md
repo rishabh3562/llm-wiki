@@ -2,11 +2,13 @@
 repo: first-contribution-guide
 type: architecture
 commit: 75986646d2cf5ac00a6e3cd781c65bf545a78b70
-date: 2026-04-23
+date: 2026-05-01
 tags: [first-contribution-guide, architecture]
 related: [[first-contribution-guide-index]]
 ---
+
 # Architecture — first-contribution-guide
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 3289 Apr 23 12:31 ./guide/FAQ.md

@@ -2,11 +2,13 @@
 repo: Codenote-ai
 type: architecture
 commit: 597e764dfc1bae21dffc4c476fc987b721db0e9a
-date: 2026-04-23
+date: 2026-04-30
 tags: [Codenote-ai, architecture]
 related: [[Codenote-ai-index]]
 ---
+
 # Architecture — Codenote-ai
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 627119 Apr 23 00:22 ./frontend/package-lock.json

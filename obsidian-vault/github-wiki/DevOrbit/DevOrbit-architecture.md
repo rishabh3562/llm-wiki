@@ -2,11 +2,13 @@
 repo: DevOrbit
 type: architecture
 commit: 93278f6cd6890b008eb627551ba968d98d9ef171
-date: 2026-04-23
+date: 2026-05-01
 tags: [DevOrbit, architecture]
 related: [[DevOrbit-index]]
 ---
+
 # Architecture — DevOrbit
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1862794 Apr 23 00:31 ./public/icons/calendar.svg

@@ -2,11 +2,13 @@
 repo: blog-backend-tut-js
 type: architecture
 commit: a9c1ffaf738b9bf7fd91d3b906c68a869d175114
-date: 2026-04-23
+date: 2026-04-29
 tags: [blog-backend-tut-js, architecture]
 related: [[blog-backend-tut-js-index]]
 ---
+
 # Architecture — blog-backend-tut-js
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 58920 Apr 23 12:20 ./package-lock.json

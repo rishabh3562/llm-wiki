@@ -2,9 +2,10 @@
 repo: E-Comm-MERN
 type: index
 commit: 2a6b99bee9969a77fe9aa3e7a3bfd580c4a0aa86
-date: 2026-04-23
+date: 2026-05-01
 tags: [E-Comm-MERN, index]
 ---
+
 # E-Comm-MERN — Index
 
 ## What This Repo Is
@@ -29,3 +30,10 @@ a03487f 2023-09-05 basic backend setup 1 (Rishabh Dubey)
 - [[E-Comm-MERN-patterns|Patterns]]
 - [[E-Comm-MERN-improvements|Improvements]]
 - [[E-Comm-MERN-self_portrait|Self Portrait]]
+- [[E-Comm-MERN-module_backend|Module — backend]]
+- [[E-Comm-MERN-module_vscode|Module — .vscode]]
+- [[E-Comm-MERN-hotspot_usercontroller|Hotspot — backend/controllers/userController.js]]
+- [[E-Comm-MERN-hotspot_usermodel|Hotspot — backend/models/userModel.js]]
+- [[E-Comm-MERN-hotspot_productcontroller|Hotspot — backend/controllers/productController.js]]
+- [[E-Comm-MERN-hotspot_ordermodel|Hotspot — backend/models/orderModel.js]]
+- [[E-Comm-MERN-hotspot_productmodel|Hotspot — backend/models/productModel.js]]

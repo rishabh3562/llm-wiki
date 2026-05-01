@@ -2,11 +2,13 @@
 repo: E-Comm-MERN
 type: architecture
 commit: 2a6b99bee9969a77fe9aa3e7a3bfd580c4a0aa86
-date: 2026-04-23
+date: 2026-05-01
 tags: [E-Comm-MERN, architecture]
 related: [[E-Comm-MERN-index]]
 ---
+
 # Architecture — E-Comm-MERN
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 3385 Apr 23 00:34 ./backend/controllers/userController.js

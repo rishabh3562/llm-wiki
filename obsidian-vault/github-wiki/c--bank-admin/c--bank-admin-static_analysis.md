@@ -1,0 +1,15 @@
+---
+repo: c--bank-admin
+type: static_analysis
+commit: aed4234b4126b20e1e145625a8cbfc594d12af2d
+date: 2026-04-30
+tags: [c--bank-admin, static_analysis]
+related: [[c--bank-admin-index]]
+---
+
+{
+  "largest_files": "-rw-r--r-- 1 root root 162304 Apr 30 08:55 ./obj/Debug/net10.0/apphost.exe\n-rw-r--r-- 1 root root 162304 Apr 30 08:55 ./bin/Debug/net10.0/c--bank-admin.exe\n-rw-r--r-- 1 root root  20997 Apr 30 08:55 ./obj/c--bank-admin.csproj.nuget.dgspec.json\n-rw-r--r-- 1 root root  20365 Apr 30 08:55 ./obj/project.assets.json\n-rw-r--r-- 1 root root  13796 Apr 30 08:55 ./obj/Debug/net10.0/c--bank-admin.pdb\n-rw-r--r-- 1 root root  13796 Apr 30 08:55 ./bin/Debug/net10.0/c--bank-admin.pdb\n-rw-r--r-- 1 root root  12800 Apr 30 08:55 ./obj/Debug/net10.0/c--bank-admin.dll\n-rw-r--r-- 1 root root  12800 Apr 30 08:55 ./bin/Debug/net10.0/c--bank-admin.dll\n-rw-r--r-- 1 root root   9216 Apr 30 08:55 ./Program.cs\n-rw-r--r-- 1 root root   7596 Apr 30 08:55 ./rough.txt\n-rw-r--r-- 1 root root   6656 Apr 30 08:55 ./obj/Debug/net10.0/refint/c--bank-admin.dll\n-rw-r--r-- 1 root root   6656 Apr 30 08:55 ./obj/Debug/net10.0/ref/c--bank-admin.dll\n-rw-r--r-- 1 root root   1181 Apr 30 08:55 ./obj/Debug/net10.0/c--bank-admin.csproj.FileListAbsolute.txt\n-rw-r--r-- 1 root root   1121 Apr 30 08:55 ./obj/c--bank-admin.csproj.nuget.g.props\n-rw-r--r-- 1 root root   1096 Apr 30 08:55 ./c--bank-admin.sln\n-rw-r--r-- 1 root root    991 Apr 30 08:55 ./obj/Debug/net10.0/c--bank-admin.AssemblyInfo.cs\n-rw-r--r-- 1 root root    764 Apr 30 08:55 ./obj/Debug/net10.0/c--bank-admin.GeneratedMSBuildEditorConfig.editorconfig\n-rw-r--r-- 1 root root    411 Apr 30 08:55 ./bin/Debug/net10.0/c--bank-admin.deps.json\n-rw-r--r-- 1 root root    292 Apr 30 08:55 ./c--bank-admin.csproj\n-rw-r--r-- 1 root root    259 Apr 30 08:55 ./bin/Debug/net10.0/c--bank-admin.runtimeconfig.json\n",
+  "high_churn_files": "      2 obj/project.nuget.cache\n      2 obj/project.assets.json\n      2 obj/c--bank-admin.csproj.nuget.dgspec.json\n      2 obj/Debug/net10.0/refint/c--bank-admin.dll\n      2 obj/Debug/net10.0/ref/c--bank-admin.dll\n      2 obj/Debug/net10.0/c--bank-admin.pdb\n      2 obj/Debug/net10.0/c--bank-admin.dll\n      2 obj/Debug/net10.0/c--bank-admin.csproj.FileListAbsolute.txt\n      2 obj/Debug/net10.0/c--bank-admin.csproj.CoreCompileInputs.cache\n      2 obj/Debug/net10.0/c--bank-admin.AssemblyInfoInputs.cache\n      2 obj/Debug/net10.0/c--bank-admin.AssemblyInfo.cs\n      2 obj/Debug/net10.0/apphost.exe\n      2 bin/Debug/net10.0/c--bank-admin.pdb\n      2 bin/Debug/net10.0/c--bank-admin.exe\n      2 bin/Debug/net10.0/c--bank-admin.dll\n      2 Program.cs\n      1 rough.txt\n      1 obj/c--bank-admin.csproj.nuget.g.targets\n      1 obj/c--bank-admin.csproj.nuget.g.props\n      1 obj/Debug/net10.0/c--bank-admin.sourcelink.json\n",
+  "complexity": "N/A (not a Python repo or radon not installed)",
+  "dead_code": "N/A"
+}

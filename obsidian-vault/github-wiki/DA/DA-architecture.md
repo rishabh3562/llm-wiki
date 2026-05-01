@@ -2,11 +2,13 @@
 repo: DA
 type: architecture
 commit: 97062188f53643bcd990c9196b1d5d71d2845865
-date: 2026-04-23
+date: 2026-05-01
 tags: [DA, architecture]
 related: [[DA-index]]
 ---
+
 # Architecture — DA
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 3229231 Apr 23 00:30 ./colab/test

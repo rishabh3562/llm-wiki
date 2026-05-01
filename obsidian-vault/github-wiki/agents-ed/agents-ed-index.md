@@ -2,9 +2,10 @@
 repo: agents-ed
 type: index
 commit: ed47c5d1b74e0e4a54fe6e2b248c640fb6666f0a
-date: 2026-04-23
+date: 2026-04-26
 tags: [agents-ed, index]
 ---
+
 # agents-ed — Index
 
 ## What This Repo Is

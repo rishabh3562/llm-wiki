@@ -2,11 +2,13 @@
 repo: CodeNote
 type: architecture
 commit: c6246db518344dc12ffb9a118e9c7fdce43fe7d7
-date: 2026-04-23
+date: 2026-04-30
 tags: [CodeNote, architecture]
 related: [[CodeNote-index]]
 ---
+
 # Architecture — CodeNote
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 302098 Apr 23 00:15 ./frontend/package-lock.json

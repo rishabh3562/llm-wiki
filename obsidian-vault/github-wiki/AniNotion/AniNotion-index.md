@@ -2,9 +2,10 @@
 repo: AniNotion
 type: index
 commit: 3ffe94571b286e863ea0549e51fe60b4f483d9e3
-date: 2026-04-22
+date: 2026-04-29
 tags: [AniNotion, index]
 ---
+
 # AniNotion — Index
 
 ## What This Repo Is

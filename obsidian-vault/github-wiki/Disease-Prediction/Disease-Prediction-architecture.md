@@ -2,11 +2,13 @@
 repo: Disease-Prediction
 type: architecture
 commit: 312fabe4f5f7f86a6c103dbad4cd6a60c721cf06
-date: 2026-04-23
+date: 2026-05-01
 tags: [Disease-Prediction, architecture]
 related: [[Disease-Prediction-index]]
 ---
+
 # Architecture — Disease-Prediction
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 7326497 Apr 23 00:33 ./models/model.pkl

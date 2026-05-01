@@ -2,11 +2,13 @@
 repo: fika-ai-engineering-insights-bot
 type: improvements
 commit: 0f539b9e629fd354d09b4ef9d37a285cc5877148
-date: 2026-04-23
+date: 2026-05-01
 tags: [fika-ai-engineering-insights-bot, improvements]
 related: [[fika-ai-engineering-insights-bot-index]]
 ---
+
 # Improvements — fika-ai-engineering-insights-bot
+
 ## Dead Code
 agents/data_harvester.py:1: unused import 'get_pr_files' (90% confidence)
 bot/slack_bot.py:8: unused function 'handle_report' (60% confidence)

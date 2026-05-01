@@ -2,9 +2,10 @@
 repo: DA
 type: index
 commit: 97062188f53643bcd990c9196b1d5d71d2845865
-date: 2026-04-23
+date: 2026-05-01
 tags: [DA, index]
 ---
+
 # DA — Index
 
 ## What This Repo Is
@@ -30,3 +31,4 @@ cdce2ae 2025-02-04 Created using Colab
 - [[DA-patterns|Patterns]]
 - [[DA-improvements|Improvements]]
 - [[DA-self_portrait|Self Portrait]]
+- [[DA-quality_complexity|Quality — Complexity Signals]]

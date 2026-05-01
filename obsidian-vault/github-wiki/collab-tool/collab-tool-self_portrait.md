@@ -2,11 +2,13 @@
 repo: collab-tool
 type: self_portrait
 commit: 36233622cf89285d2d66ac8937a7c9062e3bd0fd
-date: 2026-04-23
+date: 2026-04-30
 tags: [collab-tool, self_portrait]
 related: [[collab-tool-index]]
 ---
+
 # Self Portrait — collab-tool
+
 ## Snapshot from commit history
 # Intent Recovery — collab-tool
 

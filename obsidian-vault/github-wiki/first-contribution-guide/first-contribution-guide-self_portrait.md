@@ -2,11 +2,13 @@
 repo: first-contribution-guide
 type: self_portrait
 commit: 75986646d2cf5ac00a6e3cd781c65bf545a78b70
-date: 2026-04-23
+date: 2026-05-01
 tags: [first-contribution-guide, self_portrait]
 related: [[first-contribution-guide-index]]
 ---
+
 # Self Portrait — first-contribution-guide
+
 ## Snapshot from commit history
 # Intent Recovery — first-contribution-guide
 

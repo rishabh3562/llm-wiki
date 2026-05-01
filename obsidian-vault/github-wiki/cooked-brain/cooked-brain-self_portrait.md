@@ -1,19 +1,21 @@
 ---
 repo: cooked-brain
 type: self_portrait
-commit: aea241d042468b9a41f7577208246a3205d4acdd
-date: 2026-04-23
+commit: d49f55f0c2ec897c03b3ff62bacadc77d0413a79
+date: 2026-05-01
 tags: [cooked-brain, self_portrait]
 related: [[cooked-brain-index]]
 ---
+
 # Self Portrait — cooked-brain
+
 ## Snapshot from commit history
 # Intent Recovery — cooked-brain
 
 ## Timeline
 - First commit: 2026-04-19
-- Last commit: 2026-04-20
-- Total commits: 6
+- Last commit: 2026-04-29
+- Total commits: 7
 
 ## Full Commit Log
 

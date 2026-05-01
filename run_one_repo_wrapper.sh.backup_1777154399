@@ -1,0 +1,5 @@
+#!/bin/bash
+# Load environment variables from files as used by run_llm_wiki.py
+export MONGODB_URI="mongodb+srv://dubeyrishabh108_db_user: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@cluster0.j8iafjr.mongodb.net/github_wiki?retryWrites=true&w=majority"
+export GITHUB_PAT=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
+cd /opt/llm_wiki && python3 run_one_repo.py

@@ -2,11 +2,13 @@
 repo: flask-crud
 type: improvements
 commit: 17ca177da841432d62e1838d76b69afd651d49bf
-date: 2026-04-23
+date: 2026-05-01
 tags: [flask-crud, improvements]
 related: [[flask-crud-index]]
 ---
+
 # Improvements — flask-crud
+
 ## Dead Code
 app.py:7: unused function 'index' (60% confidence)
 app.py:11: unused function 'add' (60% confidence)

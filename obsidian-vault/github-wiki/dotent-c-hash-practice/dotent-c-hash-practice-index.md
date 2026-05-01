@@ -2,9 +2,10 @@
 repo: dotent-c-hash-practice
 type: index
 commit: 983c03fca9a72bb461799af9c3ca7d70c8b92b68
-date: 2026-04-23
+date: 2026-05-01
 tags: [dotent-c-hash-practice, index]
 ---
+
 # dotent-c-hash-practice — Index
 
 ## What This Repo Is
@@ -31,3 +32,6 @@ tags: [dotent-c-hash-practice, index]
 - [[dotent-c-hash-practice-patterns|Patterns]]
 - [[dotent-c-hash-practice-improvements|Improvements]]
 - [[dotent-c-hash-practice-self_portrait|Self Portrait]]
+- [[dotent-c-hash-practice-hotspot_program|Hotspot — Program.cs]]
+- [[dotent-c-hash-practice-language_cs|Language — cs]]
+- [[dotent-c-hash-practice-quality_complexity|Quality — Complexity Signals]]

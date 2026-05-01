@@ -2,11 +2,13 @@
 repo: agents-ed
 type: improvements
 commit: ed47c5d1b74e0e4a54fe6e2b248c640fb6666f0a
-date: 2026-04-23
+date: 2026-04-26
 tags: [agents-ed, improvements]
 related: [[agents-ed-index]]
 ---
+
 # Improvements — agents-ed
+
 ## Dead Code
 1_foundations/app.py:23: unused function 'record_user_details' (60% confidence)
 1_foundations/app.py:27: unused function 'record_unknown_question' (60% confidence)

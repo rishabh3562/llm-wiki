@@ -2,9 +2,10 @@
 repo: first-contribution-guide
 type: index
 commit: 75986646d2cf5ac00a6e3cd781c65bf545a78b70
-date: 2026-04-23
+date: 2026-05-01
 tags: [first-contribution-guide, index]
 ---
+
 # first-contribution-guide — Index
 
 ## What This Repo Is
@@ -28,3 +29,4 @@ ca4e99a 2025-10-08 Merge pull request #1 from aryacreations/aryankumar-first-PR 
 - [[first-contribution-guide-patterns|Patterns]]
 - [[first-contribution-guide-improvements|Improvements]]
 - [[first-contribution-guide-self_portrait|Self Portrait]]
+- [[first-contribution-guide-quality_complexity|Quality — Complexity Signals]]
