@@ -2,11 +2,13 @@
 repo: open-agent-builder
 type: architecture
 commit: be856e57f8126e90915c898f473dc94fbaefc945
-date: 2026-04-23
+date: 2026-05-01
 tags: [open-agent-builder, architecture]
 related: [[open-agent-builder-index]]
 ---
+
 # Architecture — open-agent-builder
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 577451 Apr 23 22:10 ./tsconfig.tsbuildinfo
