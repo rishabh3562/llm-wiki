@@ -2,11 +2,13 @@
 repo: palantir-feedback-loop
 type: architecture
 commit: b62f9e054064704b91f4fba59e496a2489cfa8e2
-date: 2026-04-23
+date: 2026-05-01
 tags: [palantir-feedback-loop, architecture]
 related: [[palantir-feedback-loop-index]]
 ---
+
 # Architecture — palantir-feedback-loop
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 7402 Apr 23 22:11 ./rough2.md
