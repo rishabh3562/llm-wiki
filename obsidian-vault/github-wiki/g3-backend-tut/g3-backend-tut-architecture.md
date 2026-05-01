@@ -2,11 +2,13 @@
 repo: g3-backend-tut
 type: architecture
 commit: 941e89753d41e0449b0c655298fc7935f6c918b4
-date: 2026-04-23
+date: 2026-05-01
 tags: [g3-backend-tut, architecture]
 related: [[g3-backend-tut-index]]
 ---
+
 # Architecture — g3-backend-tut
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 108623 Apr 23 18:00 ./frontend/package-lock.json

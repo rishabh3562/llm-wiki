@@ -2,9 +2,10 @@
 repo: g3-backend-tut
 type: index
 commit: 941e89753d41e0449b0c655298fc7935f6c918b4
-date: 2026-04-23
+date: 2026-05-01
 tags: [g3-backend-tut, index]
 ---
+
 # g3-backend-tut — Index
 
 ## What This Repo Is
@@ -29,3 +30,24 @@ f950109 2025-11-24 init (rishabh3562)
 - [[g3-backend-tut-patterns|Patterns]]
 - [[g3-backend-tut-improvements|Improvements]]
 - [[g3-backend-tut-self_portrait|Self Portrait]]
+- [[g3-backend-tut-module_frontend|Module — frontend]]
+- [[g3-backend-tut-module_controller|Module — controller]]
+- [[g3-backend-tut-module_routes|Module — routes]]
+- [[g3-backend-tut-module_config|Module — config]]
+- [[g3-backend-tut-module_vscode|Module — .vscode]]
+- [[g3-backend-tut-module_models|Module — models]]
+- [[g3-backend-tut-module_middleware|Module — middleware]]
+- [[g3-backend-tut-hotspot_package-lock|Hotspot — frontend/package-lock.json]]
+- [[g3-backend-tut-hotspot_authcontroller|Hotspot — controller/authController.js]]
+- [[g3-backend-tut-hotspot_auth|Hotspot — middleware/auth.js]]
+- [[g3-backend-tut-hotspot_usercontroller|Hotspot — controller/userController.js]]
+- [[g3-backend-tut-hotspot_usermodel|Hotspot — models/userModel.js]]
+- [[g3-backend-tut-hotspot_eslint-config|Hotspot — frontend/eslint.config.js]]
+- [[g3-backend-tut-hotspot_package|Hotspot — frontend/package.json]]
+- [[g3-backend-tut-hotspot_userrouter|Hotspot — routes/userRouter.js]]
+- [[g3-backend-tut-hotspot_app|Hotspot — frontend/src/App.jsx]]
+- [[g3-backend-tut-hotspot_server|Hotspot — server.js]]
+- [[g3-backend-tut-language_js|Language — js]]
+- [[g3-backend-tut-language_json|Language — json]]
+- [[g3-backend-tut-language_jsx|Language — jsx]]
+- [[g3-backend-tut-quality_complexity|Quality — Complexity Signals]]

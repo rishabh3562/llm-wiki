@@ -2,11 +2,13 @@
 repo: gemagent-sdk
 type: architecture
 commit: 48b9cf8ec2d6bc0aada67fb8a0b77abb2c0e47cb
-date: 2026-04-23
+date: 2026-05-01
 tags: [gemagent-sdk, architecture]
 related: [[gemagent-sdk-index]]
 ---
+
 # Architecture — gemagent-sdk
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 10898 Apr 23 20:00 ./examples/test-0.1.1.ipynb

@@ -2,11 +2,13 @@
 repo: g4-backend-tut
 type: self_portrait
 commit: f1ae71ce6791b5d3e0cb00be035a0e2a2b84541b
-date: 2026-04-23
+date: 2026-05-01
 tags: [g4-backend-tut, self_portrait]
 related: [[g4-backend-tut-index]]
 ---
+
 # Self Portrait — g4-backend-tut
+
 ## Snapshot from commit history
 # Intent Recovery — g4-backend-tut
 

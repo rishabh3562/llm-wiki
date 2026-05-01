@@ -2,11 +2,13 @@
 repo: gemagent-sdk
 type: improvements
 commit: 48b9cf8ec2d6bc0aada67fb8a0b77abb2c0e47cb
-date: 2026-04-23
+date: 2026-05-01
 tags: [gemagent-sdk, improvements]
 related: [[gemagent-sdk-index]]
 ---
+
 # Improvements — gemagent-sdk
+
 ## Dead Code
 gemagent/agent.py:84: unused method 'run_streamed' (60% confidence)
 gemagent/runner.py:38: unused method 'run_streamed' (60% confidence)

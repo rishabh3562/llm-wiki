@@ -2,11 +2,13 @@
 repo: g2-backend-tut
 type: architecture
 commit: 8b521f507669ab557836b2cd44fb0df4d3cbbbcf
-date: 2026-04-23
+date: 2026-05-01
 tags: [g2-backend-tut, architecture]
 related: [[g2-backend-tut-index]]
 ---
+
 # Architecture — g2-backend-tut
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 43546 Apr 23 17:00 ./package-lock.json

@@ -2,11 +2,13 @@
 repo: g4-backend-tut
 type: architecture
 commit: f1ae71ce6791b5d3e0cb00be035a0e2a2b84541b
-date: 2026-04-23
+date: 2026-05-01
 tags: [g4-backend-tut, architecture]
 related: [[g4-backend-tut-index]]
 ---
+
 # Architecture — g4-backend-tut
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 108623 Apr 23 19:01 ./frontend/package-lock.json
