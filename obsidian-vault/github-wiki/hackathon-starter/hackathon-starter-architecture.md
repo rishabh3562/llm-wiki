@@ -2,11 +2,13 @@
 repo: hackathon-starter
 type: architecture
 commit: baf56493f53b6ad80c302d4d39d11fe31aa8263a
-date: 2026-04-23
+date: 2026-05-01
 tags: [hackathon-starter, architecture]
 related: [[hackathon-starter-index]]
 ---
+
 # Architecture — hackathon-starter
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 383533 Apr 23 21:01 ./package-lock.json
