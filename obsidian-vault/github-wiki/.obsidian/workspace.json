@@ -11,10 +11,14 @@
             "id": "afa5a356dbe8f730",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EduSolve/EduSolve-hotspot_page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EduSolve-hotspot_page"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EduSolve/EduSolve-hotspot_page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for EduSolve-hotspot_page"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EduSolve/EduSolve-hotspot_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from EduSolve-hotspot_page"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "EduSolve/EduSolve-hotspot_page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of EduSolve-hotspot_page"
             }
           }
         ]
@@ -176,31 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "ace89a94bbbad781",
+  "active": "afa5a356dbe8f730",
   "lastOpenFiles": [
-    "g1-backend-tut/g1-backend-tut-module_routes.md",
-    "g1-backend-tut/g1-backend-tut-module_model.md",
-    "g1-backend-tut/g1-backend-tut-module_middleware.md",
-    "g1-backend-tut/g1-backend-tut-module_controllers.md",
-    "g1-backend-tut/g1-backend-tut-module_config.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_userroutes.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_usermodel.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_usercontroller.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_server.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_package.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_package-lock.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_database.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_authroutes.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_authcontroller.md",
-    "g1-backend-tut/g1-backend-tut-hotspot_auth.md",
-    "ToolBox/self_portrait.md",
-    "ToolBox/progression.md",
-    "ToolBox/patterns.md",
-    "ToolBox/intent_recovery.md",
-    "ToolBox/improvements.md",
-    "ToolBox/architecture.md",
-    "aicte_colleges/aicte_colleges-improvements.md",
-    "fika-ai-engineering-insights-bot/fika-ai-engineering-insights-bot-index.md",
-    "Devr.AI/Devr.AI-architecture.md"
+    "EduSolve/EduSolve-hotspot_nav-bar.md",
+    "EduSolve/EduSolve-hotspot_menubar.md",
+    "EduSolve/EduSolve-hotspot_chart.md",
+    "EduSolve/EduSolve-hotspot_carousel.md",
+    "coneixement-assignment-backend/coneixement-assignment-backend-hotspot_productmodel.md",
+    "coneixement-assignment-backend/coneixement-assignment-backend-hotspot_ordermodel.md",
+    "coneixement-assignment-backend/coneixement-assignment-backend-architecture.md",
+    "AniNotion/AniNotion-self_portrait.md",
+    "AniNotion/AniNotion-index.md",
+    "AniNotion/AniNotion-improvements.md",
+    "AniNotion/AniNotion-architecture.md",
+    "LinkTree/LinkTree-architecture.md",
+    "LinkTree/LinkTree-hotspot_linksdata.md",
+    "LinkTree/LinkTree-index.md",
+    "lodging-website/lodging-website-static_analysis.md",
+    "lodging-website/lodging-website-self_portrait.md",
+    "lodging-website/lodging-website-patterns.md",
+    "lodging-website/lodging-website-module_frontend.md",
+    "lodging-website/lodging-website-language_jsx.md",
+    "lodging-website/lodging-website-language_json.md",
+    "lodging-website/lodging-website-language_js.md",
+    "lodging-website/lodging-website-intent_recovery.md",
+    "lodging-website/lodging-website-index.md",
+    "lodging-website/lodging-website-improvements.md",
+    "lodging-website/lodging-website-hotspot_stafflogin.md",
+    "lodging-website/lodging-website-hotspot_staffmanagement.md",
+    "lodging-website",
+    "linear-clone",
+    "instagram-data-HTML-",
+    "MERN-stack",
+    "LinkTree",
+    "Latency-Topology-Visualizer",
+    "InsightPulse",
+    "HireQuotient",
+    "HSA-N",
+    "leetcode-company-wise-problems-2022",
+    "Untitled.canvas"
   ]
 }
