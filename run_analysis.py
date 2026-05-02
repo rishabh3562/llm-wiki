@@ -185,12 +185,31 @@ def get_next_repo(all_repos):
 
 def prepare_repo(repo):
     path = REPOS_DIR / repo["name"]
-    url = repo.get("ssh_url") or f"git@github.com:{GITHUB_USER}/{repo['name']}.git"
+    ssh_url = repo.get("ssh_url") or f"git@github.com:{GITHUB_USER}/{repo['name']}.git"
+    https_url = repo.get("html_url", "").replace("https://github.com/", "https://x-access-token:" + GITHUB_PAT + "@github.com/")
+    clone_urls = [ssh_url]
+    if https_url:
+        clone_urls.append(https_url)
+
     if not path.exists():
-        subprocess.run(["git","clone",url,str(path)], check=True)
+        last_err = None
+        for url in clone_urls:
+            try:
+                subprocess.run(["git","clone",url,str(path)], check=True)
+                last_err = None
+                break
+            except subprocess.CalledProcessError as e:
+                last_err = e
+                if path.exists():
+                    subprocess.run(["rm","-rf",str(path)])
+        if last_err:
+            raise last_err
     else:
         subprocess.run(["git","fetch","origin"], cwd=path)
-        subprocess.run(["git","reset","--hard","origin/HEAD"], cwd=path)
+        try:
+            subprocess.run(["git","reset","--hard","origin/HEAD"], cwd=path, check=True)
+        except subprocess.CalledProcessError:
+            subprocess.run(["git","reset","--hard","origin/main"], cwd=path, check=True)
     return path
 
 def phase_archaeology(repo_path, repo_name):
