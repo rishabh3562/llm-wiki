@@ -2,9 +2,10 @@
 repo: You-Write
 type: index
 commit: f712c96f63f9c328bbb4d05db50efd9108dcc029
-date: 2026-04-23
+date: 2026-05-02
 tags: [You-Write, index]
 ---
+
 # You-Write — Index
 
 ## What This Repo Is
@@ -29,3 +30,4 @@ cae324b 2023-05-19 br1 commit :! (Rishabh Dubey)
 - [[You-Write-patterns|Patterns]]
 - [[You-Write-improvements|Improvements]]
 - [[You-Write-self_portrait|Self Portrait]]
+- [[You-Write-quality_complexity|Quality — Complexity Signals]]

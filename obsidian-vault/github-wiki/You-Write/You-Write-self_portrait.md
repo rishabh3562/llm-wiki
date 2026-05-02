@@ -2,11 +2,13 @@
 repo: You-Write
 type: self_portrait
 commit: f712c96f63f9c328bbb4d05db50efd9108dcc029
-date: 2026-04-23
+date: 2026-05-02
 tags: [You-Write, self_portrait]
 related: [[You-Write-index]]
 ---
+
 # Self Portrait — You-Write
+
 ## Snapshot from commit history
 # Intent Recovery — You-Write
 

@@ -2,11 +2,13 @@
 repo: You-Write
 type: architecture
 commit: f712c96f63f9c328bbb4d05db50efd9108dcc029
-date: 2026-04-23
+date: 2026-05-02
 tags: [You-Write, architecture]
 related: [[You-Write-index]]
 ---
+
 # Architecture — You-Write
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 200 Apr 23 12:18 ./naruto.txt
