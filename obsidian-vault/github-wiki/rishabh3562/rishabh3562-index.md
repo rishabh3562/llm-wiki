@@ -2,9 +2,10 @@
 repo: rishabh3562
 type: index
 commit: bec237fd3faf8efce41c29a00cabff30aad83386
-date: 2026-04-23
+date: 2026-05-02
 tags: [rishabh3562, index]
 ---
+
 # rishabh3562 — Index
 
 ## What This Repo Is
@@ -29,3 +30,4 @@ f7e0806 2023-05-10 Update README.md part 2 (Rishabh Dubey)
 - [[rishabh3562-patterns|Patterns]]
 - [[rishabh3562-improvements|Improvements]]
 - [[rishabh3562-self_portrait|Self Portrait]]
+- [[rishabh3562-quality_complexity|Quality — Complexity Signals]]
