@@ -2,11 +2,13 @@
 repo: Spotify-Clone
 type: architecture
 commit: c8dd1940717d25c449d85587cd90f21ba4ddf8a5
-date: 2026-04-23
+date: 2026-05-02
 tags: [Spotify-Clone, architecture]
 related: [[Spotify-Clone-index]]
 ---
+
 # Architecture — Spotify-Clone
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1239055 Apr 23 12:12 ./package-lock.json
