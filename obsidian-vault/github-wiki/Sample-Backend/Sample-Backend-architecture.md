@@ -2,11 +2,13 @@
 repo: Sample-Backend
 type: architecture
 commit: 7f9d094f657dd8e67d32b07a56ac6b30b5720f3b
-date: 2026-04-23
+date: 2026-05-02
 tags: [Sample-Backend, architecture]
 related: [[Sample-Backend-index]]
 ---
+
 # Architecture — Sample-Backend
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 274470 Apr 23 12:03 ./package-lock.json
