@@ -2,9 +2,10 @@
 repo: Url-Shortener-Backend
 type: index
 commit: 1195024133ae41190356f307b8d18fb70a2c5e21
-date: 2026-04-23
+date: 2026-05-02
 tags: [Url-Shortener-Backend, index]
 ---
+
 # Url-Shortener-Backend — Index
 
 ## What This Repo Is
@@ -28,3 +29,13 @@ tags: [Url-Shortener-Backend, index]
 - [[Url-Shortener-Backend-patterns|Patterns]]
 - [[Url-Shortener-Backend-improvements|Improvements]]
 - [[Url-Shortener-Backend-self_portrait|Self Portrait]]
+- [[Url-Shortener-Backend-module_models|Module — models]]
+- [[Url-Shortener-Backend-module_routes|Module — routes]]
+- [[Url-Shortener-Backend-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[Url-Shortener-Backend-hotspot_urlroute|Hotspot — routes/urlRoute.js]]
+- [[Url-Shortener-Backend-hotspot_index|Hotspot — index.js]]
+- [[Url-Shortener-Backend-hotspot_package|Hotspot — package.json]]
+- [[Url-Shortener-Backend-hotspot_url|Hotspot — models/url.js]]
+- [[Url-Shortener-Backend-language_js|Language — js]]
+- [[Url-Shortener-Backend-language_json|Language — json]]
+- [[Url-Shortener-Backend-quality_complexity|Quality — Complexity Signals]]
