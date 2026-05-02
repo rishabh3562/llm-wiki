@@ -2,11 +2,13 @@
 repo: PromptOps
 type: self_portrait
 commit: fe863aa3feaea4fe944787e48ad613ee0c282d7c
-date: 2026-04-23
+date: 2026-05-02
 tags: [PromptOps, self_portrait]
 related: [[PromptOps-index]]
 ---
+
 # Self Portrait — PromptOps
+
 ## Snapshot from commit history
 # Intent Recovery — PromptOps
 

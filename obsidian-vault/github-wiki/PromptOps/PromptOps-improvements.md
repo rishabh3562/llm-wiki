@@ -2,11 +2,13 @@
 repo: PromptOps
 type: improvements
 commit: fe863aa3feaea4fe944787e48ad613ee0c282d7c
-date: 2026-04-23
+date: 2026-05-02
 tags: [PromptOps, improvements]
 related: [[PromptOps-index]]
 ---
+
 # Improvements — PromptOps
+
 ## Dead Code
 actions/browser.py:3: unused function 'open_url' (60% confidence)
 actions/focus_window.py:3: unused function 'focus_window' (60% confidence)

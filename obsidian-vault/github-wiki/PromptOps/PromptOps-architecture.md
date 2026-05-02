@@ -2,11 +2,13 @@
 repo: PromptOps
 type: architecture
 commit: fe863aa3feaea4fe944787e48ad613ee0c282d7c
-date: 2026-04-23
+date: 2026-05-02
 tags: [PromptOps, architecture]
 related: [[PromptOps-index]]
 ---
+
 # Architecture — PromptOps
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 8028 Apr 23 08:01 ./core/controller.py
