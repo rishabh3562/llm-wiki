@@ -2,9 +2,10 @@
 repo: RBAC-MERN
 type: index
 commit: 680b233c482f5ff79b770851ed986571b1de5851
-date: 2026-04-23
+date: 2026-05-02
 tags: [RBAC-MERN, index]
 ---
+
 # RBAC-MERN — Index
 
 ## What This Repo Is
@@ -29,3 +30,16 @@ d2efb14 2025-04-13 docs: readme and passport.md added (rishabh3562)
 - [[RBAC-MERN-patterns|Patterns]]
 - [[RBAC-MERN-improvements|Improvements]]
 - [[RBAC-MERN-self_portrait|Self Portrait]]
+- [[RBAC-MERN-module_config|Module — config]]
+- [[RBAC-MERN-module_controllers|Module — controllers]]
+- [[RBAC-MERN-module_models|Module — models]]
+- [[RBAC-MERN-module_routes|Module — routes]]
+- [[RBAC-MERN-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[RBAC-MERN-hotspot_authcontroller|Hotspot — controllers/authController.js]]
+- [[RBAC-MERN-hotspot_passportconfig|Hotspot — config/passportConfig.js]]
+- [[RBAC-MERN-hotspot_user|Hotspot — models/User.js]]
+- [[RBAC-MERN-hotspot_server|Hotspot — server.js]]
+- [[RBAC-MERN-hotspot_package|Hotspot — package.json]]
+- [[RBAC-MERN-hotspot_authroutes|Hotspot — routes/authRoutes.js]]
+- [[RBAC-MERN-hotspot_db|Hotspot — config/db.js]]
+- [[RBAC-MERN-hotspot_middleware|Hotspot — middleware.js]]

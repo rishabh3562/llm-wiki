@@ -2,11 +2,13 @@
 repo: RBAC-MERN
 type: architecture
 commit: 680b233c482f5ff79b770851ed986571b1de5851
-date: 2026-04-23
+date: 2026-05-02
 tags: [RBAC-MERN, architecture]
 related: [[RBAC-MERN-index]]
 ---
+
 # Architecture — RBAC-MERN
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 56829 Apr 23 10:02 ./package-lock.json
