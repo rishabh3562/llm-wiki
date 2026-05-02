@@ -2,11 +2,13 @@
 repo: Shortly
 type: architecture
 commit: d74b96da2b9a52853fc823580b56c444a78fdbd0
-date: 2026-04-23
+date: 2026-05-02
 tags: [Shortly, architecture]
 related: [[Shortly-index]]
 ---
+
 # Architecture — Shortly
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 4483 Apr 23 12:09 ./frontend/src/Pages/Home.jsx

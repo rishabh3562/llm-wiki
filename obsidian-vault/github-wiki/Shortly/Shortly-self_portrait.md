@@ -2,11 +2,13 @@
 repo: Shortly
 type: self_portrait
 commit: d74b96da2b9a52853fc823580b56c444a78fdbd0
-date: 2026-04-23
+date: 2026-05-02
 tags: [Shortly, self_portrait]
 related: [[Shortly-index]]
 ---
+
 # Self Portrait — Shortly
+
 ## Snapshot from commit history
 # Intent Recovery — Shortly
 
