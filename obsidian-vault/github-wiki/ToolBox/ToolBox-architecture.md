@@ -2,11 +2,13 @@
 repo: ToolBox
 type: architecture
 commit: 514fbb7d2d353b7d7ec475e10ac99cb22b487a74
-date: 2026-04-23
+date: 2026-05-02
 tags: [ToolBox, architecture]
 related: [[ToolBox-index]]
 ---
+
 # Architecture — ToolBox
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 891404 Apr 23 12:16 ./docs/package-lock.json
