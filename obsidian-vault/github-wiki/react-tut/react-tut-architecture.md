@@ -2,11 +2,13 @@
 repo: react-tut
 type: architecture
 commit: fcc40700a42bb1b8a971153a8552ced2de59b24e
-date: 2026-04-23
+date: 2026-05-02
 tags: [react-tut, architecture]
 related: [[react-tut-index]]
 ---
+
 # Architecture — react-tut
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 102850 Apr 23 22:15 ./package-lock.json
