@@ -2,11 +2,13 @@
 repo: promptops-operator
 type: architecture
 commit: 8ff468dfc663fff299e9f03481001203f2f4a6d5
-date: 2026-04-23
+date: 2026-05-02
 tags: [promptops-operator, architecture]
 related: [[promptops-operator-index]]
 ---
+
 # Architecture — promptops-operator
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 4353 Apr 23 22:13 ./.gitignore

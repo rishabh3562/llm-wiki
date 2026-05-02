@@ -2,11 +2,13 @@
 repo: promptops-operator
 type: improvements
 commit: 8ff468dfc663fff299e9f03481001203f2f4a6d5
-date: 2026-04-23
+date: 2026-05-02
 tags: [promptops-operator, improvements]
 related: [[promptops-operator-index]]
 ---
+
 # Improvements — promptops-operator
+
 ## Dead Code
 config/clients.py:20: unused function 'get_mongo_collection' (60% confidence)
 registry/query.py:18: unused function 'query_mongo' (60% confidence)
