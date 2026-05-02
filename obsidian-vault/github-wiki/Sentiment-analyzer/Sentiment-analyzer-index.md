@@ -2,9 +2,10 @@
 repo: Sentiment-analyzer
 type: index
 commit: a697f11fa97e82dd60c5a2dae39e7fd576a8a6ab
-date: 2026-04-23
+date: 2026-05-02
 tags: [Sentiment-analyzer, index]
 ---
+
 # Sentiment-analyzer — Index
 
 ## What This Repo Is
@@ -30,3 +31,6 @@ a697f11 2025-03-28 notebook : training notebook of model (rishabh3562)
 - [[Sentiment-analyzer-patterns|Patterns]]
 - [[Sentiment-analyzer-improvements|Improvements]]
 - [[Sentiment-analyzer-self_portrait|Self Portrait]]
+- [[Sentiment-analyzer-hotspot_app|Hotspot — app.py]]
+- [[Sentiment-analyzer-language_py|Language — py]]
+- [[Sentiment-analyzer-quality_complexity|Quality — Complexity Signals]]
