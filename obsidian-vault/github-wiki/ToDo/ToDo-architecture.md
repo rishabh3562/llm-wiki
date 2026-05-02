@@ -2,11 +2,13 @@
 repo: ToDo
 type: architecture
 commit: 52370377010016636a08d86b4db7f66e7aa42b8b
-date: 2026-04-23
+date: 2026-05-02
 tags: [ToDo, architecture]
 related: [[ToDo-index]]
 ---
+
 # Architecture — ToDo
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 283834 Apr 23 12:14 ./package-lock.json
