@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem \"D:\\\\rishabh\" -Force)",
+      "Bash(Select-Object Name, Mode, Length, LastWriteTime)",
+      "Read(//d/rishabh/**)",
+      "Read(//mnt/d/**)",
+      "Bash(dir /d/rishabh)",
+      "Bash(dir D:\\\\rishabh)"
+    ]
+  }
+}
