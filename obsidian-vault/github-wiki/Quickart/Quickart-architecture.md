@@ -2,11 +2,13 @@
 repo: Quickart
 type: architecture
 commit: ee58ee728cdedc042eb2639eb5d3a6cd2faae18b
-date: 2026-04-23
+date: 2026-05-02
 tags: [Quickart, architecture]
 related: [[Quickart-index]]
 ---
+
 # Architecture — Quickart
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1067462 Apr 23 09:07 ./public/png/file.png

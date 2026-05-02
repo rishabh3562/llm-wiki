@@ -2,9 +2,10 @@
 repo: Quickart
 type: index
 commit: ee58ee728cdedc042eb2639eb5d3a6cd2faae18b
-date: 2026-04-23
+date: 2026-05-02
 tags: [Quickart, index]
 ---
+
 # Quickart — Index
 
 ## What This Repo Is
@@ -30,3 +31,23 @@ d423
 - [[Quickart-patterns|Patterns]]
 - [[Quickart-improvements|Improvements]]
 - [[Quickart-self_portrait|Self Portrait]]
+- [[Quickart-module_src|Module — src]]
+- [[Quickart-module_public|Module — public]]
+- [[Quickart-module_vscode|Module — .vscode]]
+- [[Quickart-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[Quickart-hotspot_cart|Hotspot — src/pages/cart.jsx]]
+- [[Quickart-hotspot_products|Hotspot — src/pages/products.jsx]]
+- [[Quickart-hotspot_navbar|Hotspot — src/components/ecommerce/Navbar.jsx]]
+- [[Quickart-hotspot_product-overview|Hotspot — src/pages/product-overview.jsx]]
+- [[Quickart-hotspot_index|Hotspot — src/pages/index.js]]
+- [[Quickart-hotspot_document|Hotspot — src/pages/_document.js]]
+- [[Quickart-hotspot_product|Hotspot — src/pages/api/product.js]]
+- [[Quickart-hotspot_login|Hotspot — src/pages/login.jsx]]
+- [[Quickart-hotspot_wishlist|Hotspot — src/pages/api/wishlist.js]]
+- [[Quickart-hotspot_footer|Hotspot — src/components/ecommerce/Footer.jsx]]
+- [[Quickart-language_js|Language — js]]
+- [[Quickart-language_jsx|Language — jsx]]
+- [[Quickart-language_json|Language — json]]
+- [[Quickart-language_mjs|Language — mjs]]
+- [[Quickart-language_xml|Language — xml]]
+- [[Quickart-quality_complexity|Quality — Complexity Signals]]
