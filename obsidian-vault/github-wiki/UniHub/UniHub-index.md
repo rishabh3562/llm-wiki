@@ -2,9 +2,10 @@
 repo: UniHub
 type: index
 commit: 41af8fa9d37bda61748a08ccef2acf06d3244029
-date: 2026-04-23
+date: 2026-05-02
 tags: [UniHub, index]
 ---
+
 # UniHub — Index
 
 ## What This Repo Is
@@ -30,3 +31,20 @@ c4ba258 2024-04-22 build (rishabh3562)
 - [[UniHub-patterns|Patterns]]
 - [[UniHub-improvements|Improvements]]
 - [[UniHub-self_portrait|Self Portrait]]
+- [[UniHub-module_src|Module — src]]
+- [[UniHub-module_public|Module — public]]
+- [[UniHub-hotspot_package-lock|Hotspot — package-lock.json]]
+- [[UniHub-hotspot_scheduleeventmodal|Hotspot — src/AppAdmin/RFMWs/components/ScheduleEventModal.js]]
+- [[UniHub-hotspot_gallery|Hotspot — src/App/ScreenComponents/GalleryComponent/Gallery.js]]
+- [[UniHub-hotspot_profile|Hotspot — src/App/ScreenComponents/UserProfileComponent/Profile.js]]
+- [[UniHub-hotspot_viewprofile|Hotspot — src/App/ScreenComponents/AlumnusComponent/ViewProfile.js]]
+- [[UniHub-hotspot_alumniupdateprofile|Hotspot — src/App/ScreenComponents/UserProfileComponent/components/AlumniUpdateProfile.js]]
+- [[UniHub-hotspot_allphotos|Hotspot — src/AppAdmin/GalleryScreen/AllPhotos.js]]
+- [[UniHub-hotspot_jobadd|Hotspot — src/App/ScreenComponents/CareerComponent/components/JobAdd.js]]
+- [[UniHub-hotspot_navbar|Hotspot — src/App/Layout/Navbar.js]]
+- [[UniHub-hotspot_alumnieditprofile|Hotspot — src/App/ScreenComponents/UserProfileComponent/components/AlumniEditProfile.js]]
+- [[UniHub-hotspot_career|Hotspot — src/App/ScreenComponents/CareerComponent/Career.js]]
+- [[UniHub-hotspot_eventlist|Hotspot — src/App/ScreenComponents/WebinerComponent/Components/EventList.js]]
+- [[UniHub-language_js|Language — js]]
+- [[UniHub-language_json|Language — json]]
+- [[UniHub-quality_complexity|Quality — Complexity Signals]]

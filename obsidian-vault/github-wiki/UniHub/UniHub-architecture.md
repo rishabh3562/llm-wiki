@@ -2,11 +2,13 @@
 repo: UniHub
 type: architecture
 commit: 41af8fa9d37bda61748a08ccef2acf06d3244029
-date: 2026-04-23
+date: 2026-05-02
 tags: [UniHub, architecture]
 related: [[UniHub-index]]
 ---
+
 # Architecture — UniHub
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 1832055 Apr 23 12:16 ./src/App/Constants/userDp.svg
