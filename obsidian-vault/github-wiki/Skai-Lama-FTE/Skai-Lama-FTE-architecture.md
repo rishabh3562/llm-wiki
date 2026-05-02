@@ -2,11 +2,13 @@
 repo: Skai-Lama-FTE
 type: architecture
 commit: 293e1416f1dbbf6f3218756c4a490284084ae9a0
-date: 2026-04-23
+date: 2026-05-02
 tags: [Skai-Lama-FTE, architecture]
 related: [[Skai-Lama-FTE-index]]
 ---
+
 # Architecture — Skai-Lama-FTE
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 318867 Apr 23 12:11 ./frontend/package-lock.json
