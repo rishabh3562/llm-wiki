@@ -1,0 +1,21 @@
+---
+repo: Zip-Link
+type: hotspot_browser-umd
+commit: b3b37df80a632ed7087f483b0f6871304cef35cc
+date: 2026-05-02
+tags: [Zip-Link, hotspot_browser-umd]
+related: [[Zip-Link-index]]
+---
+
+# Hotspot — backend/node_modules/mongoose/dist/browser.umd.js
+
+## Why it matters
+This is one of the largest code files in the repository.
+
+## File details
+- Size: 847905 bytes
+- Related core note: [[Zip-Link-architecture]]
+- Related patterns: [[Zip-Link-patterns]]
+
+## Reading guide
+Use this note to inspect implementation density, likely responsibilities, and refactor opportunities.
