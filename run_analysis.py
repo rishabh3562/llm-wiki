@@ -205,11 +205,30 @@ def prepare_repo(repo):
         if last_err:
             raise last_err
     else:
-        subprocess.run(["git","fetch","origin"], cwd=path)
-        try:
-            subprocess.run(["git","reset","--hard","origin/HEAD"], cwd=path, check=True)
-        except subprocess.CalledProcessError:
-            subprocess.run(["git","reset","--hard","origin/main"], cwd=path, check=True)
+        remote_check = subprocess.run(["git", "remote"], cwd=path, capture_output=True, text=True)
+        if remote_check.returncode != 0 or not remote_check.stdout.strip():
+            subprocess.run(["rm", "-rf", str(path)], check=True)
+            return prepare_repo(repo)
+
+        subprocess.run(["git","fetch","origin"], cwd=path, check=True)
+
+        reset_targets = [
+            "origin/HEAD",
+            "origin/master",
+            "origin/main",
+            "master",
+            "main",
+        ]
+        last_err = None
+        for target in reset_targets:
+            try:
+                subprocess.run(["git","reset","--hard",target], cwd=path, check=True)
+                last_err = None
+                break
+            except subprocess.CalledProcessError as e:
+                last_err = e
+        if last_err:
+            raise last_err
     return path
 
 def phase_archaeology(repo_path, repo_name):
