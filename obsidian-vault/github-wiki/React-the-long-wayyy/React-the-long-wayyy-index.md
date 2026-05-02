@@ -2,9 +2,10 @@
 repo: React-the-long-wayyy
 type: index
 commit: 4b038a82faeec5a7493056eba930f3795dc18ee7
-date: 2026-04-23
+date: 2026-05-02
 tags: [React-the-long-wayyy, index]
 ---
+
 # React-the-long-wayyy — Index
 
 ## What This Repo Is
@@ -32,3 +33,12 @@ tags: [React-the-long-wayyy, index]
 - [[React-the-long-wayyy-patterns|Patterns]]
 - [[React-the-long-wayyy-improvements|Improvements]]
 - [[React-the-long-wayyy-self_portrait|Self Portrait]]
+- [[React-the-long-wayyy-module_emoji-counter|Module — emoji-counter]]
+- [[React-the-long-wayyy-hotspot_package-lock|Hotspot — emoji-counter/package-lock.json]]
+- [[React-the-long-wayyy-hotspot_app|Hotspot — emoji-counter/src/App.jsx]]
+- [[React-the-long-wayyy-hotspot_eslint-config|Hotspot — emoji-counter/eslint.config.js]]
+- [[React-the-long-wayyy-hotspot_package|Hotspot — emoji-counter/package.json]]
+- [[React-the-long-wayyy-hotspot_vite-config|Hotspot — emoji-counter/vite.config.js]]
+- [[React-the-long-wayyy-hotspot_main|Hotspot — emoji-counter/src/main.jsx]]
+- [[React-the-long-wayyy-language_json|Language — json]]
+- [[React-the-long-wayyy-language_js|Language — js]]
