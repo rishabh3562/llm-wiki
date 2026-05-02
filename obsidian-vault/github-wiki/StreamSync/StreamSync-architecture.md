@@ -2,11 +2,13 @@
 repo: StreamSync
 type: architecture
 commit: ec579e0458a0e94bde355c77929dad100f1d96b6
-date: 2026-04-23
+date: 2026-05-02
 tags: [StreamSync, architecture]
 related: [[StreamSync-index]]
 ---
+
 # Architecture — StreamSync
+
 ## Key Files (by size)
 
 -rw-r--r-- 1 root root 289393 Apr 23 12:14 ./package-lock.json
