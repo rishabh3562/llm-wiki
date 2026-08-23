@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e357118766122350",
+        "id": "214c94109dea901b",
         "type": "tabs",
         "children": [
           {
-            "id": "afa5a356dbe8f730",
+            "id": "3da5bdf6ca323a91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "BotHive/BotHive-intent_recovery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BotHive-intent_recovery"
             }
           }
         ]
@@ -176,35 +180,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "afa5a356dbe8f730",
+  "active": "ace89a94bbbad781",
   "lastOpenFiles": [
+    "BotHive/BotHive-index.md",
+    "BotHive/BotHive-architecture.md",
+    "aicte_colleges/aicte_colleges-architecture.md",
+    "3Lanze/3Lanze-architecture.md",
+    "ts-practice/ts-practice-architecture.md",
+    "ToolBox/architecture.md",
+    "ToolBox/intent_recovery.md",
+    "ToolBox/improvements.md",
+    "E-Comm-MERN/E-Comm-MERN-architecture.md",
+    "Calculator-project/Calculator-project-intent_recovery.md",
+    "Calculator-project/Calculator-project-improvements.md",
+    "Calculator-project/Calculator-project-architecture.md",
+    "chatapp-yt-microservices/chatapp-yt-microservices-improvements.md",
+    "CodeCraft/CodeCraft-intent_recovery.md",
+    "CodeCraft/CodeCraft-architecture.md",
+    "brain/brain-architecture.md",
+    "DSA-Cp/DSA-Cp-index.md",
+    "meteor/meteor-architecture.md",
+    "meteor/meteor-module_scripts.md",
+    "meteor/meteor-index.md",
+    "Untitled.base",
+    "2026-05-02.md",
+    "Untitled 1.canvas",
     "EduSolve/EduSolve-hotspot_page.md",
     "MyTools/MyTools-static_analysis.md",
     "MyTools/MyTools-self_portrait.md",
     "MyTools/MyTools-patterns.md",
     "MyTools/MyTools-module_mytools.md",
-    "MyTools/MyTools-language_mjs.md",
-    "MyTools/MyTools-language_json.md",
-    "MyTools/MyTools-language_js.md",
-    "MyTools/MyTools-intent_recovery.md",
-    "MyTools/MyTools-index.md",
-    "MyTools/MyTools-improvements.md",
-    "MyTools/MyTools-hotspot_tailwind-config.md",
-    "MyTools/MyTools-hotspot_postcss-config.md",
-    "MyTools/MyTools-hotspot_page.md",
-    "MyTools/MyTools-hotspot_package.md",
-    "MyTools/MyTools-hotspot_package-lock.md",
-    "MyTools/MyTools-hotspot_next-config.md",
-    "MyTools/MyTools-hotspot_linkedinpost.md",
-    "MyTools/MyTools-hotspot_layout.md",
-    "MyTools/MyTools-hotspot_jsconfig.md",
-    "MyTools/MyTools-hotspot_eslintrc.md",
-    "MyTools/MyTools-architecture.md",
     "MyTools",
-    "Mycode/Mycode-static_analysis.md",
-    "Mycode/Mycode-self_portrait.md",
-    "Mycode/Mycode-quality_complexity.md",
-    "Mycode/Mycode-patterns.md",
     "Mycode",
     "lodging-website",
     "linear-clone",
@@ -213,7 +219,6 @@
     "LinkTree",
     "Latency-Topology-Visualizer",
     "InsightPulse",
-    "HireQuotient",
     "Untitled.canvas"
   ]
 }
