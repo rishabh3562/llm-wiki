@@ -34,3 +34,4 @@ a3bb1628 2022-11-22 update Contributors.md (Roshan Jossy)
 - [[first-contributions-hotspot_funding|Hotspot — .github/FUNDING.yml]]
 - [[first-contributions-language_yml|Language — yml]]
 - [[first-contributions-quality_complexity|Quality — Complexity Signals]]
+- [Trịnh Bảo Long](https://github.com/Gonztbl)
