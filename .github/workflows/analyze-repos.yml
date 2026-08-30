@@ -25,6 +25,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
+      - name: Debug - show everything
+        run: |
+          echo "=== PWD ==="
+          pwd
+          echo "=== GITHUB_WORKSPACE ==="
+          echo $GITHUB_WORKSPACE
+          echo "=== ROOT FILES ==="
+          ls -la
+          echo "=== SRC ==="
+          ls -la src/
+          echo "=== SRC/LLM_WIKI ==="
+          ls -la src/llm_wiki/
+          cat pyproject.toml
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -37,13 +51,20 @@ jobs:
           pip install -r requirements.txt --verbose
       
       - name: Install package
-        run: pip install -e . --verbose
-      
-      - name: Verify Python path setup
         run: |
-          python -c "import sys; print('\n'.join(sys.path))"
-          python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
-          python -c "from llm_wiki.config import config; print('Config loaded:', config.github_user)"
+          pip install -e . --verbose 2>&1 | tee install.log
+          echo "INSTALL_EXIT_CODE: ${PIPESTATUS[0]}"
+        env:
+          PIP_VERBOSE: 1
+      
+      - name: Check install
+        if: failure()
+        run: cat install.log
+      
+      - name: Verify import
+        run: |
+          python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('OK:', llm_wiki.__version__)"
+          python -c "from llm_wiki.config import config; print('Config:', config.github_user)"
       
       - name: Run repo analysis
         run: |
@@ -59,12 +80,11 @@ jobs:
             git commit -m "chore: update vault from repo analysis"
             git push
           else
-            echo "No vault changes to commit"
+            echo "No vault changes"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       
       - name: Log result
         if: always()
-        run: |
-          echo "Analysis completed with status: ${{ job.status }}"
+        run: echo "Done"
