@@ -48,14 +48,16 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt --verbose
       
+      - name: Install package in development mode
+        run: pip install -e . --verbose
+      
       - name: Verify Python path setup
         run: |
+          python -c "import sys; print('\n'.join(sys.path))"
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
           python -c "from llm_wiki.config import config; print('Config loaded:', config.github_user)"
       
       - name: Run repo analysis
-        env:
-          PYTHONPATH: /home/runner/work/llm-wiki/llm-wiki/src
         run: |
           python -m llm_wiki.analyze
       
