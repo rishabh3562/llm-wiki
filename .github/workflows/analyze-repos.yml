@@ -48,8 +48,15 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt --verbose
       
-      - name: Install package in development mode
-        run: pip install -e . --verbose
+      - name: Install package with verbose output
+        run: |
+          set -x
+          pip install -e . --verbose 2>&1 | tee pip_install.log
+          echo "Exit code: ${PIPESTATUS[0]}"
+      
+      - name: Show install log on failure
+        if: failure()
+        run: cat pip_install.log
       
       - name: Verify Python path setup
         run: |
