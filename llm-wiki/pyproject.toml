@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-wiki"
+version = "1.0.0"
+description = "Automated GitHub repository analysis pipeline with MongoDB + Obsidian vault"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pymongo>=4.6.0",
+    "requests>=2.31.0",
+    "gitpython>=3.1.0",
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0.0",
+    "openai>=1.0.0",
+    "sentence-transformers>=2.2.0",
+    "torch>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-mock>=3.10.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/rishabh3562/llm-wiki"
+Repository = "https://github.com/rishabh3562/llm-wiki"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["llm_wiki*"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+select = ["E", "F", "I", "UP", "B", "C4", "SIM", "T20"]
+ignore = ["E501", "B008"]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
