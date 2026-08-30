@@ -53,6 +53,8 @@ jobs:
       
       - name: Verify Python path setup
         run: |
+          set -euo pipefail
+          echo "=== Python path ==="
           python -c "import sys; print('\n'.join(sys.path))"
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
           python -c "from llm_wiki.config import config; print('Config loaded:', config.github_user)"
