@@ -55,8 +55,16 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt --verbose
       
-      - name: Install package
-        run: pip install -e . --verbose
+      - name: Install package with debug
+        run: |
+          pip install -e . --verbose 2>&1 | tee pip_install.log
+          echo "Exit code: ${PIPESTATUS[0]}"
+        env:
+          PIP_VERBOSE: 1
+      
+      - name: Show install log on failure
+        if: failure()
+        run: cat pip_install.log
       
       - name: Verify installation
         run: |
