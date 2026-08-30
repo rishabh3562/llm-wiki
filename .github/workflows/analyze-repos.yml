@@ -30,6 +30,9 @@ jobs:
           pwd
           ls -la
           echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
+          echo "RUNNER_TEMP: $RUNNER_TEMP"
+          echo "=== All files ==="
+          find . -maxdepth 3 -type f -name "*.py" -o -name "*.toml" -o -name "*.txt" | head -30
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,10 +44,6 @@ jobs:
         run: |
           pwd
           ls -la
-          echo "=== src directory ==="
-          ls -la src/
-          echo "=== src/llm_wiki ==="
-          ls -la src/llm_wiki/
           cat pyproject.toml
       
       - name: Set up Python
