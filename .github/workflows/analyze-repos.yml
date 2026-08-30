@@ -1,0 +1,61 @@
+name: Analyze Next Repo
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: read
+    
+    env:
+      MONGODB_URI: ${{ secrets.MONGODB_URI }}
+      OG_MONGODB_URI: ${{ secrets.OG_MONGODB_URI }}
+      GH_PAT: ${{ secrets.GH_PAT }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      GITHUB_USER: rishabh3562
+      ANALYSIS_MODEL: nvidia/nemotron-3-ultra-550b:free
+      EMBEDDING_MODEL: text-embedding-3-small
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run repo analysis
+        run: |
+          python -m llm_wiki.analyze
+      
+      - name: Commit vault updates
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add obsidian-vault/
+            git commit -m "chore: update vault from repo analysis"
+            git push
+          else
+            echo "No vault changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      
+      - name: Log result
+        if: always()
+        run: |
+          echo "Analysis completed with status: ${{ job.status }}"
