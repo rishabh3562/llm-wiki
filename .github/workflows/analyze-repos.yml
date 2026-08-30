@@ -33,12 +33,13 @@ jobs:
       
       - name: Install dependencies
         run: |
-          set -x
+          set -euo pipefail
           pip install --upgrade pip
           pip install -r requirements.txt --verbose
           pip install -e . --verbose
         env:
           PIP_VERBOSE: 1
+          PIP_NO_CACHE_DIR: 1
       
       - name: Debug package structure
         run: |
