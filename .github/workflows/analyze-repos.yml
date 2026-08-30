@@ -31,21 +31,25 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
       
+      - name: Show Python and pip versions
+        run: |
+          python --version
+          pip --version
+          ls -la
+          cat requirements.txt
+      
       - name: Install dependencies
         run: |
-          set -euo pipefail
           pip install --upgrade pip
-          pip install -r requirements.txt --verbose
-          pip install -e . --verbose
-        env:
-          PIP_VERBOSE: 1
-          PIP_NO_CACHE_DIR: 1
+          pip install -r requirements.txt
       
-      - name: Debug package structure
+      - name: Install package
+        run: pip install -e .
+      
+      - name: Verify installation
         run: |
-          echo "=== Package structure ==="
-          find src -name "*.py" | head -20
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
+          python -c "from llm_wiki.config import config; print('Config loaded:', config.github_user)"
       
       - name: Run repo analysis
         run: |
