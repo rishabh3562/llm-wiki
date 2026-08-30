@@ -30,9 +30,8 @@ jobs:
           pwd
           ls -la
           echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
-          echo "RUNNER_TEMP: $RUNNER_TEMP"
           echo "=== All files ==="
-          find . -maxdepth 3 -type f -name "*.py" -o -name "*.toml" -o -name "*.txt" | head -30
+          find . -maxdepth 3 -type f \( -name "*.py" -o -name "*.toml" -o -name "*.txt" \) | head -30
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -71,7 +70,7 @@ jobs:
         run: |
           set -euo pipefail
           echo "=== Python path ==="
-          python -c "import sys; print('\n'.join(sys.path))"
+          python -c "import sys; print('\\n'.join(sys.path))"
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
           python -c "from llm_wiki.config import config; print('Config loaded:', config.github_user)"
       
