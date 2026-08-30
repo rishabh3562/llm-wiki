@@ -25,13 +25,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Debug - show working directory
-        run: |
-          pwd
-          ls -la
-          echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
-          echo "RUNNER_TEMP: $RUNNER_TEMP"
-      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -55,23 +48,14 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt --verbose
       
-      - name: Install package with debug
-        run: |
-          pip install -e . --verbose 2>&1 | tee pip_install.log
-          echo "Exit code: ${PIPESTATUS[0]}"
-        env:
-          PIP_VERBOSE: 1
-      
-      - name: Show install log on failure
-        if: failure()
-        run: cat pip_install.log
-      
-      - name: Verify installation
+      - name: Verify Python path setup
         run: |
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
           python -c "from llm_wiki.config import config; print('Config loaded:', config.github_user)"
       
       - name: Run repo analysis
+        env:
+          PYTHONPATH: /home/runner/work/llm-wiki/llm-wiki/src
         run: |
           python -m llm_wiki.analyze
       
