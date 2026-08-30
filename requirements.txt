@@ -1,0 +1,17 @@
+# Core dependencies (required)
+pymongo>=4.6.0
+requests>=2.31.0
+gitpython>=3.1.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# OpenRouter / LLM
+openai>=1.0.0  # OpenRouter uses OpenAI-compatible API
+
+# Optional: for embeddings (install locally, not in CI)
+# sentence-transformers>=2.2.0
+# torch>=2.0.0
+
+# Testing
+pytest>=7.0.0
+pytest-mock>=3.10.0
