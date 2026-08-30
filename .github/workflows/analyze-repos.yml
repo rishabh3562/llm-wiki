@@ -8,7 +8,7 @@ on:
 jobs:
   analyze:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
     permissions:
       contents: read
     
@@ -35,7 +35,13 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-          pip install -e .
+          pip install -e . --verbose
+      
+      - name: Debug package structure
+        run: |
+          echo "=== Package structure ==="
+          find src -name "*.py" | head -20
+          python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('Import OK:', llm_wiki.__version__)"
       
       - name: Run repo analysis
         run: |
