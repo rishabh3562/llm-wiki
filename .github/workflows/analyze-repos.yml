@@ -31,20 +31,30 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
       
-      - name: Show Python and pip versions
+      - name: Show project structure
         run: |
-          python --version
-          pip --version
+          echo "=== Repository root ==="
           ls -la
-          cat requirements.txt
+          echo "=== src directory ==="
+          ls -la src/
+          echo "=== src/llm_wiki ==="
+          ls -la src/llm_wiki/
+          cat pyproject.toml
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
       
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt --verbose 2>&1
       
-      - name: Install package
-        run: pip install -e .
+      - name: Install package in development mode
+        run: |
+          pip install -e . --verbose 2>&1
       
       - name: Verify installation
         run: |
