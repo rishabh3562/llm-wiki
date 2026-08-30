@@ -25,6 +25,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
+      - name: Debug - show working directory
+        run: |
+          pwd
+          ls -la
+          echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
+          echo "RUNNER_TEMP: $RUNNER_TEMP"
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -33,12 +40,8 @@ jobs:
       
       - name: Show project structure
         run: |
-          echo "=== Repository root ==="
+          pwd
           ls -la
-          echo "=== src directory ==="
-          ls -la src/
-          echo "=== src/llm_wiki ==="
-          ls -la src/llm_wiki/
           cat pyproject.toml
       
       - name: Set up Python
@@ -50,11 +53,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt --verbose 2>&1
+          pip install -r requirements.txt --verbose
       
-      - name: Install package in development mode
-        run: |
-          pip install -e . --verbose 2>&1
+      - name: Install package
+        run: pip install -e . --verbose
       
       - name: Verify installation
         run: |
