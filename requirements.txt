@@ -8,7 +8,7 @@ python-dotenv>=1.0.0
 # OpenRouter / LLM
 openai>=1.0.0  # OpenRouter uses OpenAI-compatible API
 
-# Optional: for embeddings (install locally, not in CI)
+# Optional: for embeddings (install locally with: pip install -e .[ml])
 # sentence-transformers>=2.2.0
 # torch>=2.0.0
 
