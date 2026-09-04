@@ -34,7 +34,15 @@ jobs:
           pip install -r requirements.txt --verbose
       
       - name: Install package
-        run: pip install -e . --verbose
+        run: |
+          pip install -e . --verbose 2>&1 | tee install.log
+          echo "INSTALL_EXIT_CODE: ${PIPESTATUS[0]}"
+        env:
+          PIP_VERBOSE: 1
+      
+      - name: Check install log
+        if: failure()
+        run: cat install.log
       
       - name: Verify import
         run: |
