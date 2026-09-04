@@ -47,7 +47,7 @@ jobs:
       - name: Verify import
         run: |
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('OK:', llm_wiki.__version__)"
-          python -c "from llm_wiki.config import config; print('Config:', config.github_user)"
+          python -c "import sys; sys.path.insert(0, 'src'); from llm_wiki.config import config; print('Config:', config.github_user)"
       
       - name: Run repo analysis
         run: |
