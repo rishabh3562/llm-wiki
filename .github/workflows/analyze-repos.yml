@@ -51,23 +51,19 @@ jobs:
         if: failure()
         run: cat install.log
       
-      - name: Verify import
+      - name: Verify import with sys.path
         run: |
           python -c "import sys; sys.path.insert(0, 'src'); import llm_wiki; print('OK:', llm_wiki.__version__)"
           python -c "import sys; sys.path.insert(0, 'src'); from llm_wiki.config import config; print('Config:', config.github_user)"
-        env:
-          PYTHONPATH: src
       
       - name: Test installed package
         run: |
-          python -c "import llm_wiki; print('Package import OK:', llm_wiki.__version__)"
+          python -c "import sys; print('sys.path:', sys.path); import llm_wiki; print('Package import OK:', llm_wiki.__version__)"
           python -c "from llm_wiki.config import config; print('Config import OK:', config.github_user)"
       
       - name: Run repo analysis
         run: |
           python -m llm_wiki.analyze
-        env:
-          PYTHONPATH: src
       
       - name: Commit vault updates
         if: always()
