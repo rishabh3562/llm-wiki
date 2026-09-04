@@ -58,6 +58,11 @@ jobs:
         env:
           PYTHONPATH: src
       
+      - name: Test installed package
+        run: |
+          python -c "import llm_wiki; print('Package import OK:', llm_wiki.__version__)"
+          python -c "from llm_wiki.config import config; print('Config import OK:', config.github_user)"
+      
       - name: Run repo analysis
         run: |
           python -m llm_wiki.analyze
