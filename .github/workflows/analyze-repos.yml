@@ -2,7 +2,7 @@ name: Analyze Next Repo
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,6 @@ jobs:
     timeout-minutes: 30
     permissions:
       contents: read
-    
     env:
       MONGODB_URI: ${{ secrets.MONGODB_URI }}
       OG_MONGODB_URI: ${{ secrets.OG_MONGODB_URI }}
@@ -20,24 +19,8 @@ jobs:
       GITHUB_USER: rishabh3562
       ANALYSIS_MODEL: nvidia/nemotron-3-ultra-550b:free
       EMBEDDING_MODEL: text-embedding-3-small
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      
-      - name: Debug - show everything
-        run: |
-          echo "=== PWD ==="
-          pwd
-          echo "=== GITHUB_WORKSPACE ==="
-          echo $GITHUB_WORKSPACE
-          echo "=== ROOT FILES ==="
-          ls -la
-          echo "=== SRC ==="
-          ls -la src/
-          echo "=== SRC/LLM_WIKI ==="
-          ls -la src/llm_wiki/
-          cat pyproject.toml
+      - uses: actions/checkout@v4
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,15 +34,7 @@ jobs:
           pip install -r requirements.txt --verbose
       
       - name: Install package
-        run: |
-          pip install -e . --verbose 2>&1 | tee install.log
-          echo "INSTALL_EXIT_CODE: ${PIPESTATUS[0]}"
-        env:
-          PIP_VERBOSE: 1
-      
-      - name: Check install
-        if: failure()
-        run: cat install.log
+        run: pip install -e . --verbose
       
       - name: Verify import
         run: |
